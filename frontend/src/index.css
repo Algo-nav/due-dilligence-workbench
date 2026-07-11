@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-serif: ui-serif, Georgia, "Times New Roman", serif;
+
+  --color-ink-950: #0f1720;
+  --color-ink-900: #16212e;
+  --color-ink-800: #1f2d3d;
+  --color-ink-700: #2c3e50;
+  --color-ink-600: #445468;
+  --color-ink-500: #64748b;
+  --color-ink-400: #94a3b8;
+  --color-ink-300: #cbd5e1;
+  --color-ink-200: #e2e8f0;
+  --color-ink-100: #eef1f5;
+  --color-ink-50: #f8f9fb;
+
+  --color-paper: #fbfaf7;
+
+  --color-brass-700: #8a6d3b;
+  --color-brass-600: #a9863f;
+  --color-brass-500: #bfa15c;
+  --color-brass-100: #f3ecda;
+
+  --color-signal-red: #b3403c;
+  --color-signal-amber: #b98a2e;
+  --color-signal-green: #3f7554;
+}
+
+html {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  background: var(--color-paper);
+  color: var(--color-ink-800);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+@media print {
+  @page {
+    margin: 18mm 14mm;
+  }
+  html,
+  body {
+    background: #fff;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-break-before {
+    break-before: page;
+  }
+  .print-avoid-break {
+    break-inside: avoid;
+  }
+}

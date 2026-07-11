@@ -1,0 +1,13 @@
+backend/.venv/
+backend/**/__pycache__/
+backend/**/*.pyc
+.DS_Store
+
+# Merged: ensure these are ignored repo-wide
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/

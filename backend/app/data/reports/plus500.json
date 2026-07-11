@@ -1,0 +1,160 @@
+{
+  "input": {
+    "company_name": "Plus500",
+    "website": null,
+    "industry": "PENDING — awaiting content",
+    "geography": "PENDING — awaiting content"
+  },
+  "generated_at": "PENDING — awaiting content",
+  "company_profile": {
+    "legal_name": "Plus500",
+    "website": null,
+    "industry": "PENDING — awaiting content",
+    "geography": "PENDING — awaiting content",
+    "founded_year": "PENDING — awaiting content",
+    "headquarters": "PENDING — awaiting content",
+    "employee_count": "PENDING — awaiting content",
+    "description": "PENDING — awaiting content",
+    "key_facts": [
+      {
+        "label": "PENDING — awaiting content",
+        "value": "PENDING — awaiting content"
+      }
+    ]
+  },
+  "business_model": {
+    "revenue_model": "PENDING — awaiting content",
+    "value_proposition": "PENDING — awaiting content",
+    "key_activities": [
+      "PENDING — awaiting content"
+    ],
+    "key_resources": [
+      "PENDING — awaiting content"
+    ],
+    "channels": [
+      "PENDING — awaiting content"
+    ],
+    "customer_relationships": "PENDING — awaiting content",
+    "cost_structure": [
+      "PENDING — awaiting content"
+    ]
+  },
+  "market_overview": {
+    "narrative": "PENDING — awaiting content",
+    "market_size_summary": "PENDING — awaiting content",
+    "key_stats": [
+      {
+        "label": "PENDING — awaiting content",
+        "value": "PENDING — awaiting content"
+      }
+    ],
+    "regional_notes": "PENDING — awaiting content"
+  },
+  "tam_sam_som": {
+    "tam": {
+      "value": "PENDING — awaiting content",
+      "description": "PENDING — awaiting content"
+    },
+    "sam": {
+      "value": "PENDING — awaiting content",
+      "description": "PENDING — awaiting content"
+    },
+    "som": {
+      "value": "PENDING — awaiting content",
+      "description": "PENDING — awaiting content"
+    },
+    "methodology_note": "PENDING — awaiting content"
+  },
+  "industry_trends": [
+    {
+      "title": "PENDING — awaiting content",
+      "description": "PENDING — awaiting content",
+      "impact": "PENDING — awaiting content"
+    }
+  ],
+  "competitor_landscape": {
+    "competitors": [
+      {
+        "name": "PENDING — awaiting content",
+        "positioning": "PENDING — awaiting content",
+        "strengths": [
+          "PENDING — awaiting content"
+        ],
+        "weaknesses": [
+          "PENDING — awaiting content"
+        ],
+        "estimated_market_share": "PENDING — awaiting content"
+      }
+    ],
+    "competitive_intensity_narrative": "PENDING — awaiting content"
+  },
+  "customer_segments": [
+    {
+      "name": "PENDING — awaiting content",
+      "description": "PENDING — awaiting content",
+      "estimated_size": "PENDING — awaiting content",
+      "needs": [
+        "PENDING — awaiting content"
+      ],
+      "buying_behavior": "PENDING — awaiting content"
+    }
+  ],
+  "swot_analysis": {
+    "strengths": [
+      "PENDING — awaiting content"
+    ],
+    "weaknesses": [
+      "PENDING — awaiting content"
+    ],
+    "opportunities": [
+      "PENDING — awaiting content"
+    ],
+    "threats": [
+      "PENDING — awaiting content"
+    ]
+  },
+  "porters_five_forces": {
+    "forces": [
+      {
+        "force_name": "PENDING — awaiting content",
+        "rating": "PENDING — awaiting content",
+        "rationale": "PENDING — awaiting content"
+      }
+    ],
+    "overall_attractiveness": "PENDING — awaiting content"
+  },
+  "commercial_risks": [
+    {
+      "title": "PENDING — awaiting content",
+      "description": "PENDING — awaiting content",
+      "severity": "PENDING — awaiting content",
+      "likelihood": "PENDING — awaiting content",
+      "mitigation": "PENDING — awaiting content"
+    }
+  ],
+  "growth_opportunities": [
+    {
+      "title": "PENDING — awaiting content",
+      "description": "PENDING — awaiting content",
+      "potential_impact": "PENDING — awaiting content",
+      "timeframe": "PENDING — awaiting content"
+    }
+  ],
+  "key_questions": [
+    {
+      "category": "PENDING — awaiting content",
+      "question": "PENDING — awaiting content"
+    }
+  ],
+  "executive_summary": {
+    "overview": "PENDING — awaiting content",
+    "key_findings": [
+      "PENDING — awaiting content"
+    ],
+    "investment_thesis_notes": [
+      "PENDING — awaiting content"
+    ],
+    "overall_rating": "PENDING — awaiting content",
+    "recommendation": "PENDING — awaiting content"
+  }
+}
