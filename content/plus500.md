@@ -61,6 +61,21 @@ Efficiency defines this business. A lean organisation running a mobile-first pro
 
 **Capital allocation.** Plus500 returned $380 million to shareholders in 2025 and has repurchased about 38% of its shares over time. It announced a further $187.5 million package combining a $100 million buyback with $87.5 million in dividends.
 
+### Chart
+
+**Type:** diverging
+**Title:** Year-on-year change, FY2025
+**Subtitle:** Revenue grew only because ARPU outran a shrinking customer base.
+**Unit:** %
+**Emphasis:** New customers, Active customers
+
+| Label | Value |
+|---|---|
+| New customers | -11 |
+| Active customers | -5 |
+| Revenue | 3 |
+| ARPU | 8 |
+
 ---
 
 ## 3. Market Overview

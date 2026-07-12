@@ -27,6 +27,20 @@ export interface CompanyProfile {
   key_facts: KeyFact[];
 }
 
+export interface ChartSeries {
+  label: string;
+  value: number;
+}
+
+export interface Chart {
+  type: "bar" | "bar_horizontal" | "diverging";
+  title: string;
+  subtitle?: string;
+  unit: string;
+  series: ChartSeries[];
+  emphasis: string[];
+}
+
 export interface BusinessModel {
   revenue_model: string;
   value_proposition: string;
@@ -35,6 +49,7 @@ export interface BusinessModel {
   channels: string[];
   customer_relationships: string;
   cost_structure: string[];
+  chart?: Chart;
 }
 
 export interface KeyStat {

@@ -58,7 +58,20 @@
       "Regulatory compliance across seven jurisdictions.",
       "Clearing infrastructure.",
       "Staff costs stay low relative to peers, which is where the margin comes from."
-    ]
+    ],
+    "chart": {
+      "type": "diverging",
+      "title": "Year-on-year change, FY2025",
+      "subtitle": "Revenue grew only because ARPU outran a shrinking customer base.",
+      "unit": "%",
+      "series": [
+        { "label": "New customers", "value": -11 },
+        { "label": "Active customers", "value": -5 },
+        { "label": "Revenue", "value": 3 },
+        { "label": "ARPU", "value": 8 }
+      ],
+      "emphasis": ["New customers", "Active customers"]
+    }
   },
   "market_overview": {
     "narrative": "Plus500 competes in retail CFD and OTC derivatives, and increasingly in US listed futures and prediction markets. The CFD market is mature and heavily regulated. ESMA leverage caps have capped the European opportunity, which pushed every incumbent to diversify by geography and product. Plus500 is executing that playbook faster than most. The move that matters is its migration from CFD broker into regulated US market infrastructure: clearing, futures and prediction markets. That takes Plus500 up the value chain into a segment with sturdier economics and less regulatory fragility. Prediction markets are the frontier. The segment is young, CFTC-regulated and growing fast, and Plus500 took an infrastructure position through CME, FanDuel, Kalshi and Topstep rather than competing as another retail venue.",

@@ -1,5 +1,5 @@
 """Pydantic schemas for the due diligence report."""
-from typing import List, Optional
+from typing import List, Literal, Optional
 from pydantic import BaseModel, Field
 
 
@@ -27,6 +27,20 @@ class CompanyProfile(BaseModel):
     key_facts: List[KeyFact]
 
 
+class ChartSeries(BaseModel):
+    label: str
+    value: float
+
+
+class Chart(BaseModel):
+    type: Literal["bar", "bar_horizontal", "diverging"]
+    title: str
+    subtitle: Optional[str] = None
+    unit: str
+    series: List[ChartSeries]
+    emphasis: List[str] = []
+
+
 class BusinessModel(BaseModel):
     revenue_model: str
     value_proposition: str
@@ -35,6 +49,7 @@ class BusinessModel(BaseModel):
     channels: List[str]
     customer_relationships: str
     cost_structure: List[str]
+    chart: Optional[Chart] = None
 
 
 class KeyStat(BaseModel):

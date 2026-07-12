@@ -60,6 +60,20 @@ FTMO earns most of its revenue from traders who fail. Traders who succeed are a 
 
 **Regulated brokerage, new since December 2025.** OANDA's retail FX, CFD, multi-asset and market-data revenue. Lower margin than evaluation fees, and far more defensible.
 
+### Chart
+
+**Type:** bar_horizontal
+**Title:** Staff costs as % of revenue
+**Subtitle:** The margin is not operational genius. It is the absence of regulation.
+**Unit:** %
+**Emphasis:** FTMO
+
+| Label | Value |
+|---|---|
+| CMC Markets | 28.0 |
+| IG Group | 23.4 |
+| FTMO | 2.3 |
+
 ---
 
 ## 3. Market Overview

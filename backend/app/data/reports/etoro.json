@@ -57,7 +57,20 @@
       "Customer acquisition and marketing follow, and both are rising: adjusted operating expenses grew 7% quarter on quarter on higher acquisition costs.",
       "Platform engineering and R&D.",
       "Compliance across every licensed jurisdiction."
-    ]
+    ],
+    "chart": {
+      "type": "bar",
+      "title": "Net contribution by stream, Q1 2026",
+      "subtitle": "Crypto, the supposed core risk, now contributes least.",
+      "unit": "$M",
+      "series": [
+        { "label": "Capital markets", "value": 166 },
+        { "label": "Net interest", "value": 48 },
+        { "label": "eToro Money", "value": 29 },
+        { "label": "Crypto", "value": 13 }
+      ],
+      "emphasis": ["Crypto"]
+    }
   },
   "market_overview": {
     "narrative": "eToro competes in retail online trading and investing, a large market whose revenue swings with retail participation, volatility and interest rates. Retail money moved out of crypto and into commodities through the first half of 2026. eToro's asset breadth let it capture that rotation: capital markets trades rose 90% year on year in Q1 to 243 million, and total invested amount climbed to $50 billion from $39 billion. A second shift matters more for margin. Automated and agentic investing is changing how users trade. Copy trading, Agent Portfolios and the App Store generate far more trades of far smaller size. Invested amount per trade fell about 25% to $197. Management confirmed that agentic and copy flows carry a lower take rate than self-directed trading. Engagement is climbing faster than revenue per trade.",

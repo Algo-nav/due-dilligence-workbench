@@ -1,5 +1,6 @@
 import type { BusinessModel } from "../../types/report";
 import { SectionCard, Prose, BulletList, SubHeading } from "../ui/SectionCard";
+import { ChartCard } from "../ui/ChartCard";
 
 export function BusinessModelSection({ data }: { data: BusinessModel }) {
   return (
@@ -39,6 +40,7 @@ export function BusinessModelSection({ data }: { data: BusinessModel }) {
         <SubHeading>Customer Relationships</SubHeading>
         <Prose>{data.customer_relationships}</Prose>
       </div>
+      {data.chart && <ChartCard chart={data.chart} />}
     </SectionCard>
   );
 }

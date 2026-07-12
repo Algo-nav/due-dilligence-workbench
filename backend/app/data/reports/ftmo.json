@@ -58,7 +58,19 @@
       "Marketing and affiliate commissions follow.",
       "Staff costs are almost negligible at $4.7 million, about 2.3% of revenue. Compare IG Group, whose staff and legal costs run 23.4% of revenue, and CMC Markets at 28.0%.",
       "FTMO carries no compliance department, no trading desk, no trade reporting and no regulatory capital, because the evaluation business sits outside brokerage regulation. That absence is the entire margin story."
-    ]
+    ],
+    "chart": {
+      "type": "bar_horizontal",
+      "title": "Staff costs as % of revenue",
+      "subtitle": "The margin is not operational genius. It is the absence of regulation.",
+      "unit": "%",
+      "series": [
+        { "label": "CMC Markets", "value": 28.0 },
+        { "label": "IG Group", "value": 23.4 },
+        { "label": "FTMO", "value": 2.3 }
+      ],
+      "emphasis": ["FTMO"]
+    }
   },
   "market_overview": {
     "narrative": "Modern prop trading grew fast from 2020 on a simple pitch: undercapitalised retail traders get access to size, and firms monetise the evaluation. FTMO originated the category and leads it. The sector is consolidating under pressure. Dozens of smaller prop firms collapsed in 2024 under payout exposure they could not fund and risk management they never built. When MetaQuotes withdrew platform support from many prop firms that year, operators without regulated infrastructure lost US access overnight. FTMO, The5ers, FundedNext, Funding Pips and Seacrest Funded have since returned to the US. Regulation is the question that decides this industry. Because the trading is simulated rather than executed, prop firms have operated largely outside brokerage rules. That position will not hold forever. Many prop firms have started calling for regulation themselves, which usually signals that incumbents expect it and want to shape rules that entrench scale.",

@@ -64,6 +64,21 @@ eToro reports five streams as "net contribution", which reached $868M in FY2025 
 
 **Subscriptions and other** covers premium tiers at around $5 a month, the App Store and blockchain rewards.
 
+### Chart
+
+**Type:** bar
+**Title:** Net contribution by stream, Q1 2026
+**Subtitle:** Crypto, the supposed core risk, now contributes least.
+**Unit:** $M
+**Emphasis:** Crypto
+
+| Label | Value |
+|---|---|
+| Capital markets | 166 |
+| Net interest | 48 |
+| eToro Money | 29 |
+| Crypto | 13 |
+
 ---
 
 ## 3. Market Overview
