@@ -201,21 +201,18 @@ def _competitor_landscape(i: CompanyInput) -> CompetitorLandscape:
                 positioning=f"Established incumbent with broad {i.industry} coverage across {i.geography}.",
                 strengths=["Brand recognition", "Large installed base", "Balance sheet strength"],
                 weaknesses=["Slower product velocity", "Legacy technology debt"],
-                estimated_market_share="~18%",
             ),
             Competitor(
                 name="Competitor B (illustrative)",
                 positioning="Fast-growing challenger targeting the mid-market with a modern product.",
                 strengths=["Strong product-led growth", "High customer satisfaction"],
                 weaknesses=["Limited enterprise features", "Thin services layer"],
-                estimated_market_share="~9%",
             ),
             Competitor(
                 name="Competitor C (illustrative)",
                 positioning="Niche specialist focused on a specific sub-segment of the market.",
                 strengths=["Deep domain expertise", "High customer stickiness"],
                 weaknesses=["Narrow addressable market", "Limited geographic reach"],
-                estimated_market_share="~5%",
             ),
         ],
         competitive_intensity_narrative=(
@@ -233,21 +230,18 @@ def _customer_segments(i: CompanyInput) -> list[CustomerSegment]:
         CustomerSegment(
             name="Enterprise accounts",
             description=f"Large organizations in {i.geography} with complex, multi-stakeholder buying processes.",
-            estimated_size="~15% of customer base, ~45% of revenue (illustrative)",
             needs=["Reliability at scale", "Dedicated support", "Integration flexibility"],
             buying_behavior="Long sales cycles, procurement-led, multi-year contracts.",
         ),
         CustomerSegment(
             name="Mid-market accounts",
             description="Growing organizations that value speed of implementation and ROI clarity.",
-            estimated_size="~35% of customer base, ~35% of revenue (illustrative)",
             needs=["Fast onboarding", "Predictable pricing", "Responsive support"],
             buying_behavior="Moderate sales cycles, champion-led buying with light procurement.",
         ),
         CustomerSegment(
             name="Small / emerging accounts",
             description="Smaller organizations that are price-sensitive and self-serve oriented.",
-            estimated_size="~50% of customer base, ~20% of revenue (illustrative)",
             needs=["Low friction onboarding", "Transparent pricing", "Self-service tools"],
             buying_behavior="Short sales cycles, often self-serve or low-touch sales assisted.",
         ),

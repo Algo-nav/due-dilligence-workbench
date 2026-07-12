@@ -13,7 +13,7 @@
     "geography": "eToro holds licences with the FCA in the UK, CySEC in Cyprus, ASIC in Australia, US regulators, Abu Dhabi and several EU states.",
     "founded_year": "2007",
     "headquarters": "Tel Aviv, Israel (US headquarters: Hoboken, New Jersey)",
-    "employee_count": "GAP — not disclosed in source material",
+    "employee_count": null,
     "description": "Yoni Assia, his brother Ronen and David Ring founded the company in Tel Aviv in 2007 as RetailFX. It listed on Nasdaq on 14 May 2025 at $52 a share, raising about $620 million. eToro holds licences with the FCA in the UK, CySEC in Cyprus, ASIC in Australia, US regulators, Abu Dhabi and several EU states. It serves roughly 40 million registered users and 4.23 million funded accounts across about 75 countries. Users trade equities, ETFs, commodities, currencies, CFDs and more than 150 cryptoassets across 25 stock exchanges. Copy trading sits at the centre of the product: users replicate the portfolios of other traders. Q1 2026 was the company's strongest quarter since listing. Evidence note: Financials, KPIs and regulatory facts come from eToro's public filings, FY2025 results, Q1 2026 results and disclosed monthly metrics. Market-sizing figures are analyst-constructed estimates with stated assumptions, not third-party market data. A live engagement would triangulate these against named paid sources. Evidence grade: High. The target is listed on Nasdaq and files quarterly.",
     "key_facts": [
       { "label": "Founders", "value": "Yoni Assia, Ronen Assia, David Ring" },
@@ -131,52 +131,45 @@
     "competitors": [
       {
         "name": "Robinhood",
-        "positioning": "GAP — not disclosed in source material",
+        "positioning": "The US mass-market incumbent. Wins on scale and brand at home, and cannot follow eToro abroad.",
         "strengths": ["Dominant US retail brand", "Large scale", "Strong options and crypto franchise", "Fast product cycles"],
-        "weaknesses": ["Thin international footprint", "No social or copy-trading network", "Heavy exposure to US regulatory and payment-for-order-flow dynamics"],
-        "estimated_market_share": "GAP — not disclosed in source material"
+        "weaknesses": ["Thin international footprint", "No social or copy-trading network", "Heavy exposure to US regulatory and payment-for-order-flow dynamics"]
       },
       {
         "name": "Plus500 (LSE: PLUS)",
-        "positioning": "GAP — not disclosed in source material",
+        "positioning": "The efficiency play. Fewer customers, far better margins, and no community.",
         "strengths": ["The best operating efficiency in the sector at a 44% EBITDA margin", "Debt-free", "Disciplined capital returns", "A growing US futures and clearing business"],
-        "weaknesses": ["Active customer base shrank 5% last year", "Narrower product set", "No community layer"],
-        "estimated_market_share": "GAP — not disclosed in source material"
+        "weaknesses": ["Active customer base shrank 5% last year", "Narrower product set", "No community layer"]
       },
       {
         "name": "IG Group",
-        "positioning": "GAP — not disclosed in source material",
+        "positioning": "The legacy incumbent. Broad and trusted, and structurally slower and more expensive.",
         "strengths": ["The largest UK-listed CFD and spread-betting incumbent", "Scale", "Brand heritage", "Institutional reach and broad products"],
-        "weaknesses": ["Higher cost base", "Lower margins", "Slower innovation", "Weaker appeal to mobile-first retail users"],
-        "estimated_market_share": "GAP — not disclosed in source material"
+        "weaknesses": ["Higher cost base", "Lower margins", "Slower innovation", "Weaker appeal to mobile-first retail users"]
       },
       {
         "name": "Trading 212",
-        "positioning": "GAP — not disclosed in source material",
+        "positioning": "The price attacker. Takes eToro's European entry-level users on cost.",
         "strengths": ["Zero-commission pricing that is winning users fast in Europe and the UK, where eToro holds 72% of its funded accounts"],
-        "weaknesses": ["Narrower products", "Unproven profitability through a full cycle", "No community features"],
-        "estimated_market_share": "GAP — not disclosed in source material"
+        "weaknesses": ["Narrower products", "Unproven profitability through a full cycle", "No community features"]
       },
       {
         "name": "XTB",
-        "positioning": "GAP — not disclosed in source material",
+        "positioning": "The regional challenger. Strong where it operates, and limited beyond it.",
         "strengths": ["Strong position in Central and Eastern Europe", "Widening product range", "Competitive pricing", "Fast European growth"],
-        "weaknesses": ["Geographic concentration", "Smaller international brand"],
-        "estimated_market_share": "GAP — not disclosed in source material"
+        "weaknesses": ["Geographic concentration", "Smaller international brand"]
       },
       {
         "name": "Coinbase",
-        "positioning": "GAP — not disclosed in source material",
+        "positioning": "The crypto specialist. Deeper than eToro on one asset class, absent on every other.",
         "strengths": ["The deepest crypto liquidity, custody and institutional infrastructure, which threatens eToro's on-chain ambitions directly"],
-        "weaknesses": ["No equities or commodities offering", "Earnings tied entirely to the crypto cycle that eToro has now diversified away from"],
-        "estimated_market_share": "GAP — not disclosed in source material"
+        "weaknesses": ["No equities or commodities offering", "Earnings tied entirely to the crypto cycle that eToro has now diversified away from"]
       },
       {
         "name": "Revolut",
-        "positioning": "GAP — not disclosed in source material",
+        "positioning": "The super-app rival, running eToro's own strategy from the banking side.",
         "strengths": ["A very large retail base", "A banking-first relationship", "The same super-app strategy eToro is pursuing, approached from the banking side"],
-        "weaknesses": ["Shallower trading depth", "Weaker credibility with active traders"],
-        "estimated_market_share": "GAP — not disclosed in source material"
+        "weaknesses": ["Shallower trading depth", "Weaker credibility with active traders"]
       }
     ],
     "competitive_intensity_narrative": "eToro competes on network effects and asset breadth, not price. Commission-free challengers squeeze it from below, and super-apps and crypto natives press from either side. Q1 2026 showed the breadth is real: no single-asset competitor could have absorbed a crypto collapse and still posted a record quarter."
@@ -185,28 +178,24 @@
     {
       "name": "Copy and automated investors (the core, and growing)",
       "description": "Mainstream retail users who let other traders or AI agents make their decisions. The largest segment by count.",
-      "estimated_size": "GAP — not disclosed in source material",
       "needs": ["Simplicity", "Social validation", "Low-effort investing"],
       "buying_behavior": "Small and frequent trades, with invested amount per trade down to about $197. High engagement. Increasingly served by copy trading and Agent Portfolios, which earn eToro a lower take rate than self-directed trading."
     },
     {
       "name": "Active multi-asset traders (highest value)",
       "description": "Self-directed users trading equities, commodities, currencies and CFDs across the platform's full breadth.",
-      "estimated_size": "GAP — not disclosed in source material",
       "needs": ["Product breadth", "Execution quality", "24/7 access", "Advanced tools"],
       "buying_behavior": "Higher volume and higher value. This group drove the record $166M capital markets contribution and the commodities surge."
     },
     {
       "name": "Crypto-led users (contribution falling)",
       "description": "Users who came for crypto and stayed for it. Once the engagement engine, now a minor profit contributor at $13M in Q1 2026.",
-      "estimated_size": "GAP — not disclosed in source material",
       "needs": ["Asset breadth across 150+ cryptoassets", "Self-custody through Zengo", "On-chain access"],
       "buying_behavior": "Deeply cyclical. Crypto trades fell 31% year on year by May 2026. Valuable at the top of the funnel and for engagement, not for margin."
     },
     {
       "name": "eToro Money users (emerging, strategic)",
       "description": "Around 1.75 million users holding cards, IBANs and cash balances through the neo-banking arm.",
-      "estimated_size": "Around 1.75 million users",
       "needs": ["Cards", "Transfers", "Currency conversion", "Cash management"],
       "buying_behavior": "Transactional and habitual rather than speculative. Money transfers doubled year on year. This is the stickiest and least cyclical relationship eToro has."
     }

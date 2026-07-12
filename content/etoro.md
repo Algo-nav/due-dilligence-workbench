@@ -129,18 +129,25 @@ Market size does not constrain this business. The question worth diligence is wh
 ## 6. Competitor Landscape
 
 **Robinhood.** *Strengths:* dominant US retail brand, large scale, strong options and crypto franchise, fast product cycles. *Weaknesses:* thin international footprint, no social or copy-trading network, heavy exposure to US regulatory and payment-for-order-flow dynamics.
+*Positioning:* The US mass-market incumbent. Wins on scale and brand at home, and cannot follow eToro abroad.
 
 **Plus500 (LSE: PLUS).** *Strengths:* the best operating efficiency in the sector at a 44% EBITDA margin, debt-free, disciplined capital returns, a growing US futures and clearing business. *Weaknesses:* its active customer base shrank 5% last year, its product set is narrower, and it has no community layer.
+*Positioning:* The efficiency play. Fewer customers, far better margins, and no community.
 
 **IG Group.** *Strengths:* the largest UK-listed CFD and spread-betting incumbent, with scale, brand heritage, institutional reach and broad products. *Weaknesses:* a higher cost base, lower margins, slower innovation, weaker appeal to mobile-first retail users.
+*Positioning:* The legacy incumbent. Broad and trusted, and structurally slower and more expensive.
 
 **Trading 212.** *Strengths:* zero-commission pricing that is winning users fast in Europe and the UK, where eToro holds 72% of its funded accounts. *Weaknesses:* narrower products, unproven profitability through a full cycle, no community features.
+*Positioning:* The price attacker. Takes eToro's European entry-level users on cost.
 
 **XTB.** *Strengths:* strong position in Central and Eastern Europe, widening product range, competitive pricing, fast European growth. *Weaknesses:* geographic concentration and a smaller international brand.
+*Positioning:* The regional challenger. Strong where it operates, and limited beyond it.
 
 **Coinbase.** *Strengths:* the deepest crypto liquidity, custody and institutional infrastructure, which threatens eToro's on-chain ambitions directly. *Weaknesses:* no equities or commodities offering, and earnings tied entirely to the crypto cycle that eToro has now diversified away from.
+*Positioning:* The crypto specialist. Deeper than eToro on one asset class, absent on every other.
 
 **Revolut.** *Strengths:* a very large retail base, a banking-first relationship, and the same super-app strategy eToro is pursuing, approached from the banking side. *Weaknesses:* shallower trading depth and weaker credibility with active traders.
+*Positioning:* The super-app rival, running eToro's own strategy from the banking side.
 
 eToro competes on network effects and asset breadth, not price. Commission-free challengers squeeze it from below, and super-apps and crypto natives press from either side. Q1 2026 showed the breadth is real: no single-asset competitor could have absorbed a crypto collapse and still posted a record quarter.
 

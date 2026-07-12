@@ -22,7 +22,7 @@ class CompanyProfile(BaseModel):
     geography: str
     founded_year: str
     headquarters: str
-    employee_count: str
+    employee_count: Optional[str] = None
     description: str
     key_facts: List[KeyFact]
 
@@ -87,7 +87,6 @@ class Competitor(BaseModel):
     positioning: str
     strengths: List[str]
     weaknesses: List[str]
-    estimated_market_share: str
 
 
 class CompetitorLandscape(BaseModel):
@@ -98,7 +97,6 @@ class CompetitorLandscape(BaseModel):
 class CustomerSegment(BaseModel):
     name: str
     description: str
-    estimated_size: str
     needs: List[str]
     buying_behavior: str
 

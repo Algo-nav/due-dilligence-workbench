@@ -14,9 +14,6 @@ export function CustomerSegmentsSection({ data }: { data: CustomerSegment[] }) {
           <div key={segment.name} className="flex flex-col border border-ink-200 bg-white p-5">
             <h4 className="font-serif text-lg text-ink-900">{segment.name}</h4>
             <p className="mt-1 text-sm text-ink-600">{segment.description}</p>
-            <div className="mt-2 text-xs uppercase tracking-wide text-brass-700">
-              {segment.estimated_size}
-            </div>
             <div className="mt-4">
               <div className="mb-1 text-xs font-semibold uppercase tracking-wide text-ink-500">
                 Needs

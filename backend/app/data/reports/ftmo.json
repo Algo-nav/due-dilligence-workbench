@@ -89,8 +89,8 @@
       "description": "Retail prop-trading evaluation fees plausibly generate a low single-digit billions of dollars a year globally. The adjacent regulated retail FX and CFD brokerage market that FTMO now enters through OANDA is much larger, in the low tens of billions."
     },
     "sam": {
-      "value": "GAP — not disclosed in source material",
-      "description": "Evaluation revenue in the markets FTMO can serve, plus OANDA's licensed jurisdictions across the US, UK, Australia, Canada, Japan, Singapore and the EU. The acquisition expands SAM, which is precisely its purpose."
+      "value": "Low single-digit billions of dollars a year (analyst-constructed estimate)",
+      "description": "Estimated low single-digit billions of dollars a year. Evaluation revenue in the markets FTMO can serve, plus OANDA's licensed jurisdictions across the US, UK, Australia, Canada, Japan, Singapore and the EU. The acquisition expands SAM, which is precisely its purpose."
     },
     "som": {
       "value": "About $329 million (FY2024), plus OANDA's revenue base (undisclosed since the deal closed)",
@@ -129,45 +129,39 @@
     "competitors": [
       {
         "name": "The5ers",
-        "positioning": "GAP — not disclosed in source material",
+        "positioning": "The established alternative. Credible and much smaller, with no regulatory path.",
         "strengths": ["A long-standing reputation", "Resumed US operations through cTrader", "Instant-funding and low-drawdown products that appeal to a distinct trader segment"],
-        "weaknesses": ["Far smaller than FTMO", "No regulated brokerage arm", "Limited brand reach outside trading communities"],
-        "estimated_market_share": "GAP — not disclosed in source material"
+        "weaknesses": ["Far smaller than FTMO", "No regulated brokerage arm", "Limited brand reach outside trading communities"]
       },
       {
         "name": "FundedNext",
-        "positioning": "GAP — not disclosed in source material",
+        "positioning": "The fast challenger. Growing on price, exposed on substance.",
         "strengths": ["Fast growth", "Competitive fees", "Strong affiliate marketing", "Restored US access"],
-        "weaknesses": ["A shorter track record", "Thin financial disclosure", "More exposure than FTMO to both payout risk and a regulatory shock"],
-        "estimated_market_share": "GAP — not disclosed in source material"
+        "weaknesses": ["A shorter track record", "Thin financial disclosure", "More exposure than FTMO to both payout risk and a regulatory shock"]
       },
       {
         "name": "Funding Pips",
-        "positioning": "GAP — not disclosed in source material",
+        "positioning": "The discounter. Winning volume, least able to survive a shock.",
         "strengths": ["Aggressive pricing that is winning newer traders quickly"],
-        "weaknesses": ["Almost no disclosed financial substance", "The most vulnerable profile in the sector to consolidation or a payout-exposure shock"],
-        "estimated_market_share": "GAP — not disclosed in source material"
+        "weaknesses": ["Almost no disclosed financial substance", "The most vulnerable profile in the sector to consolidation or a payout-exposure shock"]
       },
       {
         "name": "Topstep",
-        "positioning": "GAP — not disclosed in source material",
+        "positioning": "The only peer with a comparable legitimacy path, via Plus500 clearing. Narrower, in futures alone.",
         "strengths": ["A long history in US futures evaluation", "A regulated infrastructure relationship with Plus500 for clearing and technology, which gives it a legitimacy path comparable to FTMO's"],
-        "weaknesses": ["A narrower asset focus on futures", "A smaller international footprint"],
-        "estimated_market_share": "GAP — not disclosed in source material"
+        "weaknesses": ["A narrower asset focus on futures", "A smaller international footprint"]
       },
       {
         "name": "Crypto Fund Trader",
-        "positioning": "GAP — not disclosed in source material",
+        "positioning": "The niche specialist. Deeper in crypto, dependent on its cycle.",
         "strengths": ["A far deeper crypto offering, with over 700 pairs through a Bybit partnership against FTMO's roughly 32 crypto CFDs", "Faster payouts"],
-        "weaknesses": ["A single-asset-class focus", "Small scale", "Complete dependence on the crypto cycle"],
-        "estimated_market_share": "GAP — not disclosed in source material"
+        "weaknesses": ["A single-asset-class focus", "Small scale", "Complete dependence on the crypto cycle"]
       },
       {
         "name": "Regulated retail brokers (IG, CMC, Plus500, and OANDA before the acquisition)",
-        "positioning": "GAP — not disclosed in source material",
+        "positioning": "The legitimate incumbents. FTMO just bought its way into this group.",
         "strengths": ["Full regulatory standing", "Real market execution", "Institutional credibility and decades of operating history"],
-        "weaknesses": ["Far heavier cost bases, with staff costs at 23% to 28% of revenue against FTMO's 2.3%", "Regulatory capital requirements and structurally lower retail margins", "FTMO has now joined this group by buying OANDA, purchasing the legitimacy it could not build"],
-        "estimated_market_share": "GAP — not disclosed in source material"
+        "weaknesses": ["Far heavier cost bases, with staff costs at 23% to 28% of revenue against FTMO's 2.3%", "Regulatory capital requirements and structurally lower retail margins", "FTMO has now joined this group by buying OANDA, purchasing the legitimacy it could not build"]
       }
     ],
     "competitive_intensity_narrative": "FTMO's edge over other prop firms is not product. Challenge mechanics are commoditised across the sector. Its edge is financial substance and, since December, regulatory standing. In an industry where dozens of firms collapsed and a platform vendor can cut off market access at will, the moat is being the firm with $62.5 million of profit, $82 million of cash before the deal, and eight regulated licences after it. No peer can follow: a $250 million acquisition sits far beyond any of them."
@@ -176,28 +170,24 @@
     {
       "name": "Aspiring and undercapitalised retail traders (the volume core, and the actual revenue source)",
       "description": "Retail traders who want to trade size they cannot fund themselves. The largest segment by a wide margin, and the one that pays the bills.",
-      "estimated_size": "GAP — not disclosed in source material",
       "needs": ["Access to trading capital without personal risk", "Validation", "A path to a trading career"],
       "buying_behavior": "They pay repeated non-refundable fees, commonly $1,000 to $3,000 across attempts before passing or giving up. Most fail. Community, affiliate and social-media marketing drives their acquisition. This cohort generates most of FTMO's revenue because most of them fail."
     },
     {
       "name": "Skilled funded traders (the minority, and a cost line)",
       "description": "Traders who passed and now trade FTMO capital consistently. The proof that makes the marketing work.",
-      "estimated_size": "GAP — not disclosed in source material",
       "needs": ["Large allocations", "High profit splits", "Fast payouts", "Room to scale"],
       "buying_behavior": "Long-tenured and low-churn. They take 80% to 90% profit splits and can scale to $2 million in allocation. They are strategically vital and financially a cost, not a revenue source."
     },
     {
       "name": "Algorithmic and EA traders",
       "description": "Technically sophisticated traders running automated strategies across MT4, MT5, cTrader and DXtrade.",
-      "estimated_size": "GAP — not disclosed in source material",
       "needs": ["Multi-platform support", "Permissive automation rules"],
       "buying_behavior": "Platform-driven, and the segment most exposed to platform-provider risk."
     },
     {
       "name": "OANDA's retail and corporate brokerage clients (new since December 2025)",
       "description": "Conventional brokerage customers acquired with OANDA, trading real markets under regulated execution.",
-      "estimated_size": "GAP — not disclosed in source material",
       "needs": ["Regulated execution", "Multi-asset access", "Currency data and analytics"],
       "buying_behavior": "Standard regulated-brokerage relationships. Lower margin than evaluation fees, and recurring, licensed and defensible in a way evaluation fees are not."
     }

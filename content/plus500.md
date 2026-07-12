@@ -123,16 +123,22 @@ Sizing is not the issue. The question worth diligence is whether the non-OTC eng
 ## 6. Competitor Landscape
 
 **IG Group.** *Strengths:* the largest UK-listed CFD and spread-betting incumbent, with scale, brand heritage, a broad product set and real institutional presence. *Weaknesses:* a higher cost base and materially lower operating margins than Plus500, and slower technology cycles.
+*Positioning:* The scale incumbent. Bigger than Plus500 and materially less efficient.
 
 **CMC Markets.** *Strengths:* a respected proprietary platform and strong institutional and B2B partnerships. *Weaknesses:* smaller scale, thinner and more volatile margins, and greater earnings sensitivity to market conditions.
+*Positioning:* The mid-tier peer. Similar model, weaker economics.
 
 **eToro (NASDAQ: ETOR).** *Strengths:* a differentiated social and copy-trading network, roughly 40 million registered users, and strong crypto and brand presence. *Weaknesses:* far weaker margin quality, with heavy reliance on thin-margin crypto intermediation, and less operational efficiency.
+*Positioning:* The volume play. More users and more brand, far worse margin quality.
 
 **Trading 212.** *Strengths:* zero-commission pricing winning users fast across Plus500's core European markets. *Weaknesses:* a narrower product range, unproven profitability through a full cycle, and less regulatory breadth.
+*Positioning:* The price attacker, taking Plus500's entry-level European base on cost.
 
 **XTB.** *Strengths:* a strong Central and Eastern European position, widening products, competitive pricing and fast European growth. *Weaknesses:* a smaller international footprint and more concentrated geographic exposure.
+*Positioning:* The regional challenger, strong in Central and Eastern Europe.
 
 **Interactive Brokers.** *Strengths:* global scale in futures and professional-grade infrastructure, which puts it directly across from Plus500's US futures ambitions. *Weaknesses:* less accessible to mainstream retail and weaker in the mobile-first mass-market CFD segment.
+*Positioning:* The futures incumbent. The main obstacle to Plus500's non-OTC growth thesis.
 
 Plus500 does not differentiate on product. It differentiates on operating efficiency and technology. Its 44% EBITDA margin and lean cost base sit structurally above IG and CMC, and its capital returns lead the sector. The open question is whether efficiency alone holds off commission-free challengers eroding the retail base from below while Interactive Brokers contests the futures upside from above.
 

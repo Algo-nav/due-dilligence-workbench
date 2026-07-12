@@ -98,7 +98,7 @@ Regulation is the question that decides this industry. Because the trading is si
 
 **TAM.** Retail prop-trading evaluation fees plausibly generate a low single-digit billions of dollars a year globally. The adjacent regulated retail FX and CFD brokerage market that FTMO now enters through OANDA is much larger, in the low tens of billions.
 
-**SAM.** Evaluation revenue in the markets FTMO can serve, plus OANDA's licensed jurisdictions across the US, UK, Australia, Canada, Japan, Singapore and the EU. The acquisition expands SAM, which is precisely its purpose.
+**SAM.** Estimated low single-digit billions of dollars a year. Evaluation revenue in the markets FTMO can serve, plus OANDA's licensed jurisdictions across the US, UK, Australia, Canada, Japan, Singapore and the EU. The acquisition expands SAM, which is precisely its purpose.
 
 **SOM.** FTMO captures about $329 million (FY2024), plus OANDA's revenue base, which has not been separately disclosed since the deal closed. FTMO leads the category on revenue. The growth question is whether the brokerage arm can scale without destroying the margin that makes the group attractive.
 
@@ -123,16 +123,22 @@ Sizing is secondary here. What matters is whether $329 million of high-margin, s
 ## 6. Competitor Landscape
 
 **The5ers.** *Strengths:* a long-standing reputation, resumed US operations through cTrader, and instant-funding and low-drawdown products that appeal to a distinct trader segment. *Weaknesses:* far smaller than FTMO, no regulated brokerage arm, and limited brand reach outside trading communities.
+*Positioning:* The established alternative. Credible and much smaller, with no regulatory path.
 
 **FundedNext.** *Strengths:* fast growth, competitive fees, strong affiliate marketing, and restored US access. *Weaknesses:* a shorter track record, thin financial disclosure, and more exposure than FTMO to both payout risk and a regulatory shock.
+*Positioning:* The fast challenger. Growing on price, exposed on substance.
 
 **Funding Pips.** *Strengths:* aggressive pricing that is winning newer traders quickly. *Weaknesses:* almost no disclosed financial substance. The most vulnerable profile in the sector to consolidation or a payout-exposure shock.
+*Positioning:* The discounter. Winning volume, least able to survive a shock.
 
 **Topstep.** *Strengths:* a long history in US futures evaluation, and a regulated infrastructure relationship with Plus500 for clearing and technology, which gives it a legitimacy path comparable to FTMO's. *Weaknesses:* a narrower asset focus on futures and a smaller international footprint.
+*Positioning:* The only peer with a comparable legitimacy path, via Plus500 clearing. Narrower, in futures alone.
 
 **Crypto Fund Trader.** *Strengths:* a far deeper crypto offering, with over 700 pairs through a Bybit partnership against FTMO's roughly 32 crypto CFDs, and faster payouts. *Weaknesses:* a single-asset-class focus, small scale, and complete dependence on the crypto cycle.
+*Positioning:* The niche specialist. Deeper in crypto, dependent on its cycle.
 
 **Regulated retail brokers (IG, CMC, Plus500, and OANDA before the acquisition).** *Strengths:* full regulatory standing, real market execution, institutional credibility and decades of operating history. *Weaknesses:* far heavier cost bases, with staff costs at 23% to 28% of revenue against FTMO's 2.3%, plus regulatory capital requirements and structurally lower retail margins. FTMO has now joined this group by buying OANDA, purchasing the legitimacy it could not build.
+*Positioning:* The legitimate incumbents. FTMO just bought its way into this group.
 
 FTMO's edge over other prop firms is not product. Challenge mechanics are commoditised across the sector. Its edge is financial substance and, since December, regulatory standing. In an industry where dozens of firms collapsed and a platform vendor can cut off market access at will, the moat is being the firm with $62.5 million of profit, $82 million of cash before the deal, and eight regulated licences after it. No peer can follow: a $250 million acquisition sits far beyond any of them.
 

@@ -12,12 +12,7 @@ export function CompetitorLandscapeSection({ data }: { data: CompetitorLandscape
       <div className="space-y-4">
         {data.competitors.map((c) => (
           <div key={c.name} className="border border-ink-200 bg-white p-5">
-            <div className="flex flex-wrap items-baseline justify-between gap-2">
-              <h4 className="font-serif text-lg text-ink-900">{c.name}</h4>
-              <span className="text-xs uppercase tracking-wide text-ink-500">
-                Est. share: {c.estimated_market_share}
-              </span>
-            </div>
+            <h4 className="font-serif text-lg text-ink-900">{c.name}</h4>
             <p className="mt-1 text-sm text-ink-600">{c.positioning}</p>
             <div className="mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2">
               <div>

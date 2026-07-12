@@ -21,7 +21,7 @@ export function CompanyProfileSection({ data }: { data: CompanyProfile }) {
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
         <DataTile label="Founded" value={data.founded_year} />
         <DataTile label="Headquarters" value={data.headquarters} />
-        <DataTile label="Employees" value={data.employee_count} />
+        {data.employee_count && <DataTile label="Employees" value={data.employee_count} />}
       </div>
     </SectionCard>
   );

@@ -22,7 +22,7 @@ export interface CompanyProfile {
   geography: string;
   founded_year: string;
   headquarters: string;
-  employee_count: string;
+  employee_count?: string;
   description: string;
   key_facts: KeyFact[];
 }
@@ -87,7 +87,6 @@ export interface Competitor {
   positioning: string;
   strengths: string[];
   weaknesses: string[];
-  estimated_market_share: string;
 }
 
 export interface CompetitorLandscape {
@@ -98,7 +97,6 @@ export interface CompetitorLandscape {
 export interface CustomerSegment {
   name: string;
   description: string;
-  estimated_size: string;
   needs: string[];
   buying_behavior: string;
 }
