@@ -14,11 +14,14 @@ class ReportSummary(TypedDict):
 
 
 def list_reports() -> List[ReportSummary]:
-    """Return {target_id, company_name} for every curated report on disk."""
+    """Return {target_id, company_name} for every curated report on disk whose
+    content is complete (i.e. not still a PENDING stub)."""
     summaries: List[ReportSummary] = []
     for path in sorted(REPORTS_DIR.glob("*.json")):
         with path.open() as f:
             data = json.load(f)
+        if data.get("generated_at", "").startswith("PENDING"):
+            continue
         summaries.append(
             {
                 "target_id": path.stem,

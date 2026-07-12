@@ -1,160 +1,335 @@
 {
   "input": {
-    "company_name": "Plus500",
+    "company_name": "Plus500 Ltd.",
     "website": null,
-    "industry": "PENDING — awaiting content",
-    "geography": "PENDING — awaiting content"
+    "industry": "Multi-asset fintech / CFD & futures trading platform",
+    "geography": "Global — regulated footprint across the UK, Australia, Cyprus, Israel, New Zealand, UAE, and Canada, plus a Colombia representative office and India (Mehta Equities) presence"
   },
-  "generated_at": "PENDING — awaiting content",
+  "generated_at": "2026-07-12T00:00:00Z",
   "company_profile": {
-    "legal_name": "Plus500",
+    "legal_name": "Plus500 Ltd. (LSE: PLUS)",
     "website": null,
-    "industry": "PENDING — awaiting content",
-    "geography": "PENDING — awaiting content",
-    "founded_year": "PENDING — awaiting content",
-    "headquarters": "PENDING — awaiting content",
-    "employee_count": "PENDING — awaiting content",
-    "description": "PENDING — awaiting content",
+    "industry": "Multi-asset fintech / CFD & futures trading platform",
+    "geography": "Global — regulated footprint across the UK, Australia, Cyprus, Israel, New Zealand, UAE, and Canada, plus a Colombia representative office and India (Mehta Equities) presence",
+    "founded_year": "GAP — not disclosed in source material",
+    "headquarters": "GAP — not disclosed in source material",
+    "employee_count": "GAP — not disclosed in source material",
+    "description": "Plus500 is a global multi-asset fintech group operating proprietary technology-based trading platforms. It listed on the London Stock Exchange on 24 July 2013 (LON: PLUS) and is a constituent of the FTSE 250 and STOXX Europe 600 indices. Since IPO to end-2025, it has been the best-performing stock on the FTSE All-Share Index on a total return basis. The group operates a regulated footprint across the UK, Australia, Cyprus, Israel, and New Zealand, with newly secured licences in the UAE and Canada, a representative office authorization in Colombia (first Latin American expansion), and the February 2026 completed acquisition of Mehta Equities in India. Its offering spans OTC products (primarily CFDs), share dealing, and futures and options on futures in the US. The defining characteristic is operational efficiency: a mobile-first, technology-led model run by a lean organization, generating a 44% EBITDA margin and remaining debt-free.",
     "key_facts": [
-      {
-        "label": "PENDING — awaiting content",
-        "value": "PENDING — awaiting content"
-      }
+      { "label": "Listed", "value": "LSE: PLUS (IPO July 2013), FTSE 250 constituent" },
+      { "label": "FY2025 revenue", "value": "$792.4M (+3% YoY)" },
+      { "label": "FY2025 EBITDA", "value": "$348.1M (44% margin)" },
+      { "label": "Basic EPS", "value": "$3.93 (+10%)" },
+      { "label": "Active customers", "value": "242,440 (−5% YoY)" },
+      { "label": "ARPU", "value": "$3,268 (+8%, record)" },
+      { "label": "Cash", "value": "~$0.8B, debt-free" },
+      { "label": "Regulated", "value": "UK, Australia, Cyprus, Israel, New Zealand, UAE, Canada" }
     ]
   },
   "business_model": {
-    "revenue_model": "PENDING — awaiting content",
-    "value_proposition": "PENDING — awaiting content",
+    "revenue_model": "Plus500 monetizes through two increasingly distinct engines: OTC (core, ~87% of revenue) — spreads and financing on CFDs across shares, forex, commodities, indices, and crypto; highly cash-generative and mobile-dominated (89% of OTC revenue from mobile/tablet users in H1 2025), with ~50% of FY2025 OTC revenue from customers trading with Plus500 for more than five years (double the equivalent figure three years prior). Non-OTC (growth engine, ~12.6% of revenue) — primarily the US futures business, which crossed $100M revenue for the first time in FY2025, including B2C (Plus500 Futures), B2B institutional clearing and technology infrastructure, and prediction markets (clearing partner for CME Group's event-based contracts platform launched with FanDuel, exclusive clearing/technology provider for Topstep, and a February 2026 launch of event-based contracts via Kalshi, the first CFTC-regulated prediction-markets exchange). Revenue also includes interest income on customer balances (~$29.6M in H1 2025).",
+    "value_proposition": "The defining characteristic is operational efficiency: a mobile-first, technology-led model run by a lean organization, generating a 44% EBITDA margin and remaining debt-free. Per the Porter's Five Forces overall assessment, this is a defensible position built on cost and technology advantage rather than product uniqueness.",
     "key_activities": [
-      "PENDING — awaiting content"
+      "Proprietary platform development",
+      "Sophisticated AI/big-data-driven marketing and customer acquisition",
+      "Regulatory licence acquisition",
+      "Clearing infrastructure",
+      "Disciplined M&A (Mehta Equities, India)"
     ],
-    "key_resources": [
-      "PENDING — awaiting content"
-    ],
+    "key_resources": ["GAP — not disclosed in source material"],
     "channels": [
-      "PENDING — awaiting content"
+      "Direct-to-consumer, mobile-first digital acquisition (proprietary marketing technology with strict ROI parameters)",
+      "B2B institutional partnerships (CME, Topstep) as an emerging channel"
     ],
-    "customer_relationships": "PENDING — awaiting content",
+    "customer_relationships": "Retail switching costs are low and price transparency is high; per the Porter's Five Forces — Buyer power analysis, the mitigant is Plus500's demonstrated success in building long-tenure, high-deposit customers who behave far more stickily than the segment average.",
     "cost_structure": [
-      "PENDING — awaiting content"
+      "Customer acquisition/marketing (AUAC $1,237 in H1 2025, down from $1,489 — a >10% YoY improvement)",
+      "Technology development",
+      "Regulatory compliance across multiple jurisdictions",
+      "Clearing infrastructure"
     ]
   },
   "market_overview": {
-    "narrative": "PENDING — awaiting content",
-    "market_size_summary": "PENDING — awaiting content",
+    "narrative": "Plus500 competes in the global retail CFD/OTC derivatives market and, increasingly, the US listed-futures and prediction-markets segments. The CFD market is mature, heavily regulated, and structurally constrained in Europe (ESMA leverage caps), which has pushed incumbents to diversify geographically and by product — exactly the strategy Plus500 is executing. The strategically significant shift is Plus500's migration from a pure CFD broker into regulated US market infrastructure: clearing, futures, and prediction markets. This is a deliberate move up the value chain into a segment with different (and less regulatorily fragile) economics. Prediction markets are the emerging frontier — a rapidly growing, CFTC-regulated US segment where Plus500 has secured a genuine first-mover infrastructure position via CME/FanDuel, Kalshi, and Topstep.",
+    "market_size_summary": "No independent third-party market-size figure is cited in the source material. See Market Sizing (TAM/SAM/SOM) for the analyst-constructed estimate, which is built from Plus500's own disclosed economics and reasoned penetration assumptions rather than named third-party market data.",
     "key_stats": [
-      {
-        "label": "PENDING — awaiting content",
-        "value": "PENDING — awaiting content"
-      }
+      { "label": "FY2025 revenue", "value": "$792.4M" },
+      { "label": "EBITDA margin", "value": "44% (FY2025)" },
+      { "label": "Non-OTC (US futures) revenue", "value": ">$100M, ~12.6% of group revenue (FY2024: ~10%)" },
+      { "label": "Average deposit per active user", "value": "~$26,900 (more than doubled from ~$12,000)" },
+      { "label": "OTC revenue from mobile/tablet", "value": "89% (H1 2025)" }
     ],
-    "regional_notes": "PENDING — awaiting content"
+    "regional_notes": "The group operates a regulated footprint across the UK, Australia, Cyprus, Israel, and New Zealand, with newly secured licences in the UAE and Canada, a representative office authorization in Colombia (first Latin American expansion), and the February 2026 completed acquisition of Mehta Equities in India."
   },
   "tam_sam_som": {
     "tam": {
-      "value": "PENDING — awaiting content",
-      "description": "PENDING — awaiting content"
+      "value": "Low tens of billions USD annually (analyst estimate)",
+      "description": "Global retail OTC/CFD trading plus US retail futures and prediction markets — a revenue pool across all regulated retail derivatives platforms globally, with the US futures/prediction-markets sub-segment representing the fastest-growing and least penetrated component."
     },
     "sam": {
-      "value": "PENDING — awaiting content",
-      "description": "PENDING — awaiting content"
+      "value": "Low-single-digit billions USD annual revenue (analyst estimate)",
+      "description": "Retail derivatives revenue in Plus500's licensed jurisdictions (UK, EU/Cyprus, Australia, Israel, New Zealand, UAE, Canada, US, and now India)."
     },
     "som": {
-      "value": "PENDING — awaiting content",
-      "description": "PENDING — awaiting content"
+      "value": "$792.4M (FY2025, realized)",
+      "description": "Current realized capture. With 242,440 active customers at $3,268 ARPU, growth is being driven by revenue quality rather than customer count. The expansion runway lies in (a) the non-OTC/US futures engine, (b) new geographies (India, LatAm, GCC), and (c) prediction markets."
     },
-    "methodology_note": "PENDING — awaiting content"
+    "methodology_note": "Analyst-constructed estimate. Method: built up from Plus500's disclosed economics and reasoned penetration assumptions, not third-party market data. Treat as directional; a live engagement would triangulate against named paid sources. Consultant read: the sizing question is secondary. The investable question is whether the non-OTC engine can grow fast enough to outrun a structurally shrinking OTC customer base."
   },
   "industry_trends": [
     {
-      "title": "PENDING — awaiting content",
-      "description": "PENDING — awaiting content",
-      "impact": "PENDING — awaiting content"
+      "title": "Regulatory constraint on retail CFDs",
+      "description": "ESMA/FCA leverage caps have permanently compressed the European CFD opportunity. This is the structural force driving Plus500's diversification — and the primary reason its OTC customer count is flat-to-declining.",
+      "impact": "High"
+    },
+    {
+      "title": "Rise of regulated prediction markets",
+      "description": "A genuinely new, fast-growing, CFTC-regulated US segment. Plus500 has moved early as infrastructure (clearing) rather than merely as a retail venue — a defensible position if the segment scales.",
+      "impact": "High"
+    },
+    {
+      "title": "Institutionalization / B2B market infrastructure",
+      "description": "Technology-superior retail brokers are monetizing their stacks as B2B clearing and infrastructure providers (CME, Topstep). Higher-quality, stickier revenue than retail acquisition.",
+      "impact": "Medium-High"
+    },
+    {
+      "title": "Flight to higher-value customers",
+      "description": "Sector-wide shift from volume acquisition to premium/longevity models as acquisition costs rise. Plus500 is a leading example: fewer customers, higher ARPU, longer tenure.",
+      "impact": "Medium-High"
     }
   ],
   "competitor_landscape": {
     "competitors": [
       {
-        "name": "PENDING — awaiting content",
-        "positioning": "PENDING — awaiting content",
-        "strengths": [
-          "PENDING — awaiting content"
-        ],
-        "weaknesses": [
-          "PENDING — awaiting content"
-        ],
-        "estimated_market_share": "PENDING — awaiting content"
+        "name": "IG Group",
+        "positioning": "The largest UK-listed CFD/spread-betting incumbent",
+        "strengths": ["Scale", "Brand heritage", "Broad product set", "Strong institutional presence"],
+        "weaknesses": ["Higher cost base and materially lower operating margins than Plus500", "Slower technology cycles"],
+        "estimated_market_share": "GAP — not disclosed in source material"
+      },
+      {
+        "name": "CMC Markets",
+        "positioning": "Established UK-listed CFD and spread-betting provider",
+        "strengths": ["Respected proprietary platform", "Strong institutional/B2B partnerships"],
+        "weaknesses": ["Smaller scale", "Thinner and more volatile margins", "Greater earnings sensitivity to market conditions"],
+        "estimated_market_share": "GAP — not disclosed in source material"
+      },
+      {
+        "name": "eToro (NASDAQ: ETOR)",
+        "positioning": "Multi-asset social/copy-trading platform",
+        "strengths": ["Differentiated social network effect", "Large registered base (~40M)", "Strong crypto and brand presence"],
+        "weaknesses": ["Far lower margin quality — heavy reliance on thin-margin crypto intermediation", "Less operationally efficient than Plus500"],
+        "estimated_market_share": "GAP — not disclosed in source material"
+      },
+      {
+        "name": "Trading 212",
+        "positioning": "Fast-growing European commission-free challenger",
+        "strengths": ["Aggressive zero-commission pricing", "Rapid user growth in Plus500's core European markets"],
+        "weaknesses": ["Narrower product range", "Unproven through-cycle profitability", "Less regulatory breadth"],
+        "estimated_market_share": "GAP — not disclosed in source material"
+      },
+      {
+        "name": "XTB",
+        "positioning": "Warsaw-listed multi-asset broker expanding aggressively across Europe",
+        "strengths": ["Strong CEE position", "Growing product breadth", "Competitive pricing"],
+        "weaknesses": ["Smaller international footprint", "More concentrated geographic exposure"],
+        "estimated_market_share": "GAP — not disclosed in source material"
+      },
+      {
+        "name": "Interactive Brokers",
+        "positioning": "Global multi-asset broker with deep futures capability",
+        "strengths": ["Dominant scale in futures and professional-grade infrastructure", "Direct competitor to Plus500's US futures ambitions"],
+        "weaknesses": ["Less accessible to mainstream retail", "Weaker in the mobile-first mass-retail CFD segment"],
+        "estimated_market_share": "GAP — not disclosed in source material"
       }
     ],
-    "competitive_intensity_narrative": "PENDING — awaiting content"
+    "competitive_intensity_narrative": "Consultant read: Plus500's differentiation is not product — it is operating efficiency and technology. Its 44% EBITDA margin and lean cost base are structurally superior to IG and CMC, and its capital returns are best-in-class. The competitive question is whether efficiency alone defends against commission-free challengers eroding the retail base from below, while Interactive Brokers contests the futures upside from above."
   },
   "customer_segments": [
     {
-      "name": "PENDING — awaiting content",
-      "description": "PENDING — awaiting content",
-      "estimated_size": "PENDING — awaiting content",
-      "needs": [
-        "PENDING — awaiting content"
-      ],
-      "buying_behavior": "PENDING — awaiting content"
+      "name": "Premium long-tenure OTC traders (core, highest value)",
+      "description": "The strategic focus. ~50% of OTC revenue now comes from customers with >5 years tenure.",
+      "estimated_size": "GAP — not disclosed in source material",
+      "needs": ["Platform reliability", "Product breadth", "Execution quality"],
+      "buying_behavior": "High average deposits (~$26,900), mobile-first (89% of OTC revenue), long retention, low price sensitivity relative to newer users."
+    },
+    {
+      "name": "Mainstream retail CFD traders (volume, declining)",
+      "description": "The traditional base.",
+      "estimated_size": "GAP — not disclosed in source material",
+      "needs": ["Simplicity", "Low barriers to entry", "Leverage access"],
+      "buying_behavior": "Price- and promotion-sensitive, higher churn; the segment most exposed to commission-free competitors and regulatory leverage caps. Active customers fell 5% YoY."
+    },
+    {
+      "name": "US futures retail traders (growth)",
+      "description": "Served via Plus500 Futures.",
+      "estimated_size": "~17% of new customers (H1 2025)",
+      "needs": ["Regulated US access", "Competitive commissions", "Professional-grade execution"],
+      "buying_behavior": "More sophisticated, higher engagement."
+    },
+    {
+      "name": "B2B / institutional clients (emerging, strategic)",
+      "description": "CME, Topstep, and clearing counterparties.",
+      "estimated_size": "GAP — not disclosed in source material",
+      "needs": ["Institutional-grade clearing", "Reliable technology infrastructure", "Regulatory standing"],
+      "buying_behavior": "Long procurement cycles, very high switching costs, multi-year contracts — the stickiest revenue in the portfolio."
     }
   ],
   "swot_analysis": {
     "strengths": [
-      "PENDING — awaiting content"
+      "Sector-leading profitability: 44% EBITDA margin, debt-free, ~$0.8B cash",
+      "Proprietary technology stack driving both product and marketing efficiency (AUAC down >10%)",
+      "Exceptional capital discipline: ~38% of shares repurchased; $380M returned in 2025",
+      "Genuine first-mover position in regulated US prediction-markets infrastructure",
+      "Revenue quality improving: ARPU +8% to record $3,268; ~50% of OTC revenue from >5-year customers"
     ],
     "weaknesses": [
-      "PENDING — awaiting content"
+      "Shrinking customer base: active customers −5%, new customers −11% YoY",
+      "Continued OTC/CFD dependence (~87% of revenue) in a structurally constrained, regulatorily targeted product",
+      "Growth is ARPU-led, not volume-led — a lever with a finite ceiling",
+      "Smaller absolute scale than IG or Interactive Brokers in the futures arena it is entering"
     ],
     "opportunities": [
-      "PENDING — awaiting content"
+      "Scale the non-OTC/US futures engine beyond $100M — the clearest growth vector",
+      "Prediction markets (Kalshi, CME/FanDuel) — early, potentially large, and infrastructure-defensible",
+      "B2B clearing and technology infrastructure as high-margin, sticky revenue",
+      "Geographic expansion: India (Mehta), LatAm (Colombia), UAE, Canada"
     ],
     "threats": [
-      "PENDING — awaiting content"
+      "Further regulatory tightening on CFDs in core European markets",
+      "Commission-free challengers (Trading 212, XTB) eroding the retail base on price",
+      "Interactive Brokers and incumbents contesting the US futures/clearing upside",
+      "Prediction-markets regulatory uncertainty — the growth thesis depends on a young, politically contested regulatory regime"
     ]
   },
   "porters_five_forces": {
     "forces": [
       {
-        "force_name": "PENDING — awaiting content",
-        "rating": "PENDING — awaiting content",
-        "rationale": "PENDING — awaiting content"
+        "force_name": "Competitive rivalry",
+        "rating": "High",
+        "rationale": "A crowded field of listed CFD incumbents (IG, CMC), commission-free challengers (Trading 212, XTB), and multi-asset platforms (eToro), converging on the same retail pool."
+      },
+      {
+        "force_name": "Threat of new entrants",
+        "rating": "Low-Medium",
+        "rationale": "Multi-jurisdiction licensing, clearing memberships, and proprietary technology form a genuine barrier. Plus500's clearing relationships (Kalshi Klear, ICE Clear US) are especially hard to replicate."
+      },
+      {
+        "force_name": "Buyer power",
+        "rating": "Medium-High",
+        "rationale": "Retail switching costs are low and price transparency is high; the mitigant is Plus500's demonstrated success in building long-tenure, high-deposit customers who behave far more stickily than the segment average."
+      },
+      {
+        "force_name": "Supplier power",
+        "rating": "Low-Medium",
+        "rationale": "Owning a proprietary technology stack (rather than licensing a third-party platform) materially reduces supplier dependence — a structural advantage over brokers running vendor platforms."
+      },
+      {
+        "force_name": "Threat of substitutes",
+        "rating": "Medium-High",
+        "rationale": "Commission-free equities apps, direct futures brokers, and crypto exchanges all substitute for parts of the CFD proposition, particularly for newer/lower-value users."
       }
     ],
-    "overall_attractiveness": "PENDING — awaiting content"
+    "overall_attractiveness": "A defensible position built on cost and technology advantage rather than product uniqueness — durable against incumbents, more exposed to price-led challengers at the entry level."
   },
   "commercial_risks": [
     {
-      "title": "PENDING — awaiting content",
-      "description": "PENDING — awaiting content",
-      "severity": "PENDING — awaiting content",
-      "likelihood": "PENDING — awaiting content",
-      "mitigation": "PENDING — awaiting content"
+      "title": "Regulatory action on CFDs",
+      "description": "~87% of revenue derives from a product class that is a standing regulatory target across the UK/EU.",
+      "severity": "High",
+      "likelihood": "Medium-High",
+      "mitigation": "Aggressive diversification into non-OTC (US futures, clearing, prediction markets) and new geographies."
+    },
+    {
+      "title": "Customer base contraction",
+      "description": "Active customers −5%, new customers −11%. Revenue growth is currently carried entirely by rising ARPU.",
+      "severity": "Medium-High",
+      "likelihood": "High",
+      "mitigation": "The premium-customer strategy is deliberate — but the ARPU lever has a ceiling, and the risk is that volume decline eventually outruns value uplift."
+    },
+    {
+      "title": "Prediction-markets regulatory uncertainty",
+      "description": "A key growth pillar rests on a nascent, contested CFTC regime and on partner platforms (Kalshi, CME/FanDuel).",
+      "severity": "Medium-High",
+      "likelihood": "Medium",
+      "mitigation": "Positioned as clearing infrastructure rather than as a directional venue operator, which is a more defensible role."
+    },
+    {
+      "title": "Concentration in a maturing core",
+      "description": "The OTC engine is mature and structurally capped; non-OTC must scale materially to offset it.",
+      "severity": "Medium",
+      "likelihood": "Medium",
+      "mitigation": "Non-OTC grew from ~10% to ~12.6% of revenue in one year — directionally right, but from a small base."
+    },
+    {
+      "title": "Geopolitical / operational concentration — Israel",
+      "description": "Core operations and regulatory domicile include Israel.",
+      "severity": "Medium",
+      "likelihood": "Medium",
+      "mitigation": "Multi-jurisdiction licensing and distributed operations."
+    },
+    {
+      "title": "Execution risk on M&A and new-market entry",
+      "description": "India (Mehta), LatAm, UAE, Canada expansions are unproven.",
+      "severity": "Medium",
+      "likelihood": "Medium",
+      "mitigation": "Disciplined, small-scale, capability-led acquisitions rather than transformational bets."
     }
   ],
   "growth_opportunities": [
     {
-      "title": "PENDING — awaiting content",
-      "description": "PENDING — awaiting content",
-      "potential_impact": "PENDING — awaiting content",
-      "timeframe": "PENDING — awaiting content"
+      "title": "Scale non-OTC / US futures",
+      "description": "Already >$100M and ~12.6% of revenue, up from ~10%. The single clearest, already-proven growth engine.",
+      "potential_impact": "High",
+      "timeframe": "Near-term"
+    },
+    {
+      "title": "Prediction markets",
+      "description": "First-mover clearing infrastructure via Kalshi, CME/FanDuel, and Topstep in a rapidly expanding segment. High optionality; regulatory-dependent.",
+      "potential_impact": "High",
+      "timeframe": "Near-to-medium term"
+    },
+    {
+      "title": "B2B institutional clearing and technology",
+      "description": "Monetizes the existing technology stack as sticky, high-margin, long-contract revenue — the highest-quality revenue available to the group.",
+      "potential_impact": "High",
+      "timeframe": "Medium-term"
+    },
+    {
+      "title": "Geographic expansion",
+      "description": "India via Mehta, LatAm via Colombia, plus UAE and Canada licences — access to underpenetrated retail markets with more favorable regulatory dynamics than Europe.",
+      "potential_impact": "Medium-High",
+      "timeframe": "Medium-term"
+    },
+    {
+      "title": "Continued ARPU and longevity uplift",
+      "description": "Proven lever (ARPU +8%; deposits doubled), though structurally finite.",
+      "potential_impact": "Medium",
+      "timeframe": "Near-term"
     }
   ],
   "key_questions": [
-    {
-      "category": "PENDING — awaiting content",
-      "question": "PENDING — awaiting content"
-    }
+    { "category": "Customer contraction", "question": "Active customers fell 5% and new customers 11%. At what point does volume decline overwhelm ARPU growth — and what is the modelled floor for the OTC customer base?" },
+    { "category": "Non-OTC trajectory", "question": "What is the 3-year revenue and margin target for the non-OTC business, and what proportion of group revenue does it need to reach for the CFD-regulatory risk to be structurally de-risked?" },
+    { "category": "Prediction markets", "question": "How much capital and revenue is committed to prediction markets, and what is the downside scenario if the CFTC regime tightens or partner platforms lose authorization?" },
+    { "category": "Margin durability", "question": "The 44% EBITDA margin is sector-leading. What structurally sustains it as the mix shifts toward lower-margin clearing and futures?" },
+    { "category": "CFD exposure", "question": "What is the precise revenue-at-risk under a further European leverage-cap tightening, by jurisdiction?" },
+    { "category": "Capital allocation", "question": "With ~$0.8B cash and ~38% of shares already repurchased, what is the framework for choosing buybacks over M&A or organic investment going forward?" },
+    { "category": "India / M&A", "question": "What are the synergy and revenue expectations for Mehta Equities, and what is the integration risk profile?" }
   ],
   "executive_summary": {
-    "overview": "PENDING — awaiting content",
+    "overview": "Plus500 is one of the most operationally efficient businesses in retail trading: $792.4M revenue, $348.1M EBITDA (44% margin), debt-free with ~$0.8B cash, and a capital-returns record — ~38% of shares repurchased — that is genuinely best-in-class. The central tension is that the financials are excellent, but the customer base is shrinking: active customers declined 5% and new customers 11% in FY2025, and revenue grew only because ARPU rose 8% to a record $3,268. Management has deliberately chosen value over volume — and executed it well — but ARPU is a lever with a ceiling, and the underlying OTC/CFD market is structurally capped by European regulation.",
     "key_findings": [
-      "PENDING — awaiting content"
+      "$792.4M revenue, $348.1M EBITDA (44% margin), debt-free with ~$0.8B cash; ~38% of shares repurchased — a best-in-class capital-returns record",
+      "Active customers declined 5% and new customers 11% in FY2025; revenue grew only because ARPU rose 8% to a record $3,268, with ~50% of OTC revenue now from customers with >5 years' tenure",
+      "Management has deliberately chosen value over volume — but ARPU is a lever with a ceiling, and the OTC/CFD market is structurally capped by European regulation",
+      "The non-OTC business (US futures, B2B clearing, prediction markets) grew past $100M and from ~10% to ~12.6% of group revenue in one year, with first-mover infrastructure positions via CME/FanDuel, Kalshi, and Topstep"
     ],
     "investment_thesis_notes": [
-      "PENDING — awaiting content"
+      "Bull case: the non-OTC business (US futures, B2B clearing, prediction markets) grew past $100M and from ~10% to ~12.6% of group revenue in a single year, with genuine first-mover infrastructure positions via CME/FanDuel, Kalshi, and Topstep — if that engine compounds, Plus500 re-rates from a mature CFD broker into regulated market infrastructure",
+      "Bear case: ~87% of revenue still sits in a declining, regulatorily targeted product, and the new engine is too small and too regulatorily young to offset it in time"
     ],
-    "overall_rating": "PENDING — awaiting content",
-    "recommendation": "PENDING — awaiting content"
+    "overall_rating": "High-quality asset, mature core, credible pivot",
+    "recommendation": "Proceed to deeper diligence, focused on (a) the sustainable floor of the OTC customer base and the true ceiling of the ARPU lever, (b) the unit economics, scalability, and competitive defensibility of the non-OTC/clearing business against Interactive Brokers and incumbents, and (c) a downside scenario for prediction markets under adverse CFTC outcomes. This is a high-quality, cash-generative, exceptionally well-run business — the valuation question is whether the pivot outruns the erosion."
   }
 }
