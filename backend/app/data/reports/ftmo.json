@@ -2,159 +2,363 @@
   "input": {
     "company_name": "FTMO",
     "website": null,
-    "industry": "PENDING — awaiting content",
-    "geography": "PENDING — awaiting content"
+    "industry": "Modern proprietary trading. Retail trader evaluation and funding, now also regulated brokerage.",
+    "geography": "FTMO serves more than 3.5 million customers across 140+ countries. OANDA holds regulated entities in about eight markets including the United States, the United Kingdom, Australia, Canada, Japan and Singapore."
   },
-  "generated_at": "PENDING — awaiting content",
+  "generated_at": "2026-07-12T00:00:00Z",
   "company_profile": {
-    "legal_name": "FTMO",
+    "legal_name": "FTMO (FTMO s.r.o. / FTMO Evaluation Global s.r.o.)",
     "website": null,
-    "industry": "PENDING — awaiting content",
-    "geography": "PENDING — awaiting content",
-    "founded_year": "PENDING — awaiting content",
-    "headquarters": "PENDING — awaiting content",
-    "employee_count": "PENDING — awaiting content",
-    "description": "PENDING — awaiting content",
+    "industry": "Modern proprietary trading. Retail trader evaluation and funding, now also regulated brokerage.",
+    "geography": "FTMO serves more than 3.5 million customers across 140+ countries. OANDA holds regulated entities in about eight markets including the United States, the United Kingdom, Australia, Canada, Japan and Singapore.",
+    "founded_year": "2015",
+    "headquarters": "Prague, Czech Republic",
+    "employee_count": "300+",
+    "description": "Two students at the Prague University of Economics founded FTMO in 2015. It now leads the category it created. Traders pay a fee to attempt a rules-based evaluation, the FTMO Challenge, and those who pass receive a funded account and a share of the profits they generate. FTMO serves more than 3.5 million customers across 140+ countries and has paid traders over $500 million since launch. On 1 December 2025 FTMO completed the acquisition of OANDA Global Corporation from CVC Capital Partners, closing a process that took roughly ten months and required approvals from five regulators. OANDA, founded in 1996, holds regulated entities in about eight markets including the United States, the United Kingdom, Australia, Canada, Japan and Singapore. FTMO is keeping it as a standalone business. Reports put FTMO's valuation at around $1.4 billion, which places it among the largest Czech technology firms operating internationally. Evidence note: FTMO is privately held. Financials come from Czech statutory filings, which are public, and from credible trade-press reporting. They are less granular and lower-confidence than audited investor disclosures. FY2025 accounts were unavailable at the time of writing. The parties did not disclose the OANDA transaction value; reported estimates vary and are flagged where used. Market-sizing figures are analyst-constructed estimates with stated assumptions. Evidence grade: Medium. Lower than for the listed comparables in this set. Read the financials as directionally reliable rather than precise.",
     "key_facts": [
-      {
-        "label": "PENDING — awaiting content",
-        "value": "PENDING — awaiting content"
-      }
+      { "label": "Founders", "value": "Otakar Šuffner (CEO) and Marek Vašíček (CTO)" },
+      { "label": "Ownership", "value": "Private, founder-controlled. No prominent external venture funding appears in the public record; the business looks substantially self-funded from operating cash flow." },
+      { "label": "FY2024 revenue", "value": "About $329M, up 53%" },
+      { "label": "FY2024 net profit", "value": "About $62.5M, a net margin of roughly 19%" },
+      { "label": "FY2023 revenue", "value": "$203.9M. FY2023 year-end cash: about $82M" },
+      { "label": "FY2023 staff costs", "value": "$4.7M, around 2.3% of revenue" },
+      { "label": "Customers", "value": "3.5M+ across 140+ countries. 2.3M+ open trading accounts in 2024, up 33%" },
+      { "label": "Cumulative trader payouts", "value": "$500M+" },
+      { "label": "Reported valuation", "value": "About $1.4B" },
+      { "label": "OANDA acquisition funding", "value": "A $250M credit line from a UniCredit-led syndicate of Czech banks" }
     ]
   },
   "business_model": {
-    "revenue_model": "PENDING — awaiting content",
-    "value_proposition": "PENDING — awaiting content",
+    "revenue_model": "Evaluation fees. The engine. Traders pay per attempt, from around €79 for a $10,000 account to roughly €1,080 for a $200,000 account. The trading is simulated, so FTMO takes no market risk on the evaluation, and each additional participant costs it almost nothing. FTMO earns most of its revenue from traders who fail. Traders who succeed are a cost line: $500 million paid out to date. The economics resemble a paid-assessment business more than a brokerage. Proprietary trading. FTMO trades its own account, informed in selected cases by data from simulated trader activity. Quantlane, a quantitative trading firm, sits inside the group. Regulated brokerage, new since December 2025. OANDA's retail FX, CFD, multi-asset and market-data revenue. Lower margin than evaluation fees, and far more defensible.",
+    "value_proposition": "Access to trading capital without risking your own. A trader pays a one-time fee, passes an evaluation, and trades a funded account keeping 80% to 90% of the profits. For undercapitalised retail traders, FTMO sells the one thing they cannot get elsewhere: size.",
     "key_activities": [
-      "PENDING — awaiting content"
+      "Running the evaluation platform.",
+      "Designing and enforcing the risk rules that determine who passes.",
+      "Building trader analytics and education, where the App Suite gives FTMO a genuine product edge over rivals offering a dashboard and nothing more.",
+      "Affiliate and community marketing.",
+      "Proprietary trading through Quantlane.",
+      "Since December 2025, operating a regulated multi-jurisdiction broker."
     ],
     "key_resources": [
-      "PENDING — awaiting content"
+      "The brand, which carries more trust than any competitor in a sector where dozens of firms collapsed.",
+      "The evaluation platform and its risk-rule engine.",
+      "Simulated-trading data from millions of accounts, which Quantlane turns into quantitative strategies.",
+      "Roughly $82 million in cash at end-2023, before the OANDA deal.",
+      "OANDA's regulatory licences across eight markets, plus its brokerage infrastructure and 30-year operating history."
     ],
     "channels": [
-      "PENDING — awaiting content"
+      "Direct digital acquisition to traders.",
+      "A large affiliate and referral programme.",
+      "Content and community marketing inside trading forums and social platforms.",
+      "The low cost base leaves FTMO far more room to spend on marketing than any regulated broker has."
     ],
-    "customer_relationships": "PENDING — awaiting content",
+    "customer_relationships": "Transactional, and adversarial by design. The rules that protect FTMO's economics, a 5% daily drawdown limit and a 10% maximum drawdown, are the same rules that make most traders fail. Fees are non-refundable. Traders commonly spend $1,000 to $3,000 across attempts before passing or quitting. The relationship with the minority who pass runs the other way: long-tenured, high-touch, and structured to keep them trading.",
     "cost_structure": [
-      "PENDING — awaiting content"
+      "Trader payouts dominate, running around 49% of revenue in FY2023.",
+      "Marketing and affiliate commissions follow.",
+      "Staff costs are almost negligible at $4.7 million, about 2.3% of revenue. Compare IG Group, whose staff and legal costs run 23.4% of revenue, and CMC Markets at 28.0%.",
+      "FTMO carries no compliance department, no trading desk, no trade reporting and no regulatory capital, because the evaluation business sits outside brokerage regulation. That absence is the entire margin story."
     ]
   },
   "market_overview": {
-    "narrative": "PENDING — awaiting content",
-    "market_size_summary": "PENDING — awaiting content",
+    "narrative": "Modern prop trading grew fast from 2020 on a simple pitch: undercapitalised retail traders get access to size, and firms monetise the evaluation. FTMO originated the category and leads it. The sector is consolidating under pressure. Dozens of smaller prop firms collapsed in 2024 under payout exposure they could not fund and risk management they never built. When MetaQuotes withdrew platform support from many prop firms that year, operators without regulated infrastructure lost US access overnight. FTMO, The5ers, FundedNext, Funding Pips and Seacrest Funded have since returned to the US. Regulation is the question that decides this industry. Because the trading is simulated rather than executed, prop firms have operated largely outside brokerage rules. That position will not hold forever. Many prop firms have started calling for regulation themselves, which usually signals that incumbents expect it and want to shape rules that entrench scale.",
+    "market_size_summary": "No independent third-party market-size figure is cited in the source material. See Market Sizing (TAM/SAM/SOM) for the analyst-constructed estimate, built from FTMO's disclosed economics and stated assumptions about the retail prop universe rather than third-party market data.",
     "key_stats": [
-      {
-        "label": "PENDING — awaiting content",
-        "value": "PENDING — awaiting content"
-      }
+      { "label": "FTMO FY2024 revenue", "value": "About $329M, up 53%, while smaller peers were failing" },
+      { "label": "Net margin", "value": "Around 19%. Staff costs around 2.3% of revenue, against 23% to 28% for regulated brokers" },
+      { "label": "Open trading accounts", "value": "2.3M+ in 2024, up 33%" },
+      { "label": "Sector consolidation", "value": "Numerous firms collapsed in 2024; consolidation continues" }
     ],
-    "regional_notes": "PENDING — awaiting content"
+    "regional_notes": "FTMO serves more than 3.5 million customers across 140+ countries and has paid traders over $500 million since launch. OANDA holds regulated entities in about eight markets including the United States, the United Kingdom, Australia, Canada, Japan and Singapore."
   },
   "tam_sam_som": {
     "tam": {
-      "value": "PENDING — awaiting content",
-      "description": "PENDING — awaiting content"
+      "value": "Low single-digit billions of dollars a year for evaluation fees; low tens of billions for the adjacent regulated retail FX/CFD brokerage market (analyst-constructed estimate)",
+      "description": "Retail prop-trading evaluation fees plausibly generate a low single-digit billions of dollars a year globally. The adjacent regulated retail FX and CFD brokerage market that FTMO now enters through OANDA is much larger, in the low tens of billions."
     },
     "sam": {
-      "value": "PENDING — awaiting content",
-      "description": "PENDING — awaiting content"
+      "value": "GAP — not disclosed in source material",
+      "description": "Evaluation revenue in the markets FTMO can serve, plus OANDA's licensed jurisdictions across the US, UK, Australia, Canada, Japan, Singapore and the EU. The acquisition expands SAM, which is precisely its purpose."
     },
     "som": {
-      "value": "PENDING — awaiting content",
-      "description": "PENDING — awaiting content"
+      "value": "About $329 million (FY2024), plus OANDA's revenue base (undisclosed since the deal closed)",
+      "description": "FTMO captures about $329 million (FY2024), plus OANDA's revenue base, which has not been separately disclosed since the deal closed. FTMO leads the category on revenue. The growth question is whether the brokerage arm can scale without destroying the margin that makes the group attractive."
     },
-    "methodology_note": "PENDING — awaiting content"
+    "methodology_note": "Analyst-constructed estimate. We built this from FTMO's disclosed economics and stated assumptions about the retail prop universe rather than third-party market data. Confidence here is lower than for the listed comparables in this set, because the sector publishes no reliable market-size data. Treat it as directional. Sizing is secondary here. What matters is whether $329 million of high-margin, structurally unregulated revenue survives regulation, and whether the OANDA acquisition converts it into something durable before that happens."
   },
   "industry_trends": [
     {
-      "title": "PENDING — awaiting content",
-      "description": "PENDING — awaiting content",
-      "impact": "PENDING — awaiting content"
+      "title": "Regulators are circling the prop model",
+      "description": "The simulated-trading grey zone is the largest structural uncertainty in the sector. If regulators treat evaluation firms as brokers, or restrict non-refundable fees or failure-dependent economics, FTMO's core margin disappears. Read the OANDA acquisition as a pre-emptive hedge against exactly this.",
+      "impact": "High — and the trend that decides everything"
+    },
+    {
+      "title": "Platform providers hold a kill switch",
+      "description": "MetaQuotes cut off support to many prop firms in 2024 and severed an entire distribution channel overnight. Multi-platform support across MT4, MT5, cTrader and DXtrade is now a survival requirement.",
+      "impact": "High"
+    },
+    {
+      "title": "The sector is consolidating",
+      "description": "Undercapitalised firms collapsed through 2024, raising the credibility floor and concentrating share toward players with real financial substance. This favours FTMO.",
+      "impact": "Medium-High"
+    },
+    {
+      "title": "Prop and brokerage are converging",
+      "description": "FTMO buying OANDA is the clearest example. Prop firms are buying regulated infrastructure and brokers are adding prop offerings. The two models are merging.",
+      "impact": "Medium-High"
+    },
+    {
+      "title": "Trader-protection scrutiny is rising",
+      "description": "The model's dependence on trader failure now draws open public commentary, which creates reputational exposure ahead of the regulatory kind.",
+      "impact": "Medium"
     }
   ],
   "competitor_landscape": {
     "competitors": [
       {
-        "name": "PENDING — awaiting content",
-        "positioning": "PENDING — awaiting content",
-        "strengths": [
-          "PENDING — awaiting content"
-        ],
-        "weaknesses": [
-          "PENDING — awaiting content"
-        ],
-        "estimated_market_share": "PENDING — awaiting content"
+        "name": "The5ers",
+        "positioning": "GAP — not disclosed in source material",
+        "strengths": ["A long-standing reputation", "Resumed US operations through cTrader", "Instant-funding and low-drawdown products that appeal to a distinct trader segment"],
+        "weaknesses": ["Far smaller than FTMO", "No regulated brokerage arm", "Limited brand reach outside trading communities"],
+        "estimated_market_share": "GAP — not disclosed in source material"
+      },
+      {
+        "name": "FundedNext",
+        "positioning": "GAP — not disclosed in source material",
+        "strengths": ["Fast growth", "Competitive fees", "Strong affiliate marketing", "Restored US access"],
+        "weaknesses": ["A shorter track record", "Thin financial disclosure", "More exposure than FTMO to both payout risk and a regulatory shock"],
+        "estimated_market_share": "GAP — not disclosed in source material"
+      },
+      {
+        "name": "Funding Pips",
+        "positioning": "GAP — not disclosed in source material",
+        "strengths": ["Aggressive pricing that is winning newer traders quickly"],
+        "weaknesses": ["Almost no disclosed financial substance", "The most vulnerable profile in the sector to consolidation or a payout-exposure shock"],
+        "estimated_market_share": "GAP — not disclosed in source material"
+      },
+      {
+        "name": "Topstep",
+        "positioning": "GAP — not disclosed in source material",
+        "strengths": ["A long history in US futures evaluation", "A regulated infrastructure relationship with Plus500 for clearing and technology, which gives it a legitimacy path comparable to FTMO's"],
+        "weaknesses": ["A narrower asset focus on futures", "A smaller international footprint"],
+        "estimated_market_share": "GAP — not disclosed in source material"
+      },
+      {
+        "name": "Crypto Fund Trader",
+        "positioning": "GAP — not disclosed in source material",
+        "strengths": ["A far deeper crypto offering, with over 700 pairs through a Bybit partnership against FTMO's roughly 32 crypto CFDs", "Faster payouts"],
+        "weaknesses": ["A single-asset-class focus", "Small scale", "Complete dependence on the crypto cycle"],
+        "estimated_market_share": "GAP — not disclosed in source material"
+      },
+      {
+        "name": "Regulated retail brokers (IG, CMC, Plus500, and OANDA before the acquisition)",
+        "positioning": "GAP — not disclosed in source material",
+        "strengths": ["Full regulatory standing", "Real market execution", "Institutional credibility and decades of operating history"],
+        "weaknesses": ["Far heavier cost bases, with staff costs at 23% to 28% of revenue against FTMO's 2.3%", "Regulatory capital requirements and structurally lower retail margins", "FTMO has now joined this group by buying OANDA, purchasing the legitimacy it could not build"],
+        "estimated_market_share": "GAP — not disclosed in source material"
       }
     ],
-    "competitive_intensity_narrative": "PENDING — awaiting content"
+    "competitive_intensity_narrative": "FTMO's edge over other prop firms is not product. Challenge mechanics are commoditised across the sector. Its edge is financial substance and, since December, regulatory standing. In an industry where dozens of firms collapsed and a platform vendor can cut off market access at will, the moat is being the firm with $62.5 million of profit, $82 million of cash before the deal, and eight regulated licences after it. No peer can follow: a $250 million acquisition sits far beyond any of them."
   },
   "customer_segments": [
     {
-      "name": "PENDING — awaiting content",
-      "description": "PENDING — awaiting content",
-      "estimated_size": "PENDING — awaiting content",
-      "needs": [
-        "PENDING — awaiting content"
-      ],
-      "buying_behavior": "PENDING — awaiting content"
+      "name": "Aspiring and undercapitalised retail traders (the volume core, and the actual revenue source)",
+      "description": "Retail traders who want to trade size they cannot fund themselves. The largest segment by a wide margin, and the one that pays the bills.",
+      "estimated_size": "GAP — not disclosed in source material",
+      "needs": ["Access to trading capital without personal risk", "Validation", "A path to a trading career"],
+      "buying_behavior": "They pay repeated non-refundable fees, commonly $1,000 to $3,000 across attempts before passing or giving up. Most fail. Community, affiliate and social-media marketing drives their acquisition. This cohort generates most of FTMO's revenue because most of them fail."
+    },
+    {
+      "name": "Skilled funded traders (the minority, and a cost line)",
+      "description": "Traders who passed and now trade FTMO capital consistently. The proof that makes the marketing work.",
+      "estimated_size": "GAP — not disclosed in source material",
+      "needs": ["Large allocations", "High profit splits", "Fast payouts", "Room to scale"],
+      "buying_behavior": "Long-tenured and low-churn. They take 80% to 90% profit splits and can scale to $2 million in allocation. They are strategically vital and financially a cost, not a revenue source."
+    },
+    {
+      "name": "Algorithmic and EA traders",
+      "description": "Technically sophisticated traders running automated strategies across MT4, MT5, cTrader and DXtrade.",
+      "estimated_size": "GAP — not disclosed in source material",
+      "needs": ["Multi-platform support", "Permissive automation rules"],
+      "buying_behavior": "Platform-driven, and the segment most exposed to platform-provider risk."
+    },
+    {
+      "name": "OANDA's retail and corporate brokerage clients (new since December 2025)",
+      "description": "Conventional brokerage customers acquired with OANDA, trading real markets under regulated execution.",
+      "estimated_size": "GAP — not disclosed in source material",
+      "needs": ["Regulated execution", "Multi-asset access", "Currency data and analytics"],
+      "buying_behavior": "Standard regulated-brokerage relationships. Lower margin than evaluation fees, and recurring, licensed and defensible in a way evaluation fees are not."
     }
   ],
   "swot_analysis": {
     "strengths": [
-      "PENDING — awaiting content"
+      "Real financial substance: about $329M revenue, up 53%, and about $62.5M net profit, at a reported $1.4B valuation.",
+      "A cost structure no regulated broker can match: staff costs around 2.3% of revenue against 23% to 28% for IG and CMC, and almost no marginal cost per participant.",
+      "It grew 53% in a year when dozens of competitors collapsed, which points to real operational and risk discipline.",
+      "The strongest brand in a low-trust sector, backed by $500M+ in cumulative payouts.",
+      "The OANDA acquisition delivers regulated licences across eight markets including compliant US re-entry. No prop peer can replicate this."
     ],
     "weaknesses": [
-      "PENDING — awaiting content"
+      "Core revenue depends on customers failing, which is fragile and reputationally exposed.",
+      "The evaluation business operates outside regulation, on an argument about simulated trading that regulators have never tested.",
+      "FTMO funded the OANDA deal with a $250M credit line against a business earning about $62.5M a year. A cash-rich, unlevered balance sheet now carries real debt.",
+      "FTMO has never run a regulated multi-jurisdiction broker. Keeping OANDA standalone defers that problem rather than solving it.",
+      "Financial transparency lags listed peers, and FY2025 accounts were unavailable at the time of writing."
     ],
     "opportunities": [
-      "PENDING — awaiting content"
+      "Converting high-margin evaluation revenue into defensible regulated brokerage revenue.",
+      "Compliant US access at scale through OANDA's retail FX dealer licence.",
+      "Cross-sell in both directions. OANDA's own prop programme is already migrating to FTMO, and moving graduated FTMO traders into regulated OANDA accounts is the larger prize.",
+      "Consolidating a fragmenting sector. FTMO is the only prop firm with a balance sheet capable of buying distressed peers.",
+      "Monetising simulated-trading data through Quantlane's quantitative strategies."
     ],
     "threats": [
-      "PENDING — awaiting content"
+      "Regulatory reclassification of the prop model, which is the existential risk.",
+      "Platform-provider dependence, with the MetaQuotes precedent showing how fast a channel disappears.",
+      "Margin compression as the mix shifts from 19%-net-margin evaluation fees toward regulated brokerage.",
+      "Debt service on the $250M facility if evaluation revenue slows.",
+      "Public backlash against a model that profits from retail failure.",
+      "Commoditisation of challenge products and price competition from low-cost entrants."
     ]
   },
   "porters_five_forces": {
     "forces": [
       {
-        "force_name": "PENDING — awaiting content",
-        "rating": "PENDING — awaiting content",
-        "rationale": "PENDING — awaiting content"
+        "force_name": "Competitive rivalry",
+        "rating": "High, and consolidating",
+        "rationale": "Prop firms compete on near-identical challenge mechanics, which drives fee competition. The 2024 shakeout is thinning the field, and FTMO's financial substance separates it decisively."
+      },
+      {
+        "force_name": "Threat of new entrants",
+        "rating": "Historically very high, now falling fast",
+        "rationale": "Launching a prop firm cost almost nothing, which is why so many appeared and so many failed. Platform gatekeeping, trader scrutiny and prospective regulation are raising the barrier quickly, and FTMO's licences make its own position much harder to attack."
+      },
+      {
+        "force_name": "Buyer power",
+        "rating": "Low-Medium",
+        "rationale": "Individual traders hold almost no bargaining power and face non-refundable fees. Switching between prop firms is easy, but the terms are commoditised, so brand trust does the work. That is FTMO's strongest asset."
+      },
+      {
+        "force_name": "Supplier power",
+        "rating": "High, and underappreciated",
+        "rationale": "MetaQuotes demonstrated in 2024 that a platform provider can unilaterally sever a prop firm's access to an entire market. Liquidity and technology providers hold real leverage. Multi-platform support and OANDA's own infrastructure are the mitigations."
+      },
+      {
+        "force_name": "Threat of substitutes",
+        "rating": "Medium-High",
+        "rationale": "Regulated brokers offering leverage, copy-trading platforms and low-cost retail brokerage all substitute for the access-to-capital pitch. Tighten regulation on prop fees or leverage and substitution accelerates."
       }
     ],
-    "overall_attractiveness": "PENDING — awaiting content"
+    "overall_attractiveness": "FTMO holds an unusually asymmetric position. It dominates its peers and it is structurally advantaged on cost, and it is exposed on two axes it does not control: regulators and platform providers. The OANDA acquisition is a direct, expensive and well-judged attempt to neutralise both."
   },
   "commercial_risks": [
     {
-      "title": "PENDING — awaiting content",
-      "description": "PENDING — awaiting content",
-      "severity": "PENDING — awaiting content",
-      "likelihood": "PENDING — awaiting content",
-      "mitigation": "PENDING — awaiting content"
+      "title": "Regulatory reclassification of the prop model",
+      "description": "This is the central risk in the diligence. The core business sits outside brokerage regulation on the argument that its trading is simulated. If regulators treat evaluation firms as brokers, or restrict non-refundable fees or failure-dependent economics, most of the group's revenue and effectively all of its margin advantage is impaired. The industry lobbying for its own regulation suggests insiders expect this.",
+      "severity": "High",
+      "likelihood": "Medium-High",
+      "mitigation": "The OANDA acquisition is that hedge, buying licensed revenue and a compliant operating entity. Whether it suffices depends entirely on what the eventual rules say."
+    },
+    {
+      "title": "Leverage against a concentrated revenue base",
+      "description": "A $250 million facility now sits against a group that earned about $62.5 million and whose core revenue stream carries the regulatory risk above. A previously unlevered, cash-rich business has taken on real debt service.",
+      "severity": "Medium-High",
+      "likelihood": "Medium",
+      "mitigation": "Strong cash generation, 19% net margins, and OANDA's independent regulated revenue."
+    },
+    {
+      "title": "Platform-provider dependence",
+      "description": "MetaQuotes withdrew support in 2024 and cut off US access for prop firms overnight. A repeat would hurt badly.",
+      "severity": "High",
+      "likelihood": "Medium",
+      "mitigation": "Multi-platform support across MT4, MT5, cTrader and DXtrade, plus OANDA's owned infrastructure."
+    },
+    {
+      "title": "Margin dilution from the brokerage pivot",
+      "description": "Regulated brokerage earns far less than evaluation fees, so blended group margin will fall as OANDA scales. FTMO is buying defensibility with margin, deliberately. The risk is that an acquirer models the group on historical prop margins and gets the valuation wrong.",
+      "severity": "Medium-High",
+      "likelihood": "High, and near-certain by design",
+      "mitigation": "None required. It requires correct modelling, not mitigation."
+    },
+    {
+      "title": "Integration risk",
+      "description": "FTMO has never operated a regulated multi-jurisdiction broker. Keeping OANDA standalone defers the challenge, and the cross-sell synergies eventually require integration.",
+      "severity": "Medium",
+      "likelihood": "Medium-High",
+      "mitigation": "OANDA's management has been retained and the approach is phased."
+    },
+    {
+      "title": "Reputational and consumer-protection backlash",
+      "description": "The model's dependence on trader failure is now discussed openly.",
+      "severity": "Medium",
+      "likelihood": "Medium",
+      "mitigation": "Education and analytics tooling, and transparency on the $500M+ paid out."
+    },
+    {
+      "title": "Revenue concentration in a single product",
+      "description": "Despite Quantlane and OANDA, evaluation fees produced the overwhelming majority of historical revenue.",
+      "severity": "Medium-High",
+      "likelihood": "Medium",
+      "mitigation": "The acquisition is designed to deliver exactly this diversification, and it is unproven."
     }
   ],
   "growth_opportunities": [
     {
-      "title": "PENDING — awaiting content",
-      "description": "PENDING — awaiting content",
-      "potential_impact": "PENDING — awaiting content",
-      "timeframe": "PENDING — awaiting content"
+      "title": "Trading regulatory arbitrage for regulatory legitimacy",
+      "description": "Converting an unregulated, high-margin, fragile revenue base into a licensed and defensible group. The logic holds and the sequencing is right: buy legitimacy before regulation forces it.",
+      "potential_impact": "High",
+      "timeframe": "Executing now"
+    },
+    {
+      "title": "Compliant US market access",
+      "description": "OANDA's US retail FX dealer licence restores durable access to the world's largest retail trading market, the channel MetaQuotes severed in 2024.",
+      "potential_impact": "High",
+      "timeframe": "Near-term"
+    },
+    {
+      "title": "Cross-sell between prop and brokerage",
+      "description": "OANDA's prop programme is already migrating to FTMO. Running it the other way, funnelling graduated FTMO traders into regulated OANDA accounts, converts a transactional relationship into a recurring one and is the bigger prize.",
+      "potential_impact": "High",
+      "timeframe": "Near to medium term"
+    },
+    {
+      "title": "Sector consolidation",
+      "description": "FTMO is the only prop firm with the balance sheet to buy distressed competitors during a shakeout.",
+      "potential_impact": "Medium-High",
+      "timeframe": "Medium term"
+    },
+    {
+      "title": "Data monetisation through Quantlane",
+      "description": "Simulated-trading data from millions of accounts feeding quantitative strategies is a genuinely differentiated asset, and its economics are entirely undisclosed.",
+      "potential_impact": "Medium",
+      "timeframe": "Medium term"
     }
   ],
   "key_questions": [
-    {
-      "category": "PENDING — awaiting content",
-      "question": "PENDING — awaiting content"
-    }
+    { "category": "On regulation", "question": "What is the base case for prop-trading regulation across the EU, UK and US, and what revenue impact does management model if evaluation firms are brought fully inside brokerage regulation?" },
+    { "category": "On revenue quality, which is the question that matters most", "question": "What share of FY2024's $329 million came from failed challenges rather than successful traders, and what is the repeat-attempt rate per customer? This single ratio determines how the business should be valued." },
+    { "category": "On leverage", "question": "What are the terms, covenants and amortisation schedule on the $250 million facility, and what is debt-service coverage if evaluation revenue falls 30%?" },
+    { "category": "On OANDA", "question": "What are its standalone revenue, margin and regulatory capital requirements, and what is the pro-forma blended group margin after integration?" },
+    { "category": "On integration", "question": "OANDA is running standalone. What is the actual roadmap, which synergies are underwritten, and on what timeline?" },
+    { "category": "On platform dependence", "question": "What share of evaluation volume runs through MetaQuotes platforms, and what is the contingency if support is withdrawn again?" },
+    { "category": "On margin", "question": "As the mix shifts toward regulated brokerage, what is the three-year target for blended group net margin?" },
+    { "category": "On Quantlane", "question": "What revenue and profit does the proprietary trading arm actually generate?" },
+    { "category": "On FY2025", "question": "What were revenue, profit and account growth? The accounts were not public at the time of writing." }
   ],
   "executive_summary": {
-    "overview": "PENDING — awaiting content",
+    "overview": "FTMO leads modern prop trading and performs remarkably on the numbers. FY2024 revenue reached about $329 million, up 53%, with net profit of about $62.5 million at a 19% margin, on a staff cost base of roughly 2.3% of revenue, about one-tenth the proportion IG Group and CMC Markets carry. FTMO grew 53% in a year when dozens of its competitors went under. Judged on the financials alone, the business looks superb. The financials are not the finding. What produces them is. FTMO earns most of its revenue from traders who fail their evaluations and forfeit non-refundable fees. The margin is extraordinary because the business is unregulated: no compliance staff, no regulatory capital, no trade reporting, no execution. That position rests entirely on the argument that the trading is simulated, an argument regulators have not yet tested. The industry lobbying for its own regulation suggests insiders expect them to.",
     "key_findings": [
-      "PENDING — awaiting content"
+      "FY2024 revenue about $329 million, up 53%, with net profit of about $62.5 million at a 19% margin, on staff costs of roughly 2.3% of revenue — about one-tenth the proportion IG Group and CMC Markets carry",
+      "FTMO earns most of its revenue from traders who fail their evaluations and forfeit non-refundable fees; the extraordinary margin exists because the business sits outside brokerage regulation on the untested argument that its trading is simulated",
+      "In December 2025 FTMO acquired OANDA, a 30-year-old broker holding licences in about eight markets including the US, buying regulatory legitimacy before regulation compels it and restoring compliant US access severed by MetaQuotes in 2024",
+      "FTMO funded the OANDA deal with a $250 million credit facility, putting real leverage on a business earning about $62.5 million a year, and trades margin for defensibility by design since regulated brokerage earns far less than selling failed challenges",
+      "FTMO has never run a regulated multi-jurisdiction broker, and keeping OANDA standalone defers that integration challenge rather than resolving it"
     ],
     "investment_thesis_notes": [
-      "PENDING — awaiting content"
+      "The OANDA acquisition is well-timed and well-chosen: it buys regulatory legitimacy before regulation compels it, restores compliant US access, diversifies revenue into a licensed entity, and turns a fragile business into a defensible one",
+      "It is also not free: the deal is debt-funded ($250M facility against ~$62.5M annual earnings), trades margin for defensibility by design, and FTMO has never run a regulated multi-jurisdiction broker — keeping OANDA standalone defers rather than resolves that integration challenge"
     ],
-    "overall_rating": "PENDING — awaiting content",
-    "recommendation": "PENDING — awaiting content"
+    "overall_rating": "Exceptional economics, existential regulatory exposure, and a well-judged debt-funded attempt to escape it.",
+    "recommendation": "Proceed, with the diligence conditional on three things. First, get the revenue-quality split: what share of the $329 million comes from failed versus successful traders, and what the repeat-attempt rate is. That ratio, more than any other number, decides whether this is a durable business or a monetised failure funnel, and it should drive the multiple. Second, build a regulatory scenario model that quantifies group revenue and margin under full brokerage regulation of the evaluation business, and stress the $250 million facility's covenants against a 30% decline in evaluation revenue. Third, obtain OANDA's standalone economics and the true pro-forma blended margin. The group's post-deal margin will land well below 19% by design, and any valuation anchored on historical prop margins will be wrong. This is a strong asset executing a clever hedge. The evidence says FTMO is well run. What remains unanswered is whether $250 million of debt and one acquisition are enough to outrun the regulatory reckoning its own industry is asking for."
   }
 }
