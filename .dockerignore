@@ -1,0 +1,10 @@
+**/.git
+**/.DS_Store
+**/__pycache__
+**/*.pyc
+backend/.venv
+frontend/node_modules
+frontend/dist
+.claude
+.artifacts
+README.md

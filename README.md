@@ -113,9 +113,22 @@ npm run dev
 ```
 
 Open http://localhost:5173, fill in the intake form, and the report renders
-using data from the local FastAPI backend. `frontend/src/api/client.ts`
-defaults to `http://127.0.0.1:8000`; override with a `VITE_API_BASE` env var
-if needed.
+using data from the local FastAPI backend. `frontend/src/api/client.ts` calls
+a relative `/api` base; Vite's dev server proxies `/api/*` to
+`http://127.0.0.1:8000` (see `frontend/vite.config.ts`), so both pieces run
+as separate processes exactly as above.
+
+## Deployment
+
+The app deploys to Railway as a single service: FastAPI serves the built
+frontend as static files (with an SPA fallback) and answers `/api/*` itself,
+so there is one URL and one process, and `/api` resolves same-origin with no
+proxy involved. The `Dockerfile` builds the frontend (`npm ci && npm run
+build`) in one stage and copies `frontend/dist` into the Python runtime
+stage alongside the backend; `uvicorn` binds to `0.0.0.0:$PORT`, which
+Railway injects. `railway.toml` points Railway at the Dockerfile and sets a
+health check against `/api/health`. Local dev is unaffected — running
+backend and frontend as two processes (above) still works the same way.
 
 ## Roadmap (post-v0.1)
 
