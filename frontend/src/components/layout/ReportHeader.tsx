@@ -10,18 +10,18 @@ export function ReportHeader({ report, onReset }: ReportHeaderProps) {
 
   return (
     <header className="border-b border-ink-200 bg-paper">
-      <div className="no-print flex items-center justify-between border-b border-ink-200 px-6 py-3 text-xs uppercase tracking-wider text-ink-400 sm:px-10">
+      <div className="no-print flex items-center justify-between bg-ink-900 px-6 py-3 text-xs uppercase tracking-wider text-ink-300 sm:px-10">
         <span>Commercial Due Diligence Workbench</span>
         <div className="flex items-center gap-4">
           <button
             onClick={() => window.print()}
-            className="border border-ink-300 px-3 py-1.5 text-ink-700 transition-colors hover:border-ink-900 hover:text-ink-900"
+            className="border border-ink-600 px-3 py-1.5 text-paper transition-colors hover:border-paper"
           >
             Export / Print
           </button>
           <button
             onClick={onReset}
-            className="border border-ink-300 px-3 py-1.5 text-ink-700 transition-colors hover:border-ink-900 hover:text-ink-900"
+            className="border border-ink-600 px-3 py-1.5 text-paper transition-colors hover:border-paper"
           >
             New Engagement
           </button>

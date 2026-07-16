@@ -45,7 +45,7 @@ function DivergingBar(props: any) {
 function ChartTooltip({ active, payload, label, unit, signed }: any) {
   if (!active || !payload?.length) return null;
   return (
-    <div className="border border-ink-200 bg-white px-3 py-2 text-xs shadow-sm">
+    <div className="border border-ink-900 bg-white px-3 py-2 text-xs shadow-sm">
       <div className="font-medium text-ink-900">{label}</div>
       <div className="text-ink-600">{formatValue(payload[0].value, unit, signed)}</div>
     </div>

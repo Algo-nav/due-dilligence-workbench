@@ -33,7 +33,7 @@ export function EngagementSelector({ onSelect, loading, error }: EngagementSelec
   const ready = reports !== null && reports.length > 0;
 
   return (
-    <form onSubmit={handleSubmit} className="border border-ink-200 bg-white p-8 shadow-sm">
+    <form onSubmit={handleSubmit} className="border border-ink-900 bg-white p-8 shadow-sm">
       <label className="mb-1.5 block text-xs font-semibold uppercase tracking-wide text-ink-500">
         Select a sample engagement
       </label>

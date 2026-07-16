@@ -55,7 +55,7 @@ export function BulletList({ items }: { items: string[] }) {
 
 export function DataTile({ label, value }: { label: string; value: string }) {
   return (
-    <div className="border border-ink-200 bg-white px-4 py-3">
+    <div className="border border-ink-900 bg-white px-4 py-3">
       <div className="text-xs uppercase tracking-wide text-ink-500">{label}</div>
       <div className="mt-1 font-serif text-lg text-ink-900">{value}</div>
     </div>
