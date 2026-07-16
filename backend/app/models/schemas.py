@@ -25,6 +25,7 @@ class CompanyProfile(BaseModel):
     employee_count: Optional[str] = None
     description: str
     key_facts: List[KeyFact]
+    evidence_note: Optional[str] = None
 
 
 class ChartSeries(BaseModel):
@@ -62,6 +63,7 @@ class MarketOverview(BaseModel):
     market_size_summary: str
     key_stats: List[KeyStat]
     regional_notes: str
+    chart: Optional[Chart] = None
 
 
 class MarketSizeLayer(BaseModel):

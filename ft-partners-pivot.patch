@@ -1,0 +1,1622 @@
+diff --git a/backend/app/data/reports/element-ventures.json b/backend/app/data/reports/element-ventures.json
+new file mode 100644
+index 0000000..cfb74be
+--- /dev/null
++++ b/backend/app/data/reports/element-ventures.json
+@@ -0,0 +1 @@
++{"generated_at": "PENDING", "input": {"company_name": "element-ventures"}}
+diff --git a/backend/app/data/reports/etoro.json b/backend/app/data/reports/etoro.json
+deleted file mode 100644
+index 3f64737..0000000
+--- a/backend/app/data/reports/etoro.json
++++ /dev/null
+@@ -1,378 +0,0 @@
+-{
+-  "input": {
+-    "company_name": "eToro Group Ltd.",
+-    "website": null,
+-    "industry": "Retail multi-asset trading and investing platform",
+-    "geography": "eToro holds licences with the FCA in the UK, CySEC in Cyprus, ASIC in Australia, US regulators, Abu Dhabi and several EU states."
+-  },
+-  "generated_at": "2026-07-12T00:00:00Z",
+-  "company_profile": {
+-    "legal_name": "eToro Group Ltd. (NASDAQ: ETOR)",
+-    "website": null,
+-    "industry": "Retail multi-asset trading and investing platform",
+-    "geography": "eToro holds licences with the FCA in the UK, CySEC in Cyprus, ASIC in Australia, US regulators, Abu Dhabi and several EU states.",
+-    "founded_year": "2007",
+-    "headquarters": "Tel Aviv, Israel (US headquarters: Hoboken, New Jersey)",
+-    "employee_count": null,
+-    "description": "Yoni Assia, his brother Ronen and David Ring founded the company in Tel Aviv in 2007 as RetailFX. It listed on Nasdaq on 14 May 2025 at $52 a share, raising about $620 million. eToro holds licences with the FCA in the UK, CySEC in Cyprus, ASIC in Australia, US regulators, Abu Dhabi and several EU states. It serves roughly 40 million registered users and 4.23 million funded accounts across about 75 countries. Users trade equities, ETFs, commodities, currencies, CFDs and more than 150 cryptoassets across 25 stock exchanges. Copy trading sits at the centre of the product: users replicate the portfolios of other traders. Q1 2026 was the company's strongest quarter since listing. Evidence note: Financials, KPIs and regulatory facts come from eToro's public filings, FY2025 results, Q1 2026 results and disclosed monthly metrics. Market-sizing figures are analyst-constructed estimates with stated assumptions, not third-party market data. A live engagement would triangulate these against named paid sources. Evidence grade: High. The target is listed on Nasdaq and files quarterly.",
+-    "key_facts": [
+-      { "label": "Founders", "value": "Yoni Assia, Ronen Assia, David Ring" },
+-      { "label": "Ownership", "value": "Public. NASDAQ: ETOR since 14 May 2025." },
+-      { "label": "Q1 2026 net contribution", "value": "$258M, up 19% year on year" },
+-      { "label": "Q1 2026 net income (GAAP)", "value": "$82M, up 37%" },
+-      { "label": "Q1 2026 adjusted EBITDA", "value": "$109M, up 35%" },
+-      { "label": "Funded accounts", "value": "4.23M (May 2026), up 17%" },
+-      { "label": "Assets under administration", "value": "$20.1B (May 2026), up 18%" },
+-      { "label": "Cash and short-term investments", "value": "$1.3B" },
+-      { "label": "FY2025", "value": "$868M net contribution, $216M net income" },
+-      { "label": "Funded accounts by region", "value": "Europe and UK 72%, APAC 14%, Americas 10%, Middle East and Africa 4%" }
+-    ]
+-  },
+-  "business_model": {
+-    "revenue_model": "eToro reports five streams as \"net contribution\", which reached $868M in FY2025 and $258M in Q1 2026 alone. Capital markets trading (equities, commodities, currencies) now carries the business. It hit a record $166M in Q1 2026, up 71% year on year. Commodities alone drove about 60% of trading commissions. Crypto produces enormous volume and thin margin. Crypto net trading contribution fell to $13M in Q1 2026, and crypto trades dropped 31% year on year by May. eToro keeps investing here through the Zengo acquisition and its on-chain roadmap, but crypto no longer drives profit. Net interest on customer cash and margin balances contributed $48M in Q1 2026, down 5% year on year as rates eased. Interest-earning assets stood at $7.2B. eToro Money, the neo-banking arm, reached $29M in Q1 2026, up from $22M a year earlier. Money transfers doubled year on year to $1.6B in May. Subscriptions and other covers premium tiers at around $5 a month, the App Store and blockchain rewards.",
+-    "value_proposition": "A single app where retail investors trade equities, commodities, currencies, crypto and CFDs, and can copy the portfolios of successful traders instead of picking positions themselves. Breadth plus social proof, aimed at users who lack the time or confidence to trade unassisted.",
+-    "key_activities": [
+-      "Platform engineering across five asset classes.",
+-      "Running the social and copy-trading network.",
+-      "AI product development, including the Tori agent built with xAI and Agent Portfolios.",
+-      "Regulatory licensing and compliance in every market.",
+-      "Acquisitions: Zengo, Bit2C and Spaceship."
+-    ],
+-    "key_resources": [
+-      "The copy-trading network and the community of traders that populates it.",
+-      "Regulatory licences across roughly 75 countries.",
+-      "The proprietary multi-asset platform.",
+-      "A $1.3 billion cash balance funding acquisitions and buybacks.",
+-      "The brand, and a registered base of about 40 million users."
+-    ],
+-    "channels": [
+-      "Direct to consumer through mobile and web.",
+-      "Community and social features that generate organic acquisition, supported by paid marketing.",
+-      "The eToro App Store as a partner and ecosystem channel.",
+-      "Public APIs for third-party developers."
+-    ],
+-    "customer_relationships": "Self-directed and community-mediated. Users interact with each other as much as with the platform, and copy trading turns other users into the product. Switching costs are low, so the community and the multi-product relationship through eToro Money carry the retention burden.",
+-    "cost_structure": [
+-      "Cost of crypto revenue dominates the gross cost line and moves with crypto volume.",
+-      "Customer acquisition and marketing follow, and both are rising: adjusted operating expenses grew 7% quarter on quarter on higher acquisition costs.",
+-      "Platform engineering and R&D.",
+-      "Compliance across every licensed jurisdiction."
+-    ],
+-    "chart": {
+-      "type": "bar",
+-      "title": "Net contribution by stream, Q1 2026",
+-      "subtitle": "Crypto, the supposed core risk, now contributes least.",
+-      "unit": "$M",
+-      "series": [
+-        { "label": "Capital markets", "value": 166 },
+-        { "label": "Net interest", "value": 48 },
+-        { "label": "eToro Money", "value": 29 },
+-        { "label": "Crypto", "value": 13 }
+-      ],
+-      "emphasis": ["Crypto"]
+-    }
+-  },
+-  "market_overview": {
+-    "narrative": "eToro competes in retail online trading and investing, a large market whose revenue swings with retail participation, volatility and interest rates. Retail money moved out of crypto and into commodities through the first half of 2026. eToro's asset breadth let it capture that rotation: capital markets trades rose 90% year on year in Q1 to 243 million, and total invested amount climbed to $50 billion from $39 billion. A second shift matters more for margin. Automated and agentic investing is changing how users trade. Copy trading, Agent Portfolios and the App Store generate far more trades of far smaller size. Invested amount per trade fell about 25% to $197. Management confirmed that agentic and copy flows carry a lower take rate than self-directed trading. Engagement is climbing faster than revenue per trade.",
+-    "market_size_summary": "No independent third-party market-size figure is cited in the source material. See Market Sizing (TAM/SAM/SOM) for the analyst-constructed estimate, built from eToro's disclosed economics and stated penetration assumptions rather than third-party market data.",
+-    "key_stats": [
+-      { "label": "Q1 2026 net contribution", "value": "$258M, up 19%" },
+-      { "label": "Q1 2026 adjusted EBITDA", "value": "$109M, up 35%" },
+-      { "label": "Capital markets net trading contribution", "value": "Record $166M, up 71%" },
+-      { "label": "Commodities share of trading commissions", "value": "About 60% (Q1 2026)" },
+-      { "label": "Crypto net trading contribution", "value": "$13M" },
+-      { "label": "Total trades", "value": "253M in Q1 2026, up from 148M" }
+-    ],
+-    "regional_notes": "eToro holds licences with the FCA in the UK, CySEC in Cyprus, ASIC in Australia, US regulators, Abu Dhabi and several EU states, serving roughly 40 million registered users and 4.23 million funded accounts across about 75 countries. Funded accounts by region: Europe and UK 72%, APAC 14%, Americas 10%, Middle East and Africa 4%."
+-  },
+-  "tam_sam_som": {
+-    "tam": {
+-      "value": "Low tens of billions of dollars a year (analyst-constructed estimate)",
+-      "description": "Global retail online trading and investing generates a revenue pool in the low tens of billions of dollars a year, spanning brokerage, CFDs, crypto intermediation and net interest income."
+-    },
+-    "sam": {
+-      "value": "Mid-single-digit billions of annual revenue (analyst-constructed estimate)",
+-      "description": "Multi-asset retail trading in the markets where eToro holds licences (UK, EU, Australia, US, GCC, APAC) accounts for an estimated mid-single-digit billions of annual revenue."
+-    },
+-    "som": {
+-      "value": "Roughly $1 billion annualised run rate, based on Q1 2026 net contribution of $258M",
+-      "description": "eToro captures roughly $1 billion on an annualised run rate, based on Q1 2026 net contribution of $258M. It converts about 11% of its 40 million registered users into 4.23 million funded accounts, which leaves the funnel as the largest untapped lever. Europe and the UK hold 72% of funded accounts, so APAC at 14%, the Americas at 10% and MEA at 4% all sit below their market weight."
+-    },
+-    "methodology_note": "Analyst-constructed estimate. We built this from eToro's disclosed economics and stated penetration assumptions rather than third-party market data. Treat it as directional. A live engagement would triangulate against named paid sources. Market size does not constrain this business. The question worth diligence is whether the revenue mix holds its take rate as trading shifts toward automated, lower-value transactions."
+-  },
+-  "industry_trends": [
+-    {
+-      "title": "Volatility drives the sector, and nobody controls it",
+-      "description": "The 2026 commodities surge produced eToro's record quarter. Asset breadth protects against rotation between classes. It offers nothing against a broad calm-market regime that suppresses activity everywhere at once.",
+-      "impact": "High"
+-    },
+-    {
+-      "title": "Agentic and automated retail investing",
+-      "description": "Copy trading, AI agents and Agent Portfolios have already generated over 500,000 trades. They raise trade counts and cut invested amount per trade, and they carry a lower take rate. The shift cuts both ways.",
+-      "impact": "High"
+-    },
+-    {
+-      "title": "Rates are normalising",
+-      "description": "Net interest contribution fell 5% year on year in Q1 2026. A tailwind has become a mild headwind.",
+-      "impact": "Medium-High"
+-    },
+-    {
+-      "title": "Tokenisation and on-chain infrastructure",
+-      "description": "eToro bought Zengo, a self-custodial wallet provider, in April 2026 and has stated ambitions in perpetuals and prediction markets. The prize is large and the timing is unknown.",
+-      "impact": "Medium-High"
+-    },
+-    {
+-      "title": "Regulatory pressure on CFDs and crypto",
+-      "description": "UK and EU regulators keep targeting the highest-leverage retail products.",
+-      "impact": "Medium-High"
+-    }
+-  ],
+-  "competitor_landscape": {
+-    "competitors": [
+-      {
+-        "name": "Robinhood",
+-        "positioning": "The US mass-market incumbent. Wins on scale and brand at home, and cannot follow eToro abroad.",
+-        "strengths": ["Dominant US retail brand", "Large scale", "Strong options and crypto franchise", "Fast product cycles"],
+-        "weaknesses": ["Thin international footprint", "No social or copy-trading network", "Heavy exposure to US regulatory and payment-for-order-flow dynamics"]
+-      },
+-      {
+-        "name": "Plus500 (LSE: PLUS)",
+-        "positioning": "The efficiency play. Fewer customers, far better margins, and no community.",
+-        "strengths": ["The best operating efficiency in the sector at a 44% EBITDA margin", "Debt-free", "Disciplined capital returns", "A growing US futures and clearing business"],
+-        "weaknesses": ["Active customer base shrank 5% last year", "Narrower product set", "No community layer"]
+-      },
+-      {
+-        "name": "IG Group",
+-        "positioning": "The legacy incumbent. Broad and trusted, and structurally slower and more expensive.",
+-        "strengths": ["The largest UK-listed CFD and spread-betting incumbent", "Scale", "Brand heritage", "Institutional reach and broad products"],
+-        "weaknesses": ["Higher cost base", "Lower margins", "Slower innovation", "Weaker appeal to mobile-first retail users"]
+-      },
+-      {
+-        "name": "Trading 212",
+-        "positioning": "The price attacker. Takes eToro's European entry-level users on cost.",
+-        "strengths": ["Zero-commission pricing that is winning users fast in Europe and the UK, where eToro holds 72% of its funded accounts"],
+-        "weaknesses": ["Narrower products", "Unproven profitability through a full cycle", "No community features"]
+-      },
+-      {
+-        "name": "XTB",
+-        "positioning": "The regional challenger. Strong where it operates, and limited beyond it.",
+-        "strengths": ["Strong position in Central and Eastern Europe", "Widening product range", "Competitive pricing", "Fast European growth"],
+-        "weaknesses": ["Geographic concentration", "Smaller international brand"]
+-      },
+-      {
+-        "name": "Coinbase",
+-        "positioning": "The crypto specialist. Deeper than eToro on one asset class, absent on every other.",
+-        "strengths": ["The deepest crypto liquidity, custody and institutional infrastructure, which threatens eToro's on-chain ambitions directly"],
+-        "weaknesses": ["No equities or commodities offering", "Earnings tied entirely to the crypto cycle that eToro has now diversified away from"]
+-      },
+-      {
+-        "name": "Revolut",
+-        "positioning": "The super-app rival, running eToro's own strategy from the banking side.",
+-        "strengths": ["A very large retail base", "A banking-first relationship", "The same super-app strategy eToro is pursuing, approached from the banking side"],
+-        "weaknesses": ["Shallower trading depth", "Weaker credibility with active traders"]
+-      }
+-    ],
+-    "competitive_intensity_narrative": "eToro competes on network effects and asset breadth, not price. Commission-free challengers squeeze it from below, and super-apps and crypto natives press from either side. Q1 2026 showed the breadth is real: no single-asset competitor could have absorbed a crypto collapse and still posted a record quarter."
+-  },
+-  "customer_segments": [
+-    {
+-      "name": "Copy and automated investors (the core, and growing)",
+-      "description": "Mainstream retail users who let other traders or AI agents make their decisions. The largest segment by count.",
+-      "needs": ["Simplicity", "Social validation", "Low-effort investing"],
+-      "buying_behavior": "Small and frequent trades, with invested amount per trade down to about $197. High engagement. Increasingly served by copy trading and Agent Portfolios, which earn eToro a lower take rate than self-directed trading."
+-    },
+-    {
+-      "name": "Active multi-asset traders (highest value)",
+-      "description": "Self-directed users trading equities, commodities, currencies and CFDs across the platform's full breadth.",
+-      "needs": ["Product breadth", "Execution quality", "24/7 access", "Advanced tools"],
+-      "buying_behavior": "Higher volume and higher value. This group drove the record $166M capital markets contribution and the commodities surge."
+-    },
+-    {
+-      "name": "Crypto-led users (contribution falling)",
+-      "description": "Users who came for crypto and stayed for it. Once the engagement engine, now a minor profit contributor at $13M in Q1 2026.",
+-      "needs": ["Asset breadth across 150+ cryptoassets", "Self-custody through Zengo", "On-chain access"],
+-      "buying_behavior": "Deeply cyclical. Crypto trades fell 31% year on year by May 2026. Valuable at the top of the funnel and for engagement, not for margin."
+-    },
+-    {
+-      "name": "eToro Money users (emerging, strategic)",
+-      "description": "Around 1.75 million users holding cards, IBANs and cash balances through the neo-banking arm.",
+-      "needs": ["Cards", "Transfers", "Currency conversion", "Cash management"],
+-      "buying_behavior": "Transactional and habitual rather than speculative. Money transfers doubled year on year. This is the stickiest and least cyclical relationship eToro has."
+-    }
+-  ],
+-  "swot_analysis": {
+-    "strengths": [
+-      "The diversification thesis survived a live test. Crypto contribution collapsed to $13M and the company still posted a record quarter.",
+-      "The copy-trading network gives eToro a moat competitors cannot buy.",
+-      "Record Q1 2026: $258M net contribution, $82M net income, $109M adjusted EBITDA.",
+-      "Licences across roughly 75 countries and $1.3B in cash funding acquisitions.",
+-      "Early AI positioning through Tori, Agent Portfolios and the App Store, with reported productivity gains."
+-    ],
+-    "weaknesses": [
+-      "Growth depends on volatility. A commodities surge produced the record quarter, and management said so.",
+-      "Take-rate quality is eroding. Invested amount per trade fell 25% to 48%, and copy and agentic flows earn less per trade.",
+-      "Customer acquisition costs are climbing. Operating expenses rose 7% quarter on quarter, and management attributed funded-account growth to marketing spend.",
+-      "Net interest contribution is now shrinking, down 5%.",
+-      "Europe and the UK hold 72% of funded accounts."
+-    ],
+-    "opportunities": [
+-      "Converting the funnel: 40 million registered users against 4.23 million funded accounts.",
+-      "Underweight regions: MEA at 4% of funded accounts, the Americas at 10%, APAC at 14%. The Abu Dhabi licence opens the Gulf.",
+-      "eToro Money, where transfers doubled year on year and revenue is uncorrelated with trading volatility.",
+-      "Tokenisation, perpetuals and prediction markets, accelerated by Zengo.",
+-      "The App Store and subscriptions as recurring revenue."
+-    ],
+-    "threats": [
+-      "A calm market. Low volatility suppresses activity in every asset class at once, and breadth is no defence.",
+-      "Trading 212 and XTB taking European users on price.",
+-      "Revolut converging from banking, Coinbase from crypto.",
+-      "Regulators tightening on CFDs and crypto.",
+-      "Operational concentration in Israel."
+-    ]
+-  },
+-  "porters_five_forces": {
+-    "forces": [
+-      {
+-        "force_name": "Competitive rivalry",
+-        "rating": "High",
+-        "rationale": "CFD incumbents, commission-free challengers, crypto exchanges and neo-banks all compete for the same retail user."
+-      },
+-      {
+-        "force_name": "Threat of new entrants",
+-        "rating": "Medium",
+-        "rationale": "Licences and the copy-trading network deter newcomers, but large neo-banks and fintechs cross over with user bases already built."
+-      },
+-      {
+-        "force_name": "Buyer power",
+-        "rating": "Medium-High",
+-        "rationale": "Users switch platforms easily and compare prices. The community and multi-product relationships do the retention work."
+-      },
+-      {
+-        "force_name": "Supplier power",
+-        "rating": "Medium",
+-        "rationale": "eToro depends on liquidity providers, custodians and market-data vendors. Upstream venues set crypto intermediation economics, which explains why crypto margin stays thin."
+-      },
+-      {
+-        "force_name": "Threat of substitutes",
+-        "rating": "Medium-High",
+-        "rationale": "Robo-investing, direct crypto exchanges, prediction markets and traditional brokers each replace part of what eToro offers."
+-      }
+-    ],
+-    "overall_attractiveness": "The market is attractive and crowded. eToro defends its position with network effects and breadth rather than cost, and Q1 2026 gave that defence its first real test."
+-  },
+-  "commercial_risks": [
+-    {
+-      "title": "Volatility dependence",
+-      "description": "Management attributed the record quarter to a commodities volatility surge. Multi-asset breadth protects against rotation between asset classes and does nothing against a calm-market regime that suppresses all of them together. This is now the primary risk in the business.",
+-      "severity": "High",
+-      "likelihood": "High",
+-      "mitigation": "Grow non-cyclical revenue through eToro Money, subscriptions and interest to build a floor."
+-    },
+-    {
+-      "title": "Take-rate erosion",
+-      "description": "Trade counts are exploding while invested amount per trade falls 25% to 48%. Management concedes agentic and copy take rates run below self-directed trading.",
+-      "severity": "Medium-High",
+-      "likelihood": "High",
+-      "mitigation": "Subscription tiers, App Store monetisation, premium products."
+-    },
+-    {
+-      "title": "Rising customer acquisition cost",
+-      "description": "Funded-account growth came from marketing spend, and operating expenses rose 7% quarter on quarter.",
+-      "severity": "Medium-High",
+-      "likelihood": "Medium-High",
+-      "mitigation": "Convert the 40 million registered users organically and lean on the social flywheel."
+-    },
+-    {
+-      "title": "Falling interest income",
+-      "description": "Net interest contribution is down 5% and will keep falling with rates.",
+-      "severity": "Medium",
+-      "likelihood": "High",
+-      "mitigation": "Fee, subscription and Money revenue."
+-    },
+-    {
+-      "title": "Regulatory action on CFDs and crypto",
+-      "description": "Core products remain regulatory targets in core markets.",
+-      "severity": "High",
+-      "likelihood": "Medium",
+-      "mitigation": "Product and geographic diversification."
+-    },
+-    {
+-      "title": "Geographic concentration",
+-      "description": "Europe and the UK hold 72% of funded accounts, exposing eToro to one regulatory and economic bloc.",
+-      "severity": "Medium",
+-      "likelihood": "Medium",
+-      "mitigation": "Expansion into MEA, APAC and the Americas."
+-    },
+-    {
+-      "title": "Israel operations",
+-      "description": "eToro lists its core operations and the regional conflict as disclosed risk factors.",
+-      "severity": "Medium",
+-      "likelihood": "Medium",
+-      "mitigation": "Distributed operations."
+-    }
+-  ],
+-  "growth_opportunities": [
+-    {
+-      "title": "Funnel conversion",
+-      "description": "Around 11% of registered users become funded accounts. Raising that number costs less than buying new users and cuts CAC dependence at the same time.",
+-      "potential_impact": "High",
+-      "timeframe": "Near-term"
+-    },
+-    {
+-      "title": "eToro Money",
+-      "description": "Revenue reached $29M in Q1 2026, up from $22M, and transfers doubled year on year. It earns money whether or not markets move, which is the natural hedge against volatility dependence.",
+-      "potential_impact": "High",
+-      "timeframe": "Near to medium term"
+-    },
+-    {
+-      "title": "Underweight geographies",
+-      "description": "MEA holds 4% of funded accounts and the Americas 10%, against 72% in Europe and the UK. The Abu Dhabi licence gives eToro a Gulf bridgehead.",
+-      "potential_impact": "High",
+-      "timeframe": "Medium term"
+-    },
+-    {
+-      "title": "AI and the App Store",
+-      "description": "Tori, Agent Portfolios and the App Store drive engagement and could carry subscription revenue. They also dilute take rate, so how eToro prices them will decide whether they add or subtract.",
+-      "potential_impact": "Medium-High",
+-      "timeframe": "Medium term"
+-    },
+-    {
+-      "title": "Tokenisation and perpetuals",
+-      "description": "Zengo and the on-chain roadmap position eToro for a shift whose timing nobody can call.",
+-      "potential_impact": "High",
+-      "timeframe": "Longer term"
+-    },
+-    {
+-      "title": "Wealth management and subscriptions",
+-      "description": "Recurring, higher-margin revenue that cuts cyclicality.",
+-      "potential_impact": "Medium-High",
+-      "timeframe": "Medium term"
+-    }
+-  ],
+-  "key_questions": [
+-    { "category": "On volatility", "question": "How much of Q1 2026 came from the commodities volatility spike, and what does the P&L look like in a quiet quarter across every asset class?" },
+-    { "category": "On take rate", "question": "Invested amount per trade fell 25% to 48%, and agentic and copy flows earn less than self-directed trading. What is the net revenue effect once automated flows become the majority, and at what point does engagement growth stop covering the shortfall?" },
+-    { "category": "On acquisition cost", "question": "Management attributed funded-account growth to marketing spend. What are blended CAC, payback period, and the organic share of new funded accounts?" },
+-    { "category": "On the funnel", "question": "40 million registered users, 4.23 million funded. Why has that ratio not improved, and what is the plan and target?" },
+-    { "category": "On interest income", "question": "Net interest contribution is down 5%. What happens under another 200 basis points of cuts?" },
+-    { "category": "On geography", "question": "Europe and the UK hold 72% of funded accounts. What is the investment case and timeline for MEA and the Americas?" },
+-    { "category": "On crypto", "question": "Crypto contribution is down to $13M. What is the return case for continued investment in Zengo, on-chain and perpetuals against redeploying that capital?" },
+-    { "category": "On capital", "question": "With $1.3B in cash, an active buyback and a live acquisition programme, what is the hurdle rate for deployment?" }
+-  ],
+-  "executive_summary": {
+-    "overview": "eToro delivered its strongest quarter since listing. Q1 2026 net contribution reached $258M, up 19%. GAAP net income reached $82M, up 37%. Adjusted EBITDA reached $109M, up 35%. Funded accounts hit 4.23 million by May. The obvious bear case has already been tested and it failed: crypto net trading contribution fell to $13M and crypto trades dropped 31% year on year, yet eToro posted a record quarter anyway as users rotated into commodities, which now drive around 60% of trading commissions, and capital markets contribution surged 71% to a record $166M. The multi-asset flywheel absorbed the shock.",
+-    "key_findings": [
+-      "Q1 2026 net contribution $258M (+19%), GAAP net income $82M (+37%), adjusted EBITDA $109M (+35%), funded accounts reaching 4.23 million by May 2026",
+-      "The obvious bear case — crypto dependence — has already been tested and it failed: crypto net trading contribution fell to $13M and crypto trades dropped 31% year on year, yet eToro posted a record quarter as users rotated into commodities (around 60% of trading commissions) and capital markets contribution surged 71% to a record $166M",
+-      "The risk that remains sits one level deeper: this business depends on volatility itself. Asset breadth protects eToro when money rotates between asset classes, and protects it not at all when markets go quiet and activity falls everywhere at once",
+-      "Take-rate quality is eroding as copy and agentic trading replace self-directed trading, cutting invested amount per trade by 25% to 48% and earning less on each one, and growth is bought rather than earned, with operating expenses up 7% quarter on quarter on marketing spend",
+-      "The interest-income tailwind has turned into a headwind, down 5%"
+-    ],
+-    "investment_thesis_notes": [
+-      "The diversification thesis has been proven: the multi-asset flywheel absorbed a crypto collapse and eToro still posted a record quarter",
+-      "The remaining risk sits one level deeper than crypto dependence — the business depends on volatility itself, compounded by eroding take-rate quality and marketing-driven customer acquisition cost"
+-    ],
+-    "overall_rating": "Attractive. The diversification thesis has been proven. Growth still depends on volatility.",
+-    "recommendation": "Proceed to deeper diligence on three questions. First, model the through-cycle earnings profile in a low-volatility environment, which is the largest unknown in this business. Second, quantify the net monetisation effect of the shift toward automated trading, where engagement is rising faster than revenue per trade. Third, separate organic from paid funded-account growth and test whether the 40-million-user funnel converts without escalating CAC. The franchise is real, the diversification works, and the balance sheet is strong. What the valuation turns on is whether earnings hold up when markets go quiet."
+-  }
+-}
+diff --git a/backend/app/data/reports/ft-partners.json b/backend/app/data/reports/ft-partners.json
+new file mode 100644
+index 0000000..48387bc
+--- /dev/null
++++ b/backend/app/data/reports/ft-partners.json
+@@ -0,0 +1,389 @@
++{
++  "input": {
++    "company_name": "FT Partners (Financial Technology Partners)",
++    "website": "https://www.ftpartners.com",
++    "industry": "Investment Banking / FinTech M&A and Capital Advisory",
++    "geography": "Global (US, UK, cross-border)"
++  },
++  "generated_at": "2026-07-15",
++  "company_profile": {
++    "legal_name": "Financial Technology Partners LP (US broker-dealer: FTP Securities LLC; UK entity: FinTech Partners Ltd)",
++    "website": "https://www.ftpartners.com",
++    "industry": "Boutique investment banking, fintech-only coverage",
++    "geography": "Headquartered in San Francisco; offices in New York and London; founder based in Miami",
++    "founded_year": "2002",
++    "headquarters": "100 California Street, San Francisco, CA",
++    "employee_count": "~225 as of Dec 2021 (WSJ); current directories list 51-200",
++    "description": "Steve McLaughlin left his post as head of fintech investment banking at Goldman Sachs in 2002 and founded FT Partners from his San Francisco apartment. The firm positions itself as the only investment bank focused exclusively on fintech and has stayed founder-owned for its entire history. McLaughlin ran the firm as its sole managing director for roughly a decade and still touches every mandate. The Wall Street Journal reported the firm generated around $600 million of revenue in 2021 with 225 employees, implying roughly $2.7 million of revenue per head, a figure most bulge-bracket coverage groups cannot match. The firm represents sellers only, negotiates success fees that ratchet up with price, and earned what Dealogic recorded as the largest single advisory fee on record, $250 million, on one 2019 sale. FT Partners states it has not actively solicited clients in over a decade and instead filters hundreds of monthly inbound inquiries down to a limited mandate book, running at roughly 30 transactions a year. The firm also runs a substantial research arm, publishing monthly CEO market updates, quarterly FinTech Insights, an annual Almanac, and, since 2025, a co-authored Global FinTech Report with BCG.",
++    "key_facts": [
++      { "label": "Ownership", "value": "100% founder-owned (Steve McLaughlin)" },
++      { "label": "Revenue (2021, WSJ)", "value": "~$600M" },
++      { "label": "Implied valuation (2021, WSJ)", "value": "~$2B" },
++      { "label": "Deal pace", "value": "~30 transactions / year" },
++      { "label": "Record advisory fee (2019)", "value": "$250M (largest on record, Dealogic)" },
++      { "label": "Client model", "value": "Sell-side only, inbound-driven" },
++      { "label": "US regulation", "value": "FTP Securities LLC, FINRA / SIPC member" },
++      { "label": "UK regulation", "value": "FinTech Partners Ltd, FCA appointed representative (FRN 787501)" },
++      { "label": "Research franchise", "value": "Monthly, quarterly, and annual fintech publications; BCG co-author" },
++      { "label": "Notable advised deals", "value": "Circle SPAC ($4.5B), Truebill/Rocket ($1.275B), Taulia/SAP, InstaMed/JPMorgan" }
++    ],
++    "evidence_note": "Sources used for this sample report: FT Partners' own website, transaction announcements, and published FinTech Insights; Wall Street Journal and Bloomberg reporting on firm financials and fee structures; the firm's regulatory disclosures (FINRA/SIPC membership for FTP Securities LLC, FCA reference numbers for FinTech Partners Ltd); LinkedIn profiles and posts for team composition and recent mandates; LiquidityFinder M&A feed for sector deal context; and KPMG Pulse of Fintech for market data. Figures the firm does not disclose (current revenue, fee schedules, mandate pipeline) are marked as estimates or flagged as gaps rather than filled. On commissioned engagements this evidence base extends to registry pulls (Companies House filing history for the UK entity, FINRA BrokerCheck, SEC EDGAR where relevant) and structured deal data via PitchBook and Grata."
++  },
++  "business_model": {
++    "revenue_model": "Success-based advisory fees on sell-side M&A and late-stage private financings, with fee percentages that ratchet upward as the achieved sale price rises. The WSJ has described the fee structures as unusually aggressive even by Wall Street standards. The firm booked a $250 million fee on a single 2019 sale and asserted a claim of roughly 9% of transaction value, over $400 million, on Circle's $4.5 billion SPAC merger, a claim that ended in dispute. McLaughlin also invests personally in advised companies, adding a principal return stream on top of fees.",
++    "value_proposition": "Twenty-plus years of single-sector focus gives the firm pattern recognition, buyer relationships, and pricing data that generalist banks rebuild from scratch on each fintech mandate. Founders accept the fee premium because the firm's track record suggests it clears higher prices, and because McLaughlin personally works the deal.",
++    "key_activities": [
++      "Sell-side M&A advisory for fintech companies, typically founder- or sponsor-owned",
++      "Private capital raising for late-stage fintech companies (Series C and beyond)",
++      "IPO advisory, a niche the firm established with VeriFone in 2005",
++      "Proprietary fintech research publishing (monthly, quarterly, annual, plus the BCG co-authored global report)",
++      "Hosting VIP conferences and video panels that keep CEOs inside the firm's orbit between transactions"
++    ],
++    "key_resources": [
++      "McLaughlin's personal brand and Goldman-trained senior banker bench",
++      "Two decades of proprietary fintech transaction and valuation data",
++      "Inbound deal flow: hundreds of monthly inquiries requiring no outbound sales effort",
++      "The research franchise, which functions as permanent top-of-funnel marketing",
++      "Regulated entities in both the US (FINRA) and UK (FCA appointed representative)"
++    ],
++    "channels": [
++      "Inbound referrals from founders, VCs, and prior clients",
++      "Research distribution to a CEO and investor subscriber base",
++      "Conference sponsorships and hosted events (e.g. FinTech Meetup)",
++      "Founder's media presence (WSJ, Bloomberg profiles) and LinkedIn activity"
++    ],
++    "customer_relationships": "High-touch and founder-to-founder. McLaughlin stays personally involved in each deal, which clients cite as a differentiator and which simultaneously constitutes the firm's largest single risk. Relationships often begin years before a mandate through research subscriptions and events.",
++    "cost_structure": [
++      "Senior banker compensation, the dominant cost line for any advisory boutique",
++      "Research and publishing operation",
++      "Office footprint across San Francisco, New York, and London",
++      "Events, conferences, and marketing"
++    ],
++    "chart": {
++      "type": "bar_horizontal",
++      "title": "Selected disclosed FT Partners-advised transaction values",
++      "subtitle": "From the firm's own announcements; financing rounds and M&A mixed. Illustrates the mandate range, not the full book.",
++      "unit": "$M",
++      "series": [
++        { "label": "Circle SPAC merger (2021)", "value": 4500 },
++        { "label": "Truebill sale to Rocket (2021)", "value": 1275 },
++        { "label": "Celero sale to Deluxe", "value": 625 },
++        { "label": "Digital Asset financing (2025)", "value": 355 },
++        { "label": "CAIS Series C", "value": 225 },
++        { "label": "Gauntlet Series C", "value": 125 }
++      ],
++      "emphasis": ["Circle SPAC merger (2021)"]
++    }
++  },
++  "market_overview": {
++    "narrative": "FT Partners sells into the fintech transaction market, so its addressable fee pool moves with fintech M&A and late-stage financing volumes. That market reset hard after 2021 and is now recovering on value while consolidating on volume. KPMG's Pulse of Fintech (data via PitchBook) puts total global fintech investment across VC, PE, and M&A at $238.9 billion in 2021, falling to $95.5 billion by 2024, then recovering to $116 billion in 2025. Within that, fintech M&A specifically rose from $44.6 billion across 829 deals in 2024 to $55.4 billion across 840 deals in 2025. Fewer, larger transactions now carry the market: deal counts have fallen for four consecutive years while capital per deal has risen. This mix shift favors advisors, since larger deals are more likely to carry a mandated sell-side bank, and it particularly favors the $100 million to $5 billion range where FT Partners concentrates.",
++    "market_size_summary": "The relevant market for FT Partners is not fintech investment itself but the advisory fee pool it generates. That pool is not published anywhere. The TAM/SAM/SOM section below constructs an estimate from disclosed deal values and standard fee assumptions, and labels every assumption.",
++    "key_stats": [
++      { "label": "Global fintech investment 2025 (KPMG)", "value": "$116B" },
++      { "label": "Fintech M&A value 2025 (KPMG)", "value": "$55.4B / 840 deals" },
++      { "label": "Fintech M&A value 2024 (KPMG)", "value": "$44.6B / 829 deals" },
++      { "label": "Fintech sector revenues (BCG/FTP 2026)", "value": "$504B, +22% y/y" },
++      { "label": "$1B+ fintech M&A deals Q1 2026 (FTP)", "value": "6 (vs 14 in Q1 2025)" },
++      { "label": "US fintech IPOs Q1 2026 (FTP)", "value": "5" }
++    ],
++    "regional_notes": "The US dominates: $56.6 billion of 2025 fintech investment against $29.2 billion for all of EMEA (KPMG). FT Partners' footprint matches this weighting, with two US offices against one in London. The firm has nonetheless closed landmark deals in emerging corridors, including Fawry's Egyptian IPO and Interswitch's investment from Visa in Africa, and GCC deal flow is a live expansion question given rising regional fintech activity.",
++    "chart": {
++      "type": "bar",
++      "title": "Global fintech investment (VC + PE + M&A)",
++      "subtitle": "KPMG Pulse of Fintech, data via PitchBook. The 2025 recovery came on the lowest deal count since 2017: fewer, larger deals.",
++      "unit": "$B",
++      "series": [
++        { "label": "2021", "value": 238.9 },
++        { "label": "2022", "value": 164.1 },
++        { "label": "2023", "value": 113.7 },
++        { "label": "2024", "value": 95.5 },
++        { "label": "2025", "value": 116 }
++      ],
++      "emphasis": ["2025"]
++    }
++  },
++  "tam_sam_som": {
++    "tam": {
++      "value": "~$3-5B / yr (analyst estimate)",
++      "description": "Global advisory fee pool on fintech M&A and late-stage private financings. Constructed as: $55.4B of 2025 fintech M&A value at a blended 1.5-2.5% sell-side fee on the advised portion (assume 60-80% of value carries a mandated advisor), roughly $0.5-1.1B, plus placement fees of 2-4% on the ~$59.5B of $100M+ financing rounds (assume 30-50% advised), roughly $0.4-1.2B, plus IPO advisory, fairness opinions, and buy-side work. Every percentage here is an assumption, not a sourced figure."
++    },
++    "sam": {
++      "value": "~$1.5-2.5B / yr (analyst estimate)",
++      "description": "The segment FT Partners actually competes for: sell-side mandates and financings in the $100M-$5B range, where the firm concentrates and where founder-owned or sponsor-owned sellers pick specialist advisors. Excludes mega-deals above ~$20B, which McLaughlin has stated the firm deliberately avoids, and excludes sub-$100M deals that rarely support its fee structure."
++    },
++    "som": {
++      "value": "~$400-700M / yr (analyst estimate)",
++      "description": "Anchored to the one hard data point available: WSJ-reported revenue of ~$600M in 2021, a peak year for the fee pool. At ~30 deals per year against a 2025 market of 840 fintech M&A deals plus advised financings, the firm plausibly captures a share of the specialist fee pool in the mid hundreds of millions in a normal year. The firm does not disclose current revenue; this range is inference, not fact."
++    },
++    "methodology_note": "No public source states the fintech advisory fee pool, so this sizing is built bottom-up from KPMG deal values and standard advisory fee benchmarks. The single verified revenue anchor is the WSJ's 2021 figure. Treat the ranges as decision-grade approximations for franchise scale, not as auditable figures. A commissioned engagement would tighten these with PitchBook fee data and league-table cross-checks."
++  },
++  "industry_trends": [
++    {
++      "title": "Strategics out-acquiring banks",
++      "description": "The BCG/FT Partners 2026 report records fintech companies out-acquiring banks for the first time on record. Mature fintechs with public currency or profitable balance sheets have become the marginal buyer, widening the buyer universe a sell-side advisor can run.",
++      "impact": "High"
++    },
++    {
++      "title": "IPO window reopening",
++      "description": "Q1 2026 produced five US-listed fintech IPOs per FT Partners' own Insights. A functioning IPO market restores dual-track processes, which raise both deal competition and advisory fees, and plays to the firm's IPO advisory heritage dating to VeriFone in 2005.",
++      "impact": "High"
++    },
++    {
++      "title": "Mix shift to mid-market deal sizes",
++      "description": "FT Partners' Q1 2026 data shows $1B+ fintech M&A falling to 6 announced deals from a Q3 2025 peak of 22, while $100-500M deals climbed to 34% of volume. The fee pool is migrating toward the firm's core size range even as headline mega-deal fees thin out.",
++      "impact": "Medium"
++    },
++    {
++      "title": "Digital assets moving into regulated mainstream",
++      "description": "US regulatory clarity, including the GENIUS Act on stablecoins in H2 2025, helped digital asset investment nearly double to $19.1B in 2025 (KPMG). FT Partners is visibly positioning here: the Digital Asset $355M financing mandate and its December 2025 tokenization conference both signal coverage intent.",
++      "impact": "High"
++    },
++    {
++      "title": "AI concentrating capital in fewer winners",
++      "description": "Financing volume held up in 2025-26 while deal counts fell to multi-year lows, with capital concentrating in category leaders. For advisors this means fewer but larger financing mandates and a growing valuation-narrative role, telling the AI story credibly, in every sale process.",
++      "impact": "Medium"
++    }
++  ],
++  "competitor_landscape": {
++    "competitors": [
++      {
++        "name": "Goldman Sachs / J.P. Morgan / Morgan Stanley fintech groups",
++        "positioning": "Bulge-bracket coverage of fintech within broader FIG and TMT franchises; dominate $10B+ transactions and IPO underwriting",
++        "strengths": ["Balance sheet and financing capability", "Underwriting licenses for IPOs", "Global corporate relationships", "Can bundle advisory with lending"],
++        "weaknesses": ["Fintech is one coverage vertical among dozens", "Junior-heavy execution on mid-market deals", "Conflicts from serving both sides of the market"]
++      },
++      {
++        "name": "Evercore / Moelis / Centerview",
++        "positioning": "Elite independent advisors with episodic fintech mandates, strongest on large-cap and board-level situations",
++        "strengths": ["Senior-banker model comparable to FT Partners", "Board-room credibility on complex situations", "No lending conflicts"],
++        "weaknesses": ["No dedicated fintech data or research franchise", "Thinner relationships with growth-stage founders", "Compete mainly above FT Partners' sweet spot"]
++      },
++      {
++        "name": "Houlihan Lokey",
++        "positioning": "Mid-market volume leader across sectors, active in fintech through its FIG and tech groups",
++        "strengths": ["Deal volume machine with deep sponsor coverage", "Strong in the $100-500M range now growing fastest", "Restructuring capability hedges the cycle"],
++        "weaknesses": ["Generalist brand carries less founder pull in fintech", "Fee levels anchored well below FT Partners' structures"]
++      },
++      {
++        "name": "GP Bullhound",
++        "positioning": "European technology advisory and investment firm with meaningful fintech deal flow, especially UK and Nordics",
++        "strengths": ["Strong European founder network", "Combined advisory and fund model deepens relationships", "Research publications mirror the FT Partners playbook regionally"],
++        "weaknesses": ["Tech-broad rather than fintech-only", "Smaller US presence limits cross-border buyer reach"]
++      },
++      {
++        "name": "Broadhaven Capital Partners",
++        "positioning": "Fintech and financial services focused boutique, the closest structural analog to FT Partners' specialist model",
++        "strengths": ["Genuine sector specialization", "Credible senior bench from bulge-bracket FIG groups"],
++        "weaknesses": ["Fraction of FT Partners' brand gravity and deal count", "No comparable research and events machine"]
++      },
++      {
++        "name": "KBW (Stifel)",
++        "positioning": "Financial services specialist strongest in depository and insurance, overlapping FT Partners on fintech-meets-FIG deals",
++        "strengths": ["Deep bank and insurance buyer relationships", "Equity research coverage of public fintechs"],
++        "weaknesses": ["Brand anchored to traditional financials rather than growth fintech", "Less traction with venture-backed sellers"]
++      }
++    ],
++    "competitive_intensity_narrative": "Competition is intense at the edges of FT Partners' range and thin at its center. Bulge brackets take the mega-deals the firm avoids by choice; volume boutiques take the sub-$100M deals its fee structure prices out. In the $100M-$5B fintech sell-side core, no competitor combines single-sector focus, a twenty-year proprietary dataset, a research franchise, and inbound-only deal flow. The moat is real but personal: it is substantially McLaughlin's, and every credible threat scenario starts with senior talent or the founder himself leaving the field."
++  },
++  "customer_segments": [
++    {
++      "name": "Venture-backed fintech founders (Series C to exit)",
++      "description": "The core client. Founder-CEOs of growth-stage fintechs approaching a sale or a large financing round, usually on their first and only exit.",
++      "needs": ["Maximum achievable price from a one-shot event", "A buyer list they could not assemble themselves", "An advisor whose incentives visibly align with theirs"],
++      "buying_behavior": "Inbound and referral driven, exactly as the firm designed. Founders tolerate ratcheting fees because the fee only ratchets if the price does. Selection often traces back to years of research subscriptions and conference contact."
++    },
++    {
++      "name": "PE and growth-equity sponsors",
++      "description": "Sponsors exiting fintech portfolio companies or taking minority positions, e.g. the Bain Capital and Great Hill Partners mandate on the Chrome River / Certify merger.",
++      "needs": ["Sector-specific buyer intelligence and valuation benchmarks", "Process speed and certainty of close", "Fee structures justifiable to LPs"],
++      "buying_behavior": "Repeat, relationship-based buyers who run formal advisor selection. More fee-sensitive than founders and more willing to use bulge-bracket alternatives, making this the segment where FT Partners' pricing meets the most resistance."
++    },
++    {
++      "name": "Late-stage private fintechs raising capital",
++      "description": "Companies raising $100M+ rounds who hire a placement advisor, e.g. CAIS ($225M Series C), Digital Asset ($355M, 2025), Gauntlet ($125M).",
++      "needs": ["Access to crossover and strategic investors", "Valuation narrative construction", "Optionality toward a future dual-track exit"],
++      "buying_behavior": "Episodic engagement that functions as a wedge: the financing mandate positions the firm for the eventual sale mandate."
++    },
++    {
++      "name": "Corporates and financial institutions (selective)",
++      "description": "Occasional buy-side or strategic advisory for acquirers and incumbents, historically the smaller share given the sell-side-only positioning on M&A.",
++      "needs": ["Target identification in unfamiliar fintech subsectors", "Valuation discipline against specialist sellers"],
++      "buying_behavior": "Transactional and mandate-specific. The firm's sell-side identity limits how far it can grow this segment without diluting its founder-side brand."
++    }
++  ],
++  "swot_analysis": {
++    "strengths": [
++      "Only established investment bank with exclusive fintech focus, backed by a twenty-year proprietary transaction dataset",
++      "Inbound-only deal flow: hundreds of monthly inquiries with no outbound sales cost",
++      "Extreme revenue productivity, roughly $2.7M per employee at the 2021 peak (WSJ figures)",
++      "Research and events franchise that markets the firm continuously between deals",
++      "Founder ownership permits fee aggression and client selectivity no public or partnership-owned rival can match"
++    ],
++    "weaknesses": [
++      "Acute key-person concentration: McLaughlin was sole MD for a decade and still touches every deal",
++      "Fee structures generate disputes (Circle) and reputational friction the WSJ has covered publicly",
++      "Founder's personal investments in advised clients create a standing conflict-of-interest question",
++      "Glassdoor CEO approval of 59% suggests internal culture strain relative to elite-boutique norms",
++      "No underwriting capability, so IPO mandates cap out at advisory rather than bookrunning economics"
++    ],
++    "opportunities": [
++      "Reopened IPO window (five US fintech IPOs in Q1 2026) revives dual-track and IPO advisory demand",
++      "Digital assets and tokenization deal flow, nearly doubled to $19.1B in 2025, where the firm is already visible",
++      "GCC and MEA fintech corridors, extending the Fawry and Interswitch precedents",
++      "Sponsor-side products: continuation vehicles and secondaries in fintech portfolios",
++      "Monetizing the research franchise directly as a data product"
++    ],
++    "threats": [
++      "Founder retirement, incapacity, or reputational event, with no disclosed succession plan",
++      "Elite boutiques building dedicated fintech teams as the sector's fee pool becomes undeniable",
++      "Fee compression if the deal mix stays mid-market, where clients have credible cheaper alternatives",
++      "AI eroding the research moat by commoditizing sector intelligence",
++      "A renewed fintech downturn: the 2022-24 reset cut the underlying market by 60% from peak"
++    ]
++  },
++  "porters_five_forces": {
++    "forces": [
++      {
++        "force_name": "Competitive rivalry",
++        "rating": "High",
++        "rationale": "Every mandate is contested by bulge brackets above, volume boutiques below, and elite independents alongside. FT Partners wins on specialization, not on absence of competition."
++      },
++      {
++        "force_name": "Threat of new entrants",
++        "rating": "Medium",
++        "rationale": "Anyone can hang a fintech-advisory shingle; nobody can shortcut twenty years of closed deals, the dataset, and the inbound flywheel. The realistic entrant is not a startup but an existing elite boutique verticalizing into fintech."
++      },
++      {
++        "force_name": "Bargaining power of suppliers (talent)",
++        "rating": "High",
++        "rationale": "The product is senior bankers. Goldman-pedigree fintech MDs are scarce, mobile, and expensive, and the firm's own history shows how hard senior hiring was in its first decade."
++      },
++      {
++        "force_name": "Bargaining power of buyers (clients)",
++        "rating": "Medium",
++        "rationale": "One-shot founder-sellers have weak negotiating leverage against a specialist, which is precisely how the fee structure survives. Repeat sponsor clients push back harder, and the Circle dispute shows even founder clients contest fees at the extreme."
++      },
++      {
++        "force_name": "Threat of substitutes",
++        "rating": "Medium",
++        "rationale": "Substitutes exist at the margins: in-house corp dev teams, direct investor relationships, lawyer-led small deals, and AI tools eroding the research edge. None currently substitutes for a specialist bank on a competitive $500M sale."
++      }
++    ],
++    "overall_attractiveness": "Structurally attractive niche for the incumbent that defined it. The economics rest on two pillars, specialization and the founder, and only the first is durable without deliberate succession work."
++  },
++  "commercial_risks": [
++    {
++      "title": "Key-person dependence on the founder",
++      "description": "McLaughlin owns 100% of the firm, was its only managing director for a decade, remains involved in every transaction, and has stated he will neither sell nor take the firm public. No succession plan is publicly disclosed.",
++      "severity": "High",
++      "likelihood": "Medium",
++      "mitigation": "The senior MD bench has broadened since 2016 (hires from Index/Morgan Stanley, Goldman, J.P. Morgan). Counterparties should still price the franchise as founder-attached until succession is evidenced."
++    },
++    {
++      "title": "Fee-structure dispute and reputation risk",
++      "description": "The claimed ~9% fee on Circle's $4.5B SPAC merger, over $400M, ended in dispute, and the WSJ has characterized the firm's fees as brazen by Wall Street standards. Public fee friction invites client pushback and litigation.",
++      "severity": "Medium",
++      "likelihood": "Medium",
++      "mitigation": "Track record of cleared prices sustains the pricing so far. Watch for engagement-letter litigation and for sponsor clients migrating to cheaper specialists."
++    },
++    {
++      "title": "Conflict-of-interest exposure from principal investing",
++      "description": "The founder personally invests in companies the firm advises. He frames this as alignment; regulators, opposing counsel, or a burned client could frame it differently.",
++      "severity": "Medium",
++      "likelihood": "Low",
++      "mitigation": "No public enforcement history identified in this research. A commissioned engagement would run FINRA BrokerCheck and litigation searches to confirm."
++    },
++    {
++      "title": "Cyclicality of the fintech fee pool",
++      "description": "The underlying market fell roughly 60% from its 2021 peak to the 2024 trough (KPMG: $238.9B to $95.5B). Advisory revenue amplifies that swing because deal counts and fee ratchets fall together.",
++      "severity": "High",
++      "likelihood": "Medium",
++      "mitigation": "Sell-side-only focus and low fixed costs make the model flexible in downturns; the 2022-24 period evidently did not break it. No countercyclical line (e.g. restructuring) exists."
++    },
++    {
++      "title": "Senior talent retention",
++      "description": "A 59% Glassdoor CEO approval rating sits well below elite-boutique norms, and the firm's economics concentrate in one owner, limiting equity upside for rising MDs.",
++      "severity": "Medium",
++      "likelihood": "Medium",
++      "mitigation": "Above-market cash compensation can hold bankers for a time. LinkedIn monitoring of MD departures is the cheap early-warning indicator."
++    },
++    {
++      "title": "Vertical erosion by elite boutiques",
++      "description": "As the fintech fee pool matures, Evercore-class firms can hire two fintech MDs and credibly contest the upper half of FT Partners' range at lower fees.",
++      "severity": "Medium",
++      "likelihood": "High",
++      "mitigation": "The dataset, research franchise, and inbound flow are not replicable by hiring alone. Expect share pressure at the $1B+ end rather than franchise displacement."
++    },
++    {
++      "title": "Mega-deal drought at the top of the mix",
++      "description": "FT Partners' own Q1 2026 data shows $1B+ fintech M&A falling to 6 deals from 22 at the Q3 2025 peak. The largest fee events are exactly the ones thinning out.",
++      "severity": "Medium",
++      "likelihood": "Medium",
++      "mitigation": "The offsetting mid-market shift ($100-500M deals at 34% of volume) suits the firm's historical sweet spot, at lower per-deal fees."
++    }
++  ],
++  "growth_opportunities": [
++    {
++      "title": "IPO and dual-track advisory revival",
++      "description": "Five US fintech IPOs printed in Q1 2026. The firm invented its IPO-advisor niche with VeriFone in 2005 and can attach that product to every late-stage client currently weighing exit routes.",
++      "potential_impact": "High",
++      "timeframe": "Short-term"
++    },
++    {
++      "title": "Digital assets and tokenization coverage",
++      "description": "Digital asset investment nearly doubled to $19.1B in 2025 on regulatory clarity. The Digital Asset financing mandate and the firm's December 2025 tokenization conference show the coverage build is already underway.",
++      "potential_impact": "High",
++      "timeframe": "Short-term"
++    },
++    {
++      "title": "GCC and emerging-corridor expansion",
++      "description": "Fawry (Egypt) and Interswitch (Africa) prove the firm can clear landmark deals outside its home markets. Gulf fintech activity and sovereign capital create a corridor where no specialist advisor is yet entrenched.",
++      "potential_impact": "Medium",
++      "timeframe": "Medium-term"
++    },
++    {
++      "title": "Sponsor secondaries and continuation vehicles",
++      "description": "PE holds substantial fintech infrastructure assets acquired in 2020-22 at valuations that block conventional exits. Continuation-vehicle and minority-recap advisory extends existing sponsor relationships into a structurally growing product.",
++      "potential_impact": "Medium",
++      "timeframe": "Medium-term"
++    },
++    {
++      "title": "Research franchise as a data product",
++      "description": "The Insights, Almanac, and BCG report machinery already exists as a cost center that markets the bank. Packaging the underlying dataset as a subscription product would create recurring revenue against a purely transactional base.",
++      "potential_impact": "Medium",
++      "timeframe": "Long-term"
++    },
++    {
++      "title": "Institutionalizing succession into a sale of the franchise",
++      "description": "The founder says the firm is not for sale. Positions change. A firm doing hundreds of millions in revenue with a broadened MD bench would command a strategic premium from any acquirer wanting instant fintech credibility, if key-person risk were credibly reduced first.",
++      "potential_impact": "High",
++      "timeframe": "Long-term"
++    }
++  ],
++  "key_questions": [
++    { "category": "Succession", "question": "What happens to the mandate book and the inbound flywheel in the first 12 months without McLaughlin, and what binding arrangements (ownership, non-competes, client coverage) exist today?" },
++    { "category": "Fee durability", "question": "What share of engagement letters signed in the last 24 months preserved the ratcheting structure intact, and how did realized fee rates move versus 2019-2021?" },
++    { "category": "Conflicts", "question": "Across which advised transactions did the founder or affiliated vehicles hold personal positions, and how was that disclosed to counterparties and consent obtained?" },
++    { "category": "Pipeline concentration", "question": "How much of expected next-twelve-month revenue sits in the top three mandates, and what is the historical mandate-to-close conversion rate?" },
++    { "category": "Talent", "question": "What is MD-level attrition over the trailing three years, and what equity or deferred economics now exist below the founder?" },
++    { "category": "Competition", "question": "In the last ten contested pitches, which firms were in the final two, and on what basis (fee, relationship, sector data) were losses lost?" },
++    { "category": "Regulatory", "question": "Are there open FINRA, SEC, or FCA matters touching FTP Securities LLC or FinTech Partners Ltd, and what does BrokerCheck show beyond the public summary?" },
++    { "category": "Cycle exposure", "question": "What did revenue and headcount actually do in 2022-2024, the period between the WSJ's $600M disclosure and the current recovery, for which no public figure exists?" }
++  ],
++  "executive_summary": {
++    "overview": "FT Partners is the defining specialist franchise in fintech investment banking: founder-owned since 2002, sell-side only, inbound-driven, and priced at a premium the rest of Wall Street considers audacious. The verified economics are exceptional, roughly $600M of revenue on 225 people in 2021 per the WSJ, and the moat components (proprietary dataset, research franchise, twenty-year track record) are real and compounding. The franchise nonetheless concentrates to a degree unusual even for boutiques: one owner, one brand, one fee philosophy, and a mandate book the founder still personally touches. The market it serves has passed through a 60% peak-to-trough reset and is recovering with fewer, larger deals and a reopened IPO window, conditions that favor exactly this firm, if it holds its people and its founder.",
++    "key_findings": [
++      "Verified peak economics of ~$600M revenue / 225 staff (2021, WSJ); no public figure exists for 2022-2025, which is itself a diligence flag",
++      "The moat is structural (data, research, inbound flow) but the revenue engine is personal, with McLaughlin involved in every deal and owning 100%",
++      "Fee aggression is a feature and a liability: a record $250M single fee, and a public dispute over a claimed $400M+ Circle fee",
++      "Market conditions have turned favorable: fintech M&A value up 24% in 2025 (KPMG), five US fintech IPOs in Q1 2026, deal mix shifting into the firm's core size range",
++      "The credible competitive threat is vertical entry by elite boutiques, not displacement by another specialist"
++    ],
++    "investment_thesis_notes": [
++      "As a counterparty or competitor benchmark: treat FT Partners' pricing as the ceiling of what specialist positioning can extract, and its inbound model as evidence that research-led marketing beats outbound in advisory",
++      "Any transaction involving the firm itself, or any strategy premised on its behavior, should be stress-tested against a no-McLaughlin scenario, because no public evidence retires that risk"
++    ],
++    "overall_rating": "Franchise Strength: Strong (key-person qualified)",
++    "recommendation": "Engage with the firm as the price-setting incumbent of fintech sell-side advisory. Diligence priorities when transacting with or against it: succession arrangements, realized fee rates post-2021, conflict disclosures around the founder's principal investments, and MD-level retention. The franchise merits its premium today; the qualification is durability, not quality."
++  }
++}
+diff --git a/backend/app/data/reports/ftmo.json b/backend/app/data/reports/ftmo.json
+deleted file mode 100644
+index 94c0be6..0000000
+--- a/backend/app/data/reports/ftmo.json
++++ /dev/null
+@@ -1,366 +0,0 @@
+-{
+-  "input": {
+-    "company_name": "FTMO",
+-    "website": null,
+-    "industry": "Modern proprietary trading. Retail trader evaluation and funding, now also regulated brokerage.",
+-    "geography": "FTMO serves more than 3.5 million customers across 140+ countries. OANDA holds regulated entities in about eight markets including the United States, the United Kingdom, Australia, Canada, Japan and Singapore."
+-  },
+-  "generated_at": "2026-07-12T00:00:00Z",
+-  "company_profile": {
+-    "legal_name": "FTMO (FTMO s.r.o. / FTMO Evaluation Global s.r.o.)",
+-    "website": null,
+-    "industry": "Modern proprietary trading. Retail trader evaluation and funding, now also regulated brokerage.",
+-    "geography": "FTMO serves more than 3.5 million customers across 140+ countries. OANDA holds regulated entities in about eight markets including the United States, the United Kingdom, Australia, Canada, Japan and Singapore.",
+-    "founded_year": "2015",
+-    "headquarters": "Prague, Czech Republic",
+-    "employee_count": "300+",
+-    "description": "Two students at the Prague University of Economics founded FTMO in 2015. It now leads the category it created. Traders pay a fee to attempt a rules-based evaluation, the FTMO Challenge, and those who pass receive a funded account and a share of the profits they generate. FTMO serves more than 3.5 million customers across 140+ countries and has paid traders over $500 million since launch. On 1 December 2025 FTMO completed the acquisition of OANDA Global Corporation from CVC Capital Partners, closing a process that took roughly ten months and required approvals from five regulators. OANDA, founded in 1996, holds regulated entities in about eight markets including the United States, the United Kingdom, Australia, Canada, Japan and Singapore. FTMO is keeping it as a standalone business. Reports put FTMO's valuation at around $1.4 billion, which places it among the largest Czech technology firms operating internationally. Evidence note: FTMO is privately held. Financials come from Czech statutory filings, which are public, and from credible trade-press reporting. They are less granular and lower-confidence than audited investor disclosures. FY2025 accounts were unavailable at the time of writing. The parties did not disclose the OANDA transaction value; reported estimates vary and are flagged where used. Market-sizing figures are analyst-constructed estimates with stated assumptions. Evidence grade: Medium. Lower than for the listed comparables in this set. Read the financials as directionally reliable rather than precise.",
+-    "key_facts": [
+-      { "label": "Founders", "value": "Otakar Šuffner (CEO) and Marek Vašíček (CTO)" },
+-      { "label": "Ownership", "value": "Private, founder-controlled. No prominent external venture funding appears in the public record; the business looks substantially self-funded from operating cash flow." },
+-      { "label": "FY2024 revenue", "value": "About $329M, up 53%" },
+-      { "label": "FY2024 net profit", "value": "About $62.5M, a net margin of roughly 19%" },
+-      { "label": "FY2023 revenue", "value": "$203.9M. FY2023 year-end cash: about $82M" },
+-      { "label": "FY2023 staff costs", "value": "$4.7M, around 2.3% of revenue" },
+-      { "label": "Customers", "value": "3.5M+ across 140+ countries. 2.3M+ open trading accounts in 2024, up 33%" },
+-      { "label": "Cumulative trader payouts", "value": "$500M+" },
+-      { "label": "Reported valuation", "value": "About $1.4B" },
+-      { "label": "OANDA acquisition funding", "value": "A $250M credit line from a UniCredit-led syndicate of Czech banks" }
+-    ]
+-  },
+-  "business_model": {
+-    "revenue_model": "Evaluation fees. The engine. Traders pay per attempt, from around €79 for a $10,000 account to roughly €1,080 for a $200,000 account. The trading is simulated, so FTMO takes no market risk on the evaluation, and each additional participant costs it almost nothing. FTMO earns most of its revenue from traders who fail. Traders who succeed are a cost line: $500 million paid out to date. The economics resemble a paid-assessment business more than a brokerage. Proprietary trading. FTMO trades its own account, informed in selected cases by data from simulated trader activity. Quantlane, a quantitative trading firm, sits inside the group. Regulated brokerage, new since December 2025. OANDA's retail FX, CFD, multi-asset and market-data revenue. Lower margin than evaluation fees, and far more defensible.",
+-    "value_proposition": "Access to trading capital without risking your own. A trader pays a one-time fee, passes an evaluation, and trades a funded account keeping 80% to 90% of the profits. For undercapitalised retail traders, FTMO sells the one thing they cannot get elsewhere: size.",
+-    "key_activities": [
+-      "Running the evaluation platform.",
+-      "Designing and enforcing the risk rules that determine who passes.",
+-      "Building trader analytics and education, where the App Suite gives FTMO a genuine product edge over rivals offering a dashboard and nothing more.",
+-      "Affiliate and community marketing.",
+-      "Proprietary trading through Quantlane.",
+-      "Since December 2025, operating a regulated multi-jurisdiction broker."
+-    ],
+-    "key_resources": [
+-      "The brand, which carries more trust than any competitor in a sector where dozens of firms collapsed.",
+-      "The evaluation platform and its risk-rule engine.",
+-      "Simulated-trading data from millions of accounts, which Quantlane turns into quantitative strategies.",
+-      "Roughly $82 million in cash at end-2023, before the OANDA deal.",
+-      "OANDA's regulatory licences across eight markets, plus its brokerage infrastructure and 30-year operating history."
+-    ],
+-    "channels": [
+-      "Direct digital acquisition to traders.",
+-      "A large affiliate and referral programme.",
+-      "Content and community marketing inside trading forums and social platforms.",
+-      "The low cost base leaves FTMO far more room to spend on marketing than any regulated broker has."
+-    ],
+-    "customer_relationships": "Transactional, and adversarial by design. The rules that protect FTMO's economics, a 5% daily drawdown limit and a 10% maximum drawdown, are the same rules that make most traders fail. Fees are non-refundable. Traders commonly spend $1,000 to $3,000 across attempts before passing or quitting. The relationship with the minority who pass runs the other way: long-tenured, high-touch, and structured to keep them trading.",
+-    "cost_structure": [
+-      "Trader payouts dominate, running around 49% of revenue in FY2023.",
+-      "Marketing and affiliate commissions follow.",
+-      "Staff costs are almost negligible at $4.7 million, about 2.3% of revenue. Compare IG Group, whose staff and legal costs run 23.4% of revenue, and CMC Markets at 28.0%.",
+-      "FTMO carries no compliance department, no trading desk, no trade reporting and no regulatory capital, because the evaluation business sits outside brokerage regulation. That absence is the entire margin story."
+-    ],
+-    "chart": {
+-      "type": "bar_horizontal",
+-      "title": "Staff costs as % of revenue",
+-      "subtitle": "The margin is not operational genius. It is the absence of regulation.",
+-      "unit": "%",
+-      "series": [
+-        { "label": "CMC Markets", "value": 28.0 },
+-        { "label": "IG Group", "value": 23.4 },
+-        { "label": "FTMO", "value": 2.3 }
+-      ],
+-      "emphasis": ["FTMO"]
+-    }
+-  },
+-  "market_overview": {
+-    "narrative": "Modern prop trading grew fast from 2020 on a simple pitch: undercapitalised retail traders get access to size, and firms monetise the evaluation. FTMO originated the category and leads it. The sector is consolidating under pressure. Dozens of smaller prop firms collapsed in 2024 under payout exposure they could not fund and risk management they never built. When MetaQuotes withdrew platform support from many prop firms that year, operators without regulated infrastructure lost US access overnight. FTMO, The5ers, FundedNext, Funding Pips and Seacrest Funded have since returned to the US. Regulation is the question that decides this industry. Because the trading is simulated rather than executed, prop firms have operated largely outside brokerage rules. That position will not hold forever. Many prop firms have started calling for regulation themselves, which usually signals that incumbents expect it and want to shape rules that entrench scale.",
+-    "market_size_summary": "No independent third-party market-size figure is cited in the source material. See Market Sizing (TAM/SAM/SOM) for the analyst-constructed estimate, built from FTMO's disclosed economics and stated assumptions about the retail prop universe rather than third-party market data.",
+-    "key_stats": [
+-      { "label": "FTMO FY2024 revenue", "value": "About $329M, up 53%, while smaller peers were failing" },
+-      { "label": "Net margin", "value": "Around 19%. Staff costs around 2.3% of revenue, against 23% to 28% for regulated brokers" },
+-      { "label": "Open trading accounts", "value": "2.3M+ in 2024, up 33%" },
+-      { "label": "Sector consolidation", "value": "Numerous firms collapsed in 2024; consolidation continues" }
+-    ],
+-    "regional_notes": "FTMO serves more than 3.5 million customers across 140+ countries and has paid traders over $500 million since launch. OANDA holds regulated entities in about eight markets including the United States, the United Kingdom, Australia, Canada, Japan and Singapore."
+-  },
+-  "tam_sam_som": {
+-    "tam": {
+-      "value": "Low single-digit billions of dollars a year for evaluation fees; low tens of billions for the adjacent regulated retail FX/CFD brokerage market (analyst-constructed estimate)",
+-      "description": "Retail prop-trading evaluation fees plausibly generate a low single-digit billions of dollars a year globally. The adjacent regulated retail FX and CFD brokerage market that FTMO now enters through OANDA is much larger, in the low tens of billions."
+-    },
+-    "sam": {
+-      "value": "Low single-digit billions of dollars a year (analyst-constructed estimate)",
+-      "description": "Estimated low single-digit billions of dollars a year. Evaluation revenue in the markets FTMO can serve, plus OANDA's licensed jurisdictions across the US, UK, Australia, Canada, Japan, Singapore and the EU. The acquisition expands SAM, which is precisely its purpose."
+-    },
+-    "som": {
+-      "value": "About $329 million (FY2024), plus OANDA's revenue base (undisclosed since the deal closed)",
+-      "description": "FTMO captures about $329 million (FY2024), plus OANDA's revenue base, which has not been separately disclosed since the deal closed. FTMO leads the category on revenue. The growth question is whether the brokerage arm can scale without destroying the margin that makes the group attractive."
+-    },
+-    "methodology_note": "Analyst-constructed estimate. We built this from FTMO's disclosed economics and stated assumptions about the retail prop universe rather than third-party market data. Confidence here is lower than for the listed comparables in this set, because the sector publishes no reliable market-size data. Treat it as directional. Sizing is secondary here. What matters is whether $329 million of high-margin, structurally unregulated revenue survives regulation, and whether the OANDA acquisition converts it into something durable before that happens."
+-  },
+-  "industry_trends": [
+-    {
+-      "title": "Regulators are circling the prop model",
+-      "description": "The simulated-trading grey zone is the largest structural uncertainty in the sector. If regulators treat evaluation firms as brokers, or restrict non-refundable fees or failure-dependent economics, FTMO's core margin disappears. Read the OANDA acquisition as a pre-emptive hedge against exactly this.",
+-      "impact": "High — and the trend that decides everything"
+-    },
+-    {
+-      "title": "Platform providers hold a kill switch",
+-      "description": "MetaQuotes cut off support to many prop firms in 2024 and severed an entire distribution channel overnight. Multi-platform support across MT4, MT5, cTrader and DXtrade is now a survival requirement.",
+-      "impact": "High"
+-    },
+-    {
+-      "title": "The sector is consolidating",
+-      "description": "Undercapitalised firms collapsed through 2024, raising the credibility floor and concentrating share toward players with real financial substance. This favours FTMO.",
+-      "impact": "Medium-High"
+-    },
+-    {
+-      "title": "Prop and brokerage are converging",
+-      "description": "FTMO buying OANDA is the clearest example. Prop firms are buying regulated infrastructure and brokers are adding prop offerings. The two models are merging.",
+-      "impact": "Medium-High"
+-    },
+-    {
+-      "title": "Trader-protection scrutiny is rising",
+-      "description": "The model's dependence on trader failure now draws open public commentary, which creates reputational exposure ahead of the regulatory kind.",
+-      "impact": "Medium"
+-    }
+-  ],
+-  "competitor_landscape": {
+-    "competitors": [
+-      {
+-        "name": "The5ers",
+-        "positioning": "The established alternative. Credible and much smaller, with no regulatory path.",
+-        "strengths": ["A long-standing reputation", "Resumed US operations through cTrader", "Instant-funding and low-drawdown products that appeal to a distinct trader segment"],
+-        "weaknesses": ["Far smaller than FTMO", "No regulated brokerage arm", "Limited brand reach outside trading communities"]
+-      },
+-      {
+-        "name": "FundedNext",
+-        "positioning": "The fast challenger. Growing on price, exposed on substance.",
+-        "strengths": ["Fast growth", "Competitive fees", "Strong affiliate marketing", "Restored US access"],
+-        "weaknesses": ["A shorter track record", "Thin financial disclosure", "More exposure than FTMO to both payout risk and a regulatory shock"]
+-      },
+-      {
+-        "name": "Funding Pips",
+-        "positioning": "The discounter. Winning volume, least able to survive a shock.",
+-        "strengths": ["Aggressive pricing that is winning newer traders quickly"],
+-        "weaknesses": ["Almost no disclosed financial substance", "The most vulnerable profile in the sector to consolidation or a payout-exposure shock"]
+-      },
+-      {
+-        "name": "Topstep",
+-        "positioning": "The only peer with a comparable legitimacy path, via Plus500 clearing. Narrower, in futures alone.",
+-        "strengths": ["A long history in US futures evaluation", "A regulated infrastructure relationship with Plus500 for clearing and technology, which gives it a legitimacy path comparable to FTMO's"],
+-        "weaknesses": ["A narrower asset focus on futures", "A smaller international footprint"]
+-      },
+-      {
+-        "name": "Crypto Fund Trader",
+-        "positioning": "The niche specialist. Deeper in crypto, dependent on its cycle.",
+-        "strengths": ["A far deeper crypto offering, with over 700 pairs through a Bybit partnership against FTMO's roughly 32 crypto CFDs", "Faster payouts"],
+-        "weaknesses": ["A single-asset-class focus", "Small scale", "Complete dependence on the crypto cycle"]
+-      },
+-      {
+-        "name": "Regulated retail brokers (IG, CMC, Plus500, and OANDA before the acquisition)",
+-        "positioning": "The legitimate incumbents. FTMO just bought its way into this group.",
+-        "strengths": ["Full regulatory standing", "Real market execution", "Institutional credibility and decades of operating history"],
+-        "weaknesses": ["Far heavier cost bases, with staff costs at 23% to 28% of revenue against FTMO's 2.3%", "Regulatory capital requirements and structurally lower retail margins", "FTMO has now joined this group by buying OANDA, purchasing the legitimacy it could not build"]
+-      }
+-    ],
+-    "competitive_intensity_narrative": "FTMO's edge over other prop firms is not product. Challenge mechanics are commoditised across the sector. Its edge is financial substance and, since December, regulatory standing. In an industry where dozens of firms collapsed and a platform vendor can cut off market access at will, the moat is being the firm with $62.5 million of profit, $82 million of cash before the deal, and eight regulated licences after it. No peer can follow: a $250 million acquisition sits far beyond any of them."
+-  },
+-  "customer_segments": [
+-    {
+-      "name": "Aspiring and undercapitalised retail traders (the volume core, and the actual revenue source)",
+-      "description": "Retail traders who want to trade size they cannot fund themselves. The largest segment by a wide margin, and the one that pays the bills.",
+-      "needs": ["Access to trading capital without personal risk", "Validation", "A path to a trading career"],
+-      "buying_behavior": "They pay repeated non-refundable fees, commonly $1,000 to $3,000 across attempts before passing or giving up. Most fail. Community, affiliate and social-media marketing drives their acquisition. This cohort generates most of FTMO's revenue because most of them fail."
+-    },
+-    {
+-      "name": "Skilled funded traders (the minority, and a cost line)",
+-      "description": "Traders who passed and now trade FTMO capital consistently. The proof that makes the marketing work.",
+-      "needs": ["Large allocations", "High profit splits", "Fast payouts", "Room to scale"],
+-      "buying_behavior": "Long-tenured and low-churn. They take 80% to 90% profit splits and can scale to $2 million in allocation. They are strategically vital and financially a cost, not a revenue source."
+-    },
+-    {
+-      "name": "Algorithmic and EA traders",
+-      "description": "Technically sophisticated traders running automated strategies across MT4, MT5, cTrader and DXtrade.",
+-      "needs": ["Multi-platform support", "Permissive automation rules"],
+-      "buying_behavior": "Platform-driven, and the segment most exposed to platform-provider risk."
+-    },
+-    {
+-      "name": "OANDA's retail and corporate brokerage clients (new since December 2025)",
+-      "description": "Conventional brokerage customers acquired with OANDA, trading real markets under regulated execution.",
+-      "needs": ["Regulated execution", "Multi-asset access", "Currency data and analytics"],
+-      "buying_behavior": "Standard regulated-brokerage relationships. Lower margin than evaluation fees, and recurring, licensed and defensible in a way evaluation fees are not."
+-    }
+-  ],
+-  "swot_analysis": {
+-    "strengths": [
+-      "Real financial substance: about $329M revenue, up 53%, and about $62.5M net profit, at a reported $1.4B valuation.",
+-      "A cost structure no regulated broker can match: staff costs around 2.3% of revenue against 23% to 28% for IG and CMC, and almost no marginal cost per participant.",
+-      "It grew 53% in a year when dozens of competitors collapsed, which points to real operational and risk discipline.",
+-      "The strongest brand in a low-trust sector, backed by $500M+ in cumulative payouts.",
+-      "The OANDA acquisition delivers regulated licences across eight markets including compliant US re-entry. No prop peer can replicate this."
+-    ],
+-    "weaknesses": [
+-      "Core revenue depends on customers failing, which is fragile and reputationally exposed.",
+-      "The evaluation business operates outside regulation, on an argument about simulated trading that regulators have never tested.",
+-      "FTMO funded the OANDA deal with a $250M credit line against a business earning about $62.5M a year. A cash-rich, unlevered balance sheet now carries real debt.",
+-      "FTMO has never run a regulated multi-jurisdiction broker. Keeping OANDA standalone defers that problem rather than solving it.",
+-      "Financial transparency lags listed peers, and FY2025 accounts were unavailable at the time of writing."
+-    ],
+-    "opportunities": [
+-      "Converting high-margin evaluation revenue into defensible regulated brokerage revenue.",
+-      "Compliant US access at scale through OANDA's retail FX dealer licence.",
+-      "Cross-sell in both directions. OANDA's own prop programme is already migrating to FTMO, and moving graduated FTMO traders into regulated OANDA accounts is the larger prize.",
+-      "Consolidating a fragmenting sector. FTMO is the only prop firm with a balance sheet capable of buying distressed peers.",
+-      "Monetising simulated-trading data through Quantlane's quantitative strategies."
+-    ],
+-    "threats": [
+-      "Regulatory reclassification of the prop model, which is the existential risk.",
+-      "Platform-provider dependence, with the MetaQuotes precedent showing how fast a channel disappears.",
+-      "Margin compression as the mix shifts from 19%-net-margin evaluation fees toward regulated brokerage.",
+-      "Debt service on the $250M facility if evaluation revenue slows.",
+-      "Public backlash against a model that profits from retail failure.",
+-      "Commoditisation of challenge products and price competition from low-cost entrants."
+-    ]
+-  },
+-  "porters_five_forces": {
+-    "forces": [
+-      {
+-        "force_name": "Competitive rivalry",
+-        "rating": "High, and consolidating",
+-        "rationale": "Prop firms compete on near-identical challenge mechanics, which drives fee competition. The 2024 shakeout is thinning the field, and FTMO's financial substance separates it decisively."
+-      },
+-      {
+-        "force_name": "Threat of new entrants",
+-        "rating": "Historically very high, now falling fast",
+-        "rationale": "Launching a prop firm cost almost nothing, which is why so many appeared and so many failed. Platform gatekeeping, trader scrutiny and prospective regulation are raising the barrier quickly, and FTMO's licences make its own position much harder to attack."
+-      },
+-      {
+-        "force_name": "Buyer power",
+-        "rating": "Low-Medium",
+-        "rationale": "Individual traders hold almost no bargaining power and face non-refundable fees. Switching between prop firms is easy, but the terms are commoditised, so brand trust does the work. That is FTMO's strongest asset."
+-      },
+-      {
+-        "force_name": "Supplier power",
+-        "rating": "High, and underappreciated",
+-        "rationale": "MetaQuotes demonstrated in 2024 that a platform provider can unilaterally sever a prop firm's access to an entire market. Liquidity and technology providers hold real leverage. Multi-platform support and OANDA's own infrastructure are the mitigations."
+-      },
+-      {
+-        "force_name": "Threat of substitutes",
+-        "rating": "Medium-High",
+-        "rationale": "Regulated brokers offering leverage, copy-trading platforms and low-cost retail brokerage all substitute for the access-to-capital pitch. Tighten regulation on prop fees or leverage and substitution accelerates."
+-      }
+-    ],
+-    "overall_attractiveness": "FTMO holds an unusually asymmetric position. It dominates its peers and it is structurally advantaged on cost, and it is exposed on two axes it does not control: regulators and platform providers. The OANDA acquisition is a direct, expensive and well-judged attempt to neutralise both."
+-  },
+-  "commercial_risks": [
+-    {
+-      "title": "Regulatory reclassification of the prop model",
+-      "description": "This is the central risk in the diligence. The core business sits outside brokerage regulation on the argument that its trading is simulated. If regulators treat evaluation firms as brokers, or restrict non-refundable fees or failure-dependent economics, most of the group's revenue and effectively all of its margin advantage is impaired. The industry lobbying for its own regulation suggests insiders expect this.",
+-      "severity": "High",
+-      "likelihood": "Medium-High",
+-      "mitigation": "The OANDA acquisition is that hedge, buying licensed revenue and a compliant operating entity. Whether it suffices depends entirely on what the eventual rules say."
+-    },
+-    {
+-      "title": "Leverage against a concentrated revenue base",
+-      "description": "A $250 million facility now sits against a group that earned about $62.5 million and whose core revenue stream carries the regulatory risk above. A previously unlevered, cash-rich business has taken on real debt service.",
+-      "severity": "Medium-High",
+-      "likelihood": "Medium",
+-      "mitigation": "Strong cash generation, 19% net margins, and OANDA's independent regulated revenue."
+-    },
+-    {
+-      "title": "Platform-provider dependence",
+-      "description": "MetaQuotes withdrew support in 2024 and cut off US access for prop firms overnight. A repeat would hurt badly.",
+-      "severity": "High",
+-      "likelihood": "Medium",
+-      "mitigation": "Multi-platform support across MT4, MT5, cTrader and DXtrade, plus OANDA's owned infrastructure."
+-    },
+-    {
+-      "title": "Margin dilution from the brokerage pivot",
+-      "description": "Regulated brokerage earns far less than evaluation fees, so blended group margin will fall as OANDA scales. FTMO is buying defensibility with margin, deliberately. The risk is that an acquirer models the group on historical prop margins and gets the valuation wrong.",
+-      "severity": "Medium-High",
+-      "likelihood": "High, and near-certain by design",
+-      "mitigation": "None required. It requires correct modelling, not mitigation."
+-    },
+-    {
+-      "title": "Integration risk",
+-      "description": "FTMO has never operated a regulated multi-jurisdiction broker. Keeping OANDA standalone defers the challenge, and the cross-sell synergies eventually require integration.",
+-      "severity": "Medium",
+-      "likelihood": "Medium-High",
+-      "mitigation": "OANDA's management has been retained and the approach is phased."
+-    },
+-    {
+-      "title": "Reputational and consumer-protection backlash",
+-      "description": "The model's dependence on trader failure is now discussed openly.",
+-      "severity": "Medium",
+-      "likelihood": "Medium",
+-      "mitigation": "Education and analytics tooling, and transparency on the $500M+ paid out."
+-    },
+-    {
+-      "title": "Revenue concentration in a single product",
+-      "description": "Despite Quantlane and OANDA, evaluation fees produced the overwhelming majority of historical revenue.",
+-      "severity": "Medium-High",
+-      "likelihood": "Medium",
+-      "mitigation": "The acquisition is designed to deliver exactly this diversification, and it is unproven."
+-    }
+-  ],
+-  "growth_opportunities": [
+-    {
+-      "title": "Trading regulatory arbitrage for regulatory legitimacy",
+-      "description": "Converting an unregulated, high-margin, fragile revenue base into a licensed and defensible group. The logic holds and the sequencing is right: buy legitimacy before regulation forces it.",
+-      "potential_impact": "High",
+-      "timeframe": "Executing now"
+-    },
+-    {
+-      "title": "Compliant US market access",
+-      "description": "OANDA's US retail FX dealer licence restores durable access to the world's largest retail trading market, the channel MetaQuotes severed in 2024.",
+-      "potential_impact": "High",
+-      "timeframe": "Near-term"
+-    },
+-    {
+-      "title": "Cross-sell between prop and brokerage",
+-      "description": "OANDA's prop programme is already migrating to FTMO. Running it the other way, funnelling graduated FTMO traders into regulated OANDA accounts, converts a transactional relationship into a recurring one and is the bigger prize.",
+-      "potential_impact": "High",
+-      "timeframe": "Near to medium term"
+-    },
+-    {
+-      "title": "Sector consolidation",
+-      "description": "FTMO is the only prop firm with the balance sheet to buy distressed competitors during a shakeout.",
+-      "potential_impact": "Medium-High",
+-      "timeframe": "Medium term"
+-    },
+-    {
+-      "title": "Data monetisation through Quantlane",
+-      "description": "Simulated-trading data from millions of accounts feeding quantitative strategies is a genuinely differentiated asset, and its economics are entirely undisclosed.",
+-      "potential_impact": "Medium",
+-      "timeframe": "Medium term"
+-    }
+-  ],
+-  "key_questions": [
+-    { "category": "On regulation", "question": "What is the base case for prop-trading regulation across the EU, UK and US, and what revenue impact does management model if evaluation firms are brought fully inside brokerage regulation?" },
+-    { "category": "On revenue quality, which is the question that matters most", "question": "What share of FY2024's $329 million came from failed challenges rather than successful traders, and what is the repeat-attempt rate per customer? This single ratio determines how the business should be valued." },
+-    { "category": "On leverage", "question": "What are the terms, covenants and amortisation schedule on the $250 million facility, and what is debt-service coverage if evaluation revenue falls 30%?" },
+-    { "category": "On OANDA", "question": "What are its standalone revenue, margin and regulatory capital requirements, and what is the pro-forma blended group margin after integration?" },
+-    { "category": "On integration", "question": "OANDA is running standalone. What is the actual roadmap, which synergies are underwritten, and on what timeline?" },
+-    { "category": "On platform dependence", "question": "What share of evaluation volume runs through MetaQuotes platforms, and what is the contingency if support is withdrawn again?" },
+-    { "category": "On margin", "question": "As the mix shifts toward regulated brokerage, what is the three-year target for blended group net margin?" },
+-    { "category": "On Quantlane", "question": "What revenue and profit does the proprietary trading arm actually generate?" },
+-    { "category": "On FY2025", "question": "What were revenue, profit and account growth? The accounts were not public at the time of writing." }
+-  ],
+-  "executive_summary": {
+-    "overview": "FTMO leads modern prop trading and performs remarkably on the numbers. FY2024 revenue reached about $329 million, up 53%, with net profit of about $62.5 million at a 19% margin, on a staff cost base of roughly 2.3% of revenue, about one-tenth the proportion IG Group and CMC Markets carry. FTMO grew 53% in a year when dozens of its competitors went under. Judged on the financials alone, the business looks superb. The financials are not the finding. What produces them is. FTMO earns most of its revenue from traders who fail their evaluations and forfeit non-refundable fees. The margin is extraordinary because the business is unregulated: no compliance staff, no regulatory capital, no trade reporting, no execution. That position rests entirely on the argument that the trading is simulated, an argument regulators have not yet tested. The industry lobbying for its own regulation suggests insiders expect them to.",
+-    "key_findings": [
+-      "FY2024 revenue about $329 million, up 53%, with net profit of about $62.5 million at a 19% margin, on staff costs of roughly 2.3% of revenue — about one-tenth the proportion IG Group and CMC Markets carry",
+-      "FTMO earns most of its revenue from traders who fail their evaluations and forfeit non-refundable fees; the extraordinary margin exists because the business sits outside brokerage regulation on the untested argument that its trading is simulated",
+-      "In December 2025 FTMO acquired OANDA, a 30-year-old broker holding licences in about eight markets including the US, buying regulatory legitimacy before regulation compels it and restoring compliant US access severed by MetaQuotes in 2024",
+-      "FTMO funded the OANDA deal with a $250 million credit facility, putting real leverage on a business earning about $62.5 million a year, and trades margin for defensibility by design since regulated brokerage earns far less than selling failed challenges",
+-      "FTMO has never run a regulated multi-jurisdiction broker, and keeping OANDA standalone defers that integration challenge rather than resolving it"
+-    ],
+-    "investment_thesis_notes": [
+-      "The OANDA acquisition is well-timed and well-chosen: it buys regulatory legitimacy before regulation compels it, restores compliant US access, diversifies revenue into a licensed entity, and turns a fragile business into a defensible one",
+-      "It is also not free: the deal is debt-funded ($250M facility against ~$62.5M annual earnings), trades margin for defensibility by design, and FTMO has never run a regulated multi-jurisdiction broker — keeping OANDA standalone defers rather than resolves that integration challenge"
+-    ],
+-    "overall_rating": "Exceptional economics, existential regulatory exposure, and a well-judged debt-funded attempt to escape it.",
+-    "recommendation": "Proceed, with the diligence conditional on three things. First, get the revenue-quality split: what share of the $329 million comes from failed versus successful traders, and what the repeat-attempt rate is. That ratio, more than any other number, decides whether this is a durable business or a monetised failure funnel, and it should drive the multiple. Second, build a regulatory scenario model that quantifies group revenue and margin under full brokerage regulation of the evaluation business, and stress the $250 million facility's covenants against a 30% decline in evaluation revenue. Third, obtain OANDA's standalone economics and the true pro-forma blended margin. The group's post-deal margin will land well below 19% by design, and any valuation anchored on historical prop margins will be wrong. This is a strong asset executing a clever hedge. The evidence says FTMO is well run. What remains unanswered is whether $250 million of debt and one acquisition are enough to outrun the regulatory reckoning its own industry is asking for."
+-  }
+-}
+diff --git a/backend/app/data/reports/gp-bullhound.json b/backend/app/data/reports/gp-bullhound.json
+new file mode 100644
+index 0000000..712e158
+--- /dev/null
++++ b/backend/app/data/reports/gp-bullhound.json
+@@ -0,0 +1 @@
++{"generated_at": "PENDING", "input": {"company_name": "gp-bullhound"}}
+diff --git a/backend/app/data/reports/illuminate-financial.json b/backend/app/data/reports/illuminate-financial.json
+new file mode 100644
+index 0000000..6be85ce
+--- /dev/null
++++ b/backend/app/data/reports/illuminate-financial.json
+@@ -0,0 +1 @@
++{"generated_at": "PENDING", "input": {"company_name": "illuminate-financial"}}
+diff --git a/backend/app/data/reports/nyca-partners.json b/backend/app/data/reports/nyca-partners.json
+new file mode 100644
+index 0000000..f0be0bc
+--- /dev/null
++++ b/backend/app/data/reports/nyca-partners.json
+@@ -0,0 +1 @@
++{"generated_at": "PENDING", "input": {"company_name": "nyca-partners"}}
+diff --git a/backend/app/data/reports/plus500.json b/backend/app/data/reports/plus500.json
+deleted file mode 100644
+index c1454bb..0000000
+--- a/backend/app/data/reports/plus500.json
++++ /dev/null
+@@ -1,349 +0,0 @@
+-{
+-  "input": {
+-    "company_name": "Plus500 Ltd.",
+-    "website": null,
+-    "industry": "Multi-asset fintech. CFD and futures trading platform.",
+-    "geography": "The group holds licences in the UK, Australia, Cyprus, Israel and New Zealand. It added UAE and Canadian licences during 2025, secured authorisation for a representative office in Colombia, and completed the acquisition of Mehta Equities in India in February 2026."
+-  },
+-  "generated_at": "2026-07-12T00:00:00Z",
+-  "company_profile": {
+-    "legal_name": "Plus500 Ltd. (LSE: PLUS)",
+-    "website": null,
+-    "industry": "Multi-asset fintech. CFD and futures trading platform.",
+-    "geography": "The group holds licences in the UK, Australia, Cyprus, Israel and New Zealand. It added UAE and Canadian licences during 2025, secured authorisation for a representative office in Colombia, and completed the acquisition of Mehta Equities in India in February 2026.",
+-    "founded_year": "2008",
+-    "headquarters": "Haifa, Israel",
+-    "employee_count": null,
+-    "description": "Plus500 runs proprietary trading platforms across multiple asset classes. It listed in London in July 2013 and has been the best-performing stock on the FTSE All-Share Index on a total return basis from IPO to the end of 2025. The group holds licences in the UK, Australia, Cyprus, Israel and New Zealand. It added UAE and Canadian licences during 2025, secured authorisation for a representative office in Colombia, and completed the acquisition of Mehta Equities in India in February 2026. Customers trade OTC products, primarily CFDs, alongside share dealing and US futures and options on futures. Efficiency defines this business. A lean organisation running a mobile-first proprietary stack produces a 44% EBITDA margin and carries no debt. Evidence note: Financials, KPIs and regulatory facts come from Plus500's public LSE filings and FY2025 results. Market-sizing figures are analyst-constructed estimates with stated assumptions, not third-party market data. A live engagement would triangulate these against named paid sources. Evidence grade: High. The target is LSE-listed and files under UK disclosure rules. LSE interim reporting runs less granular than US quarterly filings, so intra-year detail is thinner than for a Nasdaq-listed comparable.",
+-    "key_facts": [
+-      { "label": "Chief Executive", "value": "David Zruia" },
+-      { "label": "Ownership", "value": "Public. LSE: PLUS since 24 July 2013. Constituent of the FTSE 250 and STOXX Europe 600." },
+-      { "label": "FY2025 revenue", "value": "$792.4M, up 3%" },
+-      { "label": "FY2025 EBITDA", "value": "$348.1M, a 44% margin" },
+-      { "label": "Basic EPS", "value": "$3.93, up 10%" },
+-      { "label": "Active customers", "value": "242,440, down 5%" },
+-      { "label": "New customers", "value": "104,902, down 11%" },
+-      { "label": "ARPU", "value": "$3,268, up 8%, a record" },
+-      { "label": "Average deposit per active user", "value": "About $26,900, up from about $12,000" },
+-      { "label": "Cash", "value": "About $0.8B, debt-free" },
+-      { "label": "Q1 2026 customer income", "value": "$270.6M, a record" }
+-    ]
+-  },
+-  "business_model": {
+-    "revenue_model": "OTC, around 87% of revenue. Spreads and financing on CFDs across shares, forex, commodities, indices and crypto. Mobile users generate 89% of it. Around half now comes from customers of more than five years' standing, double the share of three years ago. Non-OTC, around 12.6% of revenue. Mostly the US futures business, which passed $100 million in revenue for the first time in FY2025. It covers B2C through Plus500 Futures, B2B institutional clearing and technology, and now prediction markets. CME Group appointed Plus500 as clearing partner for its event-based contracts platform launched with FanDuel. Topstep signed Plus500 as its exclusive clearing and technology provider. In February 2026 Plus500 launched event-based contracts through Kalshi, the first CFTC-regulated prediction-markets exchange, clearing the trades itself. Interest income on customer balances contributed $29.6 million in H1 2025. Capital allocation: Plus500 returned $380 million to shareholders in 2025 and has repurchased about 38% of its shares over time. It announced a further $187.5 million package combining a $100 million buyback with $87.5 million in dividends.",
+-    "value_proposition": "Fast, reliable, mobile-first access to leveraged trading across thousands of instruments, on a platform Plus500 built and owns end to end. The pitch is execution quality and simplicity, not the lowest price.",
+-    "key_activities": [
+-      "Building and running the proprietary platform.",
+-      "Acquiring customers through the in-house marketing engine under strict return-on-investment rules.",
+-      "Securing and maintaining licences across jurisdictions.",
+-      "Operating clearing infrastructure for the futures and prediction-markets business.",
+-      "Buying companies that add capability or market access, as with Mehta Equities."
+-    ],
+-    "key_resources": [
+-      "The proprietary technology stack, which drives both the product and the marketing engine.",
+-      "Regulatory licences across the UK, Australia, Cyprus, Israel, New Zealand, UAE and Canada.",
+-      "Clearing memberships with Kalshi Klear and ICE Clear US.",
+-      "About $0.8 billion in cash and no debt.",
+-      "Marketing technology built on big data and AI that cut acquisition cost more than 10% in a year."
+-    ],
+-    "channels": [
+-      "Direct to consumer through mobile, which generates 89% of OTC revenue.",
+-      "Digital acquisition run on proprietary marketing technology.",
+-      "B2B institutional partnerships with CME and Topstep, a channel that did not exist two years ago."
+-    ],
+-    "customer_relationships": "Self-service and low-touch by design, which is what keeps the cost base lean. Plus500 has shifted toward longevity: around half of FY2025 OTC revenue came from customers who have traded with it for more than five years, double the share three years earlier. Institutional relationships work the other way, running on long contracts with high switching costs.",
+-    "cost_structure": [
+-      "Customer acquisition and marketing dominate, with average user acquisition cost of $1,237 in H1 2025, down from $1,489.",
+-      "Technology development.",
+-      "Regulatory compliance across seven jurisdictions.",
+-      "Clearing infrastructure.",
+-      "Staff costs stay low relative to peers, which is where the margin comes from."
+-    ],
+-    "chart": {
+-      "type": "diverging",
+-      "title": "Year-on-year change, FY2025",
+-      "subtitle": "Revenue grew only because ARPU outran a shrinking customer base.",
+-      "unit": "%",
+-      "series": [
+-        { "label": "New customers", "value": -11 },
+-        { "label": "Active customers", "value": -5 },
+-        { "label": "Revenue", "value": 3 },
+-        { "label": "ARPU", "value": 8 }
+-      ],
+-      "emphasis": ["New customers", "Active customers"]
+-    }
+-  },
+-  "market_overview": {
+-    "narrative": "Plus500 competes in retail CFD and OTC derivatives, and increasingly in US listed futures and prediction markets. The CFD market is mature and heavily regulated. ESMA leverage caps have capped the European opportunity, which pushed every incumbent to diversify by geography and product. Plus500 is executing that playbook faster than most. The move that matters is its migration from CFD broker into regulated US market infrastructure: clearing, futures and prediction markets. That takes Plus500 up the value chain into a segment with sturdier economics and less regulatory fragility. Prediction markets are the frontier. The segment is young, CFTC-regulated and growing fast, and Plus500 took an infrastructure position through CME, FanDuel, Kalshi and Topstep rather than competing as another retail venue.",
+-    "market_size_summary": "No independent third-party market-size figure is cited in the source material. See Market Sizing (TAM/SAM/SOM) for the analyst-constructed estimate, built from Plus500's disclosed economics and stated penetration assumptions rather than third-party market data.",
+-    "key_stats": [
+-      { "label": "FY2025 revenue", "value": "$792.4M" },
+-      { "label": "EBITDA margin", "value": "44% (FY2025)" },
+-      { "label": "Non-OTC revenue", "value": "Above $100M, around 12.6% of group, up from around 10% in FY2024" },
+-      { "label": "Average deposit per active user", "value": "About $26,900, more than double the prior year" },
+-      { "label": "Mobile and tablet share of OTC revenue", "value": "89%" }
+-    ],
+-    "regional_notes": "The group holds licences in the UK, Australia, Cyprus, Israel and New Zealand. It added UAE and Canadian licences during 2025, secured authorisation for a representative office in Colombia, and completed the acquisition of Mehta Equities in India in February 2026."
+-  },
+-  "tam_sam_som": {
+-    "tam": {
+-      "value": "Low tens of billions of dollars a year (analyst-constructed estimate)",
+-      "description": "Global retail OTC and CFD trading, plus US retail futures and prediction markets, generates a revenue pool in the low tens of billions of dollars a year. The US futures and prediction-markets segment is the fastest-growing and least penetrated part of it."
+-    },
+-    "sam": {
+-      "value": "Low single-digit billions a year (analyst-constructed estimate)",
+-      "description": "Retail derivatives revenue in the jurisdictions where Plus500 holds licences, now including India through Mehta, runs to an estimated low single-digit billions a year."
+-    },
+-    "som": {
+-      "value": "$792.4 million (FY2025, realised)",
+-      "description": "Plus500 captures $792.4 million (FY2025), and it does so with 242,440 active customers at $3,268 ARPU. Revenue growth is coming from customer value rather than customer count. The runway sits in the non-OTC engine, in new geographies (India, Latin America, the Gulf) and in prediction markets."
+-    },
+-    "methodology_note": "Analyst-constructed estimate. We built this from Plus500's disclosed economics and stated penetration assumptions rather than third-party market data. Treat it as directional. A live engagement would triangulate against named paid sources. Sizing is not the issue. The question worth diligence is whether the non-OTC engine grows fast enough to outrun a shrinking OTC customer base."
+-  },
+-  "industry_trends": [
+-    {
+-      "title": "Regulation has capped retail CFDs",
+-      "description": "ESMA and FCA leverage caps permanently compressed the European CFD opportunity. This is the force driving Plus500's diversification, and it explains why its OTC customer count keeps sliding.",
+-      "impact": "High"
+-    },
+-    {
+-      "title": "Regulated prediction markets are emerging",
+-      "description": "A new, fast-growing, CFTC-regulated US segment. Plus500 moved early and positioned itself as infrastructure through clearing rather than as another venue, which is the more defensible role if the segment scales.",
+-      "impact": "High"
+-    },
+-    {
+-      "title": "Brokers are monetising their technology as B2B infrastructure",
+-      "description": "Firms with superior stacks now sell clearing and technology to institutions, as Plus500 does for CME and Topstep. The revenue is stickier and better quality than retail acquisition.",
+-      "impact": "Medium-High"
+-    },
+-    {
+-      "title": "The sector is chasing higher-value customers",
+-      "description": "Rising acquisition costs pushed brokers from volume toward premium and longevity models. Plus500 leads on this: fewer customers, higher ARPU, longer tenure.",
+-      "impact": "Medium-High"
+-    }
+-  ],
+-  "competitor_landscape": {
+-    "competitors": [
+-      {
+-        "name": "IG Group",
+-        "positioning": "The scale incumbent. Bigger than Plus500 and materially less efficient.",
+-        "strengths": ["The largest UK-listed CFD and spread-betting incumbent", "Scale", "Brand heritage", "A broad product set and real institutional presence"],
+-        "weaknesses": ["A higher cost base and materially lower operating margins than Plus500", "Slower technology cycles"]
+-      },
+-      {
+-        "name": "CMC Markets",
+-        "positioning": "The mid-tier peer. Similar model, weaker economics.",
+-        "strengths": ["A respected proprietary platform", "Strong institutional and B2B partnerships"],
+-        "weaknesses": ["Smaller scale", "Thinner and more volatile margins", "Greater earnings sensitivity to market conditions"]
+-      },
+-      {
+-        "name": "eToro (NASDAQ: ETOR)",
+-        "positioning": "The volume play. More users and more brand, far worse margin quality.",
+-        "strengths": ["A differentiated social and copy-trading network", "Roughly 40 million registered users", "Strong crypto and brand presence"],
+-        "weaknesses": ["Far weaker margin quality, with heavy reliance on thin-margin crypto intermediation", "Less operational efficiency"]
+-      },
+-      {
+-        "name": "Trading 212",
+-        "positioning": "The price attacker, taking Plus500's entry-level European base on cost.",
+-        "strengths": ["Zero-commission pricing winning users fast across Plus500's core European markets"],
+-        "weaknesses": ["A narrower product range", "Unproven profitability through a full cycle", "Less regulatory breadth"]
+-      },
+-      {
+-        "name": "XTB",
+-        "positioning": "The regional challenger, strong in Central and Eastern Europe.",
+-        "strengths": ["A strong Central and Eastern European position", "Widening products", "Competitive pricing", "Fast European growth"],
+-        "weaknesses": ["A smaller international footprint", "More concentrated geographic exposure"]
+-      },
+-      {
+-        "name": "Interactive Brokers",
+-        "positioning": "The futures incumbent. The main obstacle to Plus500's non-OTC growth thesis.",
+-        "strengths": ["Global scale in futures and professional-grade infrastructure, which puts it directly across from Plus500's US futures ambitions"],
+-        "weaknesses": ["Less accessible to mainstream retail", "Weaker in the mobile-first mass-market CFD segment"]
+-      }
+-    ],
+-    "competitive_intensity_narrative": "Plus500 does not differentiate on product. It differentiates on operating efficiency and technology. Its 44% EBITDA margin and lean cost base sit structurally above IG and CMC, and its capital returns lead the sector. The open question is whether efficiency alone holds off commission-free challengers eroding the retail base from below while Interactive Brokers contests the futures upside from above."
+-  },
+-  "customer_segments": [
+-    {
+-      "name": "Premium long-tenure OTC traders (the core, and the highest value)",
+-      "description": "Experienced traders who have stayed with Plus500 for years and now generate around half of OTC revenue. The strategic focus of the whole business.",
+-      "needs": ["Platform reliability", "Product breadth", "Execution quality"],
+-      "buying_behavior": "Large deposits averaging around $26,900, mobile-first (89% of OTC revenue), long retention, and less price sensitivity than newer users."
+-    },
+-    {
+-      "name": "Mainstream retail CFD traders (volume, declining)",
+-      "description": "The traditional base that built the company and is now shrinking, with active customers down 5% and new customers down 11%.",
+-      "needs": ["Simplicity", "Low barriers to entry", "Access to leverage"],
+-      "buying_behavior": "Price-sensitive, promotion-driven, quick to churn. This segment takes the full force of commission-free competitors and regulatory leverage caps."
+-    },
+-    {
+-      "name": "US futures retail traders (growth)",
+-      "description": "Traders using Plus500 Futures for regulated US access. They made up around 17% of new customers in H1 2025.",
+-      "needs": ["Regulated US access", "Competitive commissions", "Professional-grade execution"],
+-      "buying_behavior": "More sophisticated and more engaged than the CFD base."
+-    },
+-    {
+-      "name": "B2B and institutional clients (emerging, strategic)",
+-      "description": "CME, Topstep and clearing counterparties buying Plus500's infrastructure rather than its retail product.",
+-      "needs": ["Institutional-grade clearing", "Reliable technology", "Regulatory standing"],
+-      "buying_behavior": "Long procurement cycles, very high switching costs, multi-year contracts. This is the stickiest revenue Plus500 has."
+-    }
+-  ],
+-  "swot_analysis": {
+-    "strengths": [
+-      "The best profitability in the sector: a 44% EBITDA margin, no debt, about $0.8B in cash.",
+-      "A proprietary stack driving both product and marketing, which cut acquisition cost more than 10% in a year.",
+-      "Capital discipline few listed peers match: about 38% of shares repurchased, $380M returned in 2025.",
+-      "A first-mover position in regulated US prediction-markets infrastructure.",
+-      "Improving revenue quality: ARPU up 8% to a record $3,268, with half of OTC revenue from customers of five years or more."
+-    ],
+-    "weaknesses": [
+-      "The customer base is shrinking. Active customers fell 5% and new customers 11%.",
+-      "Around 87% of revenue still comes from OTC and CFDs, a product class regulators keep targeting.",
+-      "Growth comes from ARPU rather than volume, and ARPU has a ceiling.",
+-      "Plus500 is smaller than IG or Interactive Brokers in the futures arena it is entering."
+-    ],
+-    "opportunities": [
+-      "Scaling the non-OTC and US futures engine past $100M, the clearest growth path available.",
+-      "Prediction markets through Kalshi and CME/FanDuel: early, potentially large, defensible as infrastructure.",
+-      "B2B clearing and technology as high-margin, sticky, long-contract revenue.",
+-      "Geographic expansion into India through Mehta, Latin America through Colombia, and the UAE and Canada."
+-    ],
+-    "threats": [
+-      "Further regulatory tightening on CFDs in core European markets.",
+-      "Trading 212 and XTB eroding the retail base on price.",
+-      "Interactive Brokers and incumbents contesting the US futures and clearing upside.",
+-      "Regulatory uncertainty in prediction markets, where the growth thesis rests on a young and politically contested regime."
+-    ]
+-  },
+-  "porters_five_forces": {
+-    "forces": [
+-      {
+-        "force_name": "Competitive rivalry",
+-        "rating": "High",
+-        "rationale": "Listed CFD incumbents, commission-free challengers and multi-asset platforms all chase the same retail pool."
+-      },
+-      {
+-        "force_name": "Threat of new entrants",
+-        "rating": "Low-Medium",
+-        "rationale": "Multi-jurisdiction licences, clearing memberships and a proprietary stack form a real barrier. The clearing relationships with Kalshi Klear and ICE Clear US are especially hard to copy."
+-      },
+-      {
+-        "force_name": "Buyer power",
+-        "rating": "Medium-High",
+-        "rationale": "Retail users switch easily and compare prices. Plus500's answer has been to build long-tenure, high-deposit customers who behave far more stickily than the segment average."
+-      },
+-      {
+-        "force_name": "Supplier power",
+-        "rating": "Low-Medium",
+-        "rationale": "Owning the platform rather than licensing one cuts supplier dependence sharply, a structural advantage over brokers running vendor technology."
+-      },
+-      {
+-        "force_name": "Threat of substitutes",
+-        "rating": "Medium-High",
+-        "rationale": "Commission-free equities apps, direct futures brokers and crypto exchanges each replace part of the CFD proposition, especially for newer and lower-value users."
+-      }
+-    ],
+-    "overall_attractiveness": "Plus500 defends its position with cost and technology rather than product uniqueness. That holds well against incumbents and less well against price-led challengers at the entry level."
+-  },
+-  "commercial_risks": [
+-    {
+-      "title": "Regulatory action on CFDs",
+-      "description": "Around 87% of revenue comes from a product class UK and EU regulators keep in their sights.",
+-      "severity": "High",
+-      "likelihood": "Medium-High",
+-      "mitigation": "The diversification into US futures, clearing, prediction markets and new geographies is exactly this hedge."
+-    },
+-    {
+-      "title": "A contracting customer base",
+-      "description": "Active customers fell 5% and new customers 11%, and only rising ARPU kept revenue growing. Management chose value over volume and executed it well. ARPU still has a ceiling, and volume decline may eventually outrun value uplift.",
+-      "severity": "Medium-High",
+-      "likelihood": "High",
+-      "mitigation": "The premium strategy is deliberate, and it needs the non-OTC engine to scale before the ceiling arrives."
+-    },
+-    {
+-      "title": "Prediction-markets regulatory uncertainty",
+-      "description": "A key growth pillar rests on a nascent CFTC regime and on partner platforms including Kalshi and CME/FanDuel.",
+-      "severity": "Medium-High",
+-      "likelihood": "Medium",
+-      "mitigation": "Plus500 positioned itself as clearing infrastructure rather than as a directional venue operator, which is the more defensible role."
+-    },
+-    {
+-      "title": "Concentration in a maturing core",
+-      "description": "The OTC engine is mature and structurally capped, so non-OTC must scale enough to offset it.",
+-      "severity": "Medium",
+-      "likelihood": "Medium",
+-      "mitigation": "Non-OTC grew from around 10% to around 12.6% of revenue in one year, which points the right way from a small base."
+-    },
+-    {
+-      "title": "Israel operations",
+-      "description": "Core operations and regulatory domicile include Israel.",
+-      "severity": "Medium",
+-      "likelihood": "Medium",
+-      "mitigation": "Multi-jurisdiction licensing and distributed operations."
+-    },
+-    {
+-      "title": "Execution risk on new markets",
+-      "description": "India, Latin America, the UAE and Canada are all unproven for Plus500.",
+-      "severity": "Medium",
+-      "likelihood": "Medium",
+-      "mitigation": "The acquisitions are small, capability-led and disciplined rather than transformational bets."
+-    }
+-  ],
+-  "growth_opportunities": [
+-    {
+-      "title": "Non-OTC and US futures",
+-      "description": "Already past $100M and 12.6% of revenue, up from 10%. The clearest and most proven growth engine Plus500 has.",
+-      "potential_impact": "High",
+-      "timeframe": "Near-term"
+-    },
+-    {
+-      "title": "Prediction markets",
+-      "description": "First-mover clearing infrastructure through Kalshi, CME/FanDuel and Topstep in a segment expanding fast. High optionality, dependent on regulation.",
+-      "potential_impact": "High",
+-      "timeframe": "Near to medium term"
+-    },
+-    {
+-      "title": "B2B clearing and technology",
+-      "description": "Selling the existing stack to institutions produces sticky, high-margin, long-contract revenue. The best-quality revenue available to the group.",
+-      "potential_impact": "High",
+-      "timeframe": "Medium term"
+-    },
+-    {
+-      "title": "Geographic expansion",
+-      "description": "India through Mehta, Latin America through Colombia, plus UAE and Canadian licences. These markets are underpenetrated and their regulatory dynamics beat Europe's.",
+-      "potential_impact": "Medium-High",
+-      "timeframe": "Medium term"
+-    },
+-    {
+-      "title": "Further ARPU and longevity uplift",
+-      "description": "Proven, with ARPU up 8% and deposits doubled, though the lever is finite.",
+-      "potential_impact": "Medium",
+-      "timeframe": "Near-term"
+-    }
+-  ],
+-  "key_questions": [
+-    { "category": "On customer contraction", "question": "Active customers fell 5% and new customers 11%. At what point does volume decline overwhelm ARPU growth, and where is the modelled floor for the OTC customer base?" },
+-    { "category": "On the non-OTC engine", "question": "What are the three-year revenue and margin targets, and what share of group revenue does non-OTC need to reach before the CFD regulatory risk is structurally de-risked?" },
+-    { "category": "On prediction markets", "question": "How much capital and revenue is committed, and what happens if the CFTC regime tightens or a partner platform loses authorisation?" },
+-    { "category": "On margin", "question": "The 44% EBITDA margin leads the sector. What sustains it as the mix shifts toward lower-margin clearing and futures?" },
+-    { "category": "On CFD exposure", "question": "What is the precise revenue at risk under further European leverage-cap tightening, broken down by jurisdiction?" },
+-    { "category": "On capital allocation", "question": "With about $0.8B in cash and 38% of shares already repurchased, how does the board choose between buybacks, acquisitions and organic investment?" },
+-    { "category": "On India", "question": "What synergy and revenue does Mehta Equities need to deliver, and what is the integration risk?" }
+-  ],
+-  "executive_summary": {
+-    "overview": "Plus500 runs one of the most efficient businesses in retail trading. FY2025 revenue reached $792.4 million and EBITDA $348.1 million, a 44% margin. The company carries no debt, holds about $0.8 billion in cash, and has repurchased roughly 38% of its shares over time, a capital-returns record few listed peers approach. Its proprietary technology drives both the lean cost base and a falling customer acquisition cost. The financials look excellent and the customer base is shrinking: active customers fell 5% in FY2025 and new customers fell 11%. Revenue grew only because ARPU rose 8% to a record $3,268, and because long-tenure customers now produce around half of OTC revenue.",
+-    "key_findings": [
+-      "FY2025 revenue $792.4M, EBITDA $348.1M (44% margin), no debt, about $0.8B in cash, roughly 38% of shares repurchased over time",
+-      "Active customers fell 5% and new customers fell 11% in FY2025; revenue grew only because ARPU rose 8% to a record $3,268, with long-tenure customers now producing around half of OTC revenue",
+-      "Management chose value over volume and has executed that choice well, but ARPU still has a ceiling, and European regulation still caps the underlying OTC and CFD market",
+-      "Non-OTC revenue (US futures, B2B clearing, prediction markets) passed $100 million and grew from around 10% to 12.6% of the group in a single year, with first-mover infrastructure positions through CME/FanDuel, Kalshi and Topstep"
+-    ],
+-    "investment_thesis_notes": [
+-      "Bull case: non-OTC revenue passed $100 million and grew from around 10% to 12.6% of the group in a single year, with first-mover infrastructure positions through CME/FanDuel, Kalshi and Topstep. If that engine compounds, Plus500 stops being a mature CFD broker and becomes regulated market infrastructure, a different business carrying a different multiple.",
+-      "Bear case: 87% of revenue still sits in a declining, regulatorily targeted product, and the new engine is too small and too young to offset it in time."
+-    ],
+-    "overall_rating": "A high-quality asset with a mature core and a credible pivot underway.",
+-    "recommendation": "Proceed to deeper diligence on three questions. First, find the sustainable floor of the OTC customer base and the true ceiling of the ARPU lever, since the entire revenue line currently depends on the second outrunning the first. Second, test the unit economics, scalability and competitive defensibility of the non-OTC and clearing business against Interactive Brokers and the incumbents. Third, model a downside case for prediction markets under adverse CFTC outcomes. This is a well-run, cash-generative, high-quality business. What the valuation turns on is whether the pivot outruns the erosion."
+-  }
+-}
+diff --git a/backend/app/models/schemas.py b/backend/app/models/schemas.py
+index 346add2..3f0634f 100644
+--- a/backend/app/models/schemas.py
++++ b/backend/app/models/schemas.py
+@@ -25,6 +25,7 @@ class CompanyProfile(BaseModel):
+     employee_count: Optional[str] = None
+     description: str
+     key_facts: List[KeyFact]
++    evidence_note: Optional[str] = None
+ 
+ 
+ class ChartSeries(BaseModel):
+@@ -62,6 +63,7 @@ class MarketOverview(BaseModel):
+     market_size_summary: str
+     key_stats: List[KeyStat]
+     regional_notes: str
++    chart: Optional[Chart] = None
+ 
+ 
+ class MarketSizeLayer(BaseModel):
+diff --git a/frontend/src/components/sections/CompanyProfileSection.tsx b/frontend/src/components/sections/CompanyProfileSection.tsx
+index ee52902..2ee2e1b 100644
+--- a/frontend/src/components/sections/CompanyProfileSection.tsx
++++ b/frontend/src/components/sections/CompanyProfileSection.tsx
+@@ -18,6 +18,12 @@ export function CompanyProfileSection({ data }: { data: CompanyProfile }) {
+           ))}
+         </div>
+       </div>
++      {data.evidence_note && (
++        <div>
++          <SubHeading>Evidence Note</SubHeading>
++          <Prose>{data.evidence_note}</Prose>
++        </div>
++      )}
+       <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
+         <DataTile label="Founded" value={data.founded_year} />
+         <DataTile label="Headquarters" value={data.headquarters} />
+diff --git a/frontend/src/components/sections/MarketOverviewSection.tsx b/frontend/src/components/sections/MarketOverviewSection.tsx
+index fe11c3e..37620ec 100644
+--- a/frontend/src/components/sections/MarketOverviewSection.tsx
++++ b/frontend/src/components/sections/MarketOverviewSection.tsx
+@@ -1,5 +1,6 @@
+ import type { MarketOverview } from "../../types/report";
+ import { SectionCard, Prose, DataTile, SubHeading } from "../ui/SectionCard";
++import { ChartCard } from "../ui/ChartCard";
+ 
+ export function MarketOverviewSection({ data }: { data: MarketOverview }) {
+   return (
+@@ -19,6 +20,7 @@ export function MarketOverviewSection({ data }: { data: MarketOverview }) {
+           <DataTile key={stat.label} label={stat.label} value={stat.value} />
+         ))}
+       </div>
++      {data.chart && <ChartCard chart={data.chart} />}
+       <div>
+         <SubHeading>Regional Notes</SubHeading>
+         <Prose>{data.regional_notes}</Prose>
+diff --git a/frontend/src/components/ui/ChartCard.tsx b/frontend/src/components/ui/ChartCard.tsx
+index 508092b..07f0684 100644
+--- a/frontend/src/components/ui/ChartCard.tsx
++++ b/frontend/src/components/ui/ChartCard.tsx
+@@ -21,6 +21,7 @@ function formatValue(value: number, unit: string, signed: boolean): string {
+   const num = Number.isInteger(abs) ? String(abs) : String(abs);
+   const sign = value < 0 ? "-" : signed && value > 0 ? "+" : "";
+   if (unit === "$M") return `${sign}$${num}M`;
++  if (unit === "$B") return `${sign}$${num}B`;
+   if (unit === "%") return `${sign}${num}%`;
+   return `${sign}${num}${unit}`;
+ }
+diff --git a/frontend/src/types/report.ts b/frontend/src/types/report.ts
+index 43ec37b..7d9b348 100644
+--- a/frontend/src/types/report.ts
++++ b/frontend/src/types/report.ts
+@@ -25,6 +25,7 @@ export interface CompanyProfile {
+   employee_count?: string;
+   description: string;
+   key_facts: KeyFact[];
++  evidence_note?: string;
+ }
+ 
+ export interface ChartSeries {
+@@ -62,6 +63,7 @@ export interface MarketOverview {
+   market_size_summary: string;
+   key_stats: KeyStat[];
+   regional_notes: string;
++  chart?: Chart;
+ }
+ 
+ export interface MarketSizeLayer {

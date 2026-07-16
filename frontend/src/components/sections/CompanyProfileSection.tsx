@@ -18,6 +18,12 @@ export function CompanyProfileSection({ data }: { data: CompanyProfile }) {
           ))}
         </div>
       </div>
+      {data.evidence_note && (
+        <div>
+          <SubHeading>Evidence Note</SubHeading>
+          <Prose>{data.evidence_note}</Prose>
+        </div>
+      )}
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
         <DataTile label="Founded" value={data.founded_year} />
         <DataTile label="Headquarters" value={data.headquarters} />

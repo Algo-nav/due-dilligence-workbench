@@ -1,0 +1,379 @@
+{
+  "input": {
+    "company_name": "Nyca Partners",
+    "website": "https://www.nyca.com",
+    "industry": "Venture Capital / Fintech (Payments, Infrastructure, Capital Markets, Embedded Finance)",
+    "geography": "New York, San Francisco (US-focused, selective global)"
+  },
+  "generated_at": "2026-07-15",
+  "company_profile": {
+    "legal_name": "Nyca Management LLC (SEC Exempt Reporting Adviser, CRD 172892, SEC# 802-80292)",
+    "website": "https://www.nyca.com",
+    "industry": "Specialist fintech venture capital, seed to Series B",
+    "geography": "New York (HQ) and San Francisco",
+    "founded_year": "2014",
+    "headquarters": "New York, NY",
+    "employee_count": null,
+    "description": "Hans Morris founded Nyca in 2014 after a career spent running the institutions fintech sells to: president of Visa through its 2008 IPO, CFO and head of finance, technology and operations for Citi's institutional businesses, and managing director at General Atlantic. The firm's design converts that biography into process. A network of senior financial industry advisors, including former operators and regulators, filters which problems are genuinely painful for banks and payment networks, and Nyca backs roughly 10 companies a year out of thousands reviewed, from seed through Series B. The public fund trail runs $31M (2014), roughly $125M (2017) and $210M (2019), after which press coverage goes quiet. The regulatory trail does not: the firm's March 2026 Form ADV amendment reports 11 private funds with $1.19 billion in gross asset value, and its own site states it is investing from a fifth fund with more than 90 active investments. Portfolio names include Affirm, Acorns, SentiLink, Thought Machine and Gr4vy; Morris chaired the LendingClub board until recently. The firm favors transparent business models and companies re-architecting financial infrastructure over consumer point solutions.",
+    "key_facts": [
+      { "label": "SEC status", "value": "Exempt Reporting Adviser, CRD 172892 (ADV amended Mar 2026)" },
+      { "label": "Filed private funds (ADV)", "value": "11 funds / $1.19B gross asset value" },
+      { "label": "Current vehicle", "value": "Fifth fund (firm site); size undisclosed" },
+      { "label": "Active portfolio", "value": "90+ investments (firm site)" },
+      { "label": "Fund III", "value": "$210M, closed 2019 (TechCrunch)" },
+      { "label": "Fund II", "value": "$125M reported; one source says $140M" },
+      { "label": "Fund I", "value": "$31M, 2014" },
+      { "label": "Pace", "value": "~10 new investments / year from thousands reviewed" },
+      { "label": "Founder", "value": "Hans Morris: ex-Visa president, ex-Citi institutional CFO, ex-General Atlantic" },
+      { "label": "Notable portfolio", "value": "Affirm, Acorns, SentiLink, Thought Machine, Gr4vy" }
+    ],
+    "evidence_note": "Sources used for this sample report: the SEC's bulk Form ADV dataset (July 2026 snapshot), which shows Nyca Management LLC filing as an Exempt Reporting Adviser reporting 11 private funds with $1,186,083,708 gross asset value as of its March 2026 amendment; the firm's own website for current fund count, portfolio scale and team; TechCrunch and trade press for the 2014-2019 fund closes; interview material for investment process detail; LinkedIn for team composition; and KPMG Pulse of Fintech for market data. Two gaps are flagged rather than filled: Fund II's size is reported as $125M by TechCrunch and $140M by a secondary interview source, and no public figure exists for Funds IV and V. Gross asset value from the ADV measures current fund assets, not committed capital, so it does not resolve those fund sizes. On commissioned engagements the evidence base extends to the full ADV Schedule D fund-by-fund detail via IAPD, state filings, and structured deal data via PitchBook and Grata."
+  },
+  "business_model": {
+    "revenue_model": "Standard venture economics: management fees on committed capital plus carried interest. The firm discloses no fee or carry terms. The filed $1.19B gross asset value across 11 vehicles indicates the fee base is materially larger than the last press-reported fund close ($210M in 2019) implies; at conventional rates the management company would earn low-to-mid teens of millions annually, an assumption-based estimate rather than a disclosed figure.",
+    "value_proposition": "For founders: an investor whose advisor bench has run the exact institutions the startup must sell to or be regulated by, compressing years of enterprise and regulatory learning. For LPs: disciplined selectivity, roughly 10 investments a year from thousands screened, applied through an investment committee that has included senior operators from outside the firm since inception.",
+    "key_activities": [
+      "Seed through Series B investing in payments, financial infrastructure, capital markets technology and embedded finance",
+      "Advisor-network diligence: senior industry figures validate whether a problem is real inside banks and networks",
+      "Bank and financial-institution introductions for portfolio go-to-market",
+      "Board work at the portfolio level, with Morris personally holding multiple seats",
+      "Regulatory navigation support, drawing on advisors with supervisory backgrounds including senior NYDFS experience"
+    ],
+    "key_resources": [
+      "Hans Morris's operating history across Visa, Citi and General Atlantic, and the door-opening power it retains",
+      "The advisor and LP network of senior financial services executives, the firm's stated core differentiator",
+      "A 90+ company active portfolio generating proprietary data and founder referrals",
+      "Filed scale: 11 vehicles and $1.19B GAV, giving follow-on capacity across stages",
+      "Dual New York and San Francisco presence spanning the money-center and technology talent pools"
+    ],
+    "channels": [
+      "Advisor and LP referrals from inside financial institutions",
+      "Founder referrals from the existing portfolio",
+      "Direct thesis-driven outreach in payments and infrastructure",
+      "Morris's public profile from LendingClub, Visa and conference circuits"
+    ],
+    "customer_relationships": "Concentrated and hands-on by design. Backing only ~10 companies a year is the firm's stated mechanism for keeping partner attention meaningful, and board participation is standard for core positions. The advisor network functions as an extended relationship layer between formal rounds.",
+    "cost_structure": [
+      "Investment team and partner compensation across two offices",
+      "Advisor network economics, typically carry or fund participation for committee members",
+      "Fund administration, legal and compliance for 11 filed vehicles",
+      "Research and portfolio support"
+    ],
+    "chart": {
+      "type": "bar",
+      "title": "Nyca fund closes on the public record",
+      "subtitle": "Press trail ends in 2019; Funds IV and V are undisclosed. Fund II reported at $125M (TechCrunch) with one source citing $140M. The Mar 2026 ADV filing shows 11 vehicles at $1.19B gross asset value, indicating substantial capital formation the press never covered.",
+      "unit": "$M",
+      "series": [
+        { "label": "Fund I (2014)", "value": 31 },
+        { "label": "Fund II (2017)", "value": 125 },
+        { "label": "Fund III (2019)", "value": 210 }
+      ],
+      "emphasis": ["Fund III (2019)"]
+    }
+  },
+  "market_overview": {
+    "narrative": "Nyca deploys almost entirely into the US fintech venture pool, the largest and most volatile in the world. KPMG's Pulse of Fintech puts US fintech investment at $61.6 billion in 2022, a counter-cyclical $73.5 billion in 2023, a trough of $42.4 billion in 2024, and a recovery to $56.6 billion in 2025, when the US accounted for nearly half the global total. The structure of the recovery matters more than its size for an early-stage specialist: deal counts have fallen for four consecutive years while capital concentrates in fewer, larger rounds, which tightens follow-on funding for seed portfolios while rewarding investors who can pick the category winners early. The firm's core subsectors sit on both sides of the 2025-26 story: payments investment held steady at $19.2 billion globally on a nine-year-low deal count, while digital assets nearly doubled to $19.1 billion on US regulatory clarity, and B2B fintech posted its best year since 2019 at $13.5 billion.",
+    "market_size_summary": "For a fund, the relevant layers are the funding pool it competes in, the subset matching its stage and sector focus, and its own filed capital. The TAM/SAM/SOM section maps these, anchored on the one number in this report that comes from a regulatory filing rather than press or estimates.",
+    "key_stats": [
+      { "label": "US fintech investment 2025 (KPMG)", "value": "$56.6B" },
+      { "label": "US fintech investment 2024 (KPMG)", "value": "$42.4B" },
+      { "label": "Global fintech VC 2025 (KPMG)", "value": "$56.7B" },
+      { "label": "Payments investment 2025 (KPMG)", "value": "$19.2B, 9-yr-low deal count" },
+      { "label": "Digital assets 2025 (KPMG)", "value": "$19.1B, ~2x y/y" },
+      { "label": "Nyca filed GAV (ADV, Mar 2026)", "value": "$1.19B across 11 vehicles" }
+    ],
+    "regional_notes": "The firm is deliberately US-weighted with selective global positions such as Revolut and Thought Machine. New York headquarters place it inside the bank and payments decision-making cluster its advisor model depends on; the San Francisco office covers the technical founder pool. It has no stated EMEA or APAC office, which distinguishes it from three-region peers and concentrates its network advantage in the deepest single market.",
+    "chart": {
+      "type": "bar",
+      "title": "US fintech investment by year",
+      "subtitle": "KPMG Pulse of Fintech, data via PitchBook. The US took roughly half of global fintech investment in 2025; Nyca's home market is the pool that recovered hardest.",
+      "unit": "$B",
+      "series": [
+        { "label": "2022", "value": 61.6 },
+        { "label": "2023", "value": 73.5 },
+        { "label": "2024", "value": 42.4 },
+        { "label": "2025", "value": 56.6 }
+      ],
+      "emphasis": ["2025"]
+    }
+  },
+  "tam_sam_som": {
+    "tam": {
+      "value": "$56.6B / yr (KPMG, US 2025)",
+      "description": "Total US fintech investment, the national pool within which the firm competes for allocations and its portfolio competes for follow-on capital. Sourced directly from KPMG's Pulse of Fintech."
+    },
+    "sam": {
+      "value": "Seed-to-Series-B subset, not separately published (estimate: $15-25B / yr)",
+      "description": "The early-stage share of US fintech VC matching the firm's entry points. KPMG does not break this out; the range here applies typical early-stage shares of total VC to the US fintech figure and is labeled as constructed. Within it, the firm's sector focus (payments, infrastructure, capital markets, embedded finance) narrows further."
+    },
+    "som": {
+      "value": "$1.19B GAV filed (ADV, Mar 2026)",
+      "description": "The firm's own capital under advisement per its SEC filing: 11 private funds, $1,186,083,708 gross asset value. This is the report's hardest number, taken from a regulatory filing rather than press. GAV reflects current fund assets, not lifetime committed capital, and the 11 vehicles likely include parallel and co-investment structures alongside the five main funds, a standard pattern noted here as inference."
+    },
+    "methodology_note": "The three layers measure different things: national funding flow (TAM, sourced), the stage-and-sector slice the firm contests (SAM, constructed and labeled), and filed capital under advisement (SOM, regulatory). They are not a conversion funnel. The distinctive feature of this sizing is that the firm-level number is the best-evidenced of the three, which is the reverse of most private-company reports, and it exists because ERA filings disclose fund GAV even when press coverage stops."
+  },
+  "industry_trends": [
+    {
+      "title": "US regulatory clarity unlocking digital assets and charters",
+      "description": "The GENIUS Act on stablecoins and a narrowing regulatory gap between banks and fintechs (BCG/FT Partners 2026) sit squarely in the firm's lane. Its advisor bench includes former senior regulators, which converts regulatory change from risk into sourcing edge.",
+      "impact": "High"
+    },
+    {
+      "title": "Follow-on scarcity below the mega-rounds",
+      "description": "Fintech deal counts fell to an eight-year low in 2025 even as dollars recovered (KPMG). Seed-heavy portfolios face a tougher Series B market, raising the value of investors who can bridge, extend, or manufacture enterprise traction between rounds.",
+      "impact": "High"
+    },
+    {
+      "title": "Embedded finance and infrastructure over consumer apps",
+      "description": "Capital and M&A interest have rotated from consumer fintech toward infrastructure and B2B, the firm's stated territory since inception. B2B fintech investment hit a post-2019 high of $13.5B in 2025 (KPMG).",
+      "impact": "High"
+    },
+    {
+      "title": "AI concentrating both capital and bank budgets",
+      "description": "AI-native fintech absorbs a growing share of new rounds while banks redirect technology spend toward AI workflows. For a network-diligence firm the question shifts from whether a bank has the problem to whether an AI startup can survive bank procurement and model risk review.",
+      "impact": "Medium"
+    },
+    {
+      "title": "Exit routes reopening",
+      "description": "Five US fintech IPOs printed in Q1 2026 and fintech M&A value rose 24% in 2025 (KPMG). A decade-old portfolio with 90+ active positions needs functioning exits to convert paper marks into the distributions LPs now prioritize.",
+      "impact": "High"
+    }
+  ],
+  "competitor_landscape": {
+    "competitors": [
+      {
+        "name": "Ribbit Capital",
+        "positioning": "The highest-profile fintech-only franchise, global mandate, substantially larger funds",
+        "strengths": ["Brand gravity with repeat founders", "Scale capital across stages"],
+        "weaknesses": ["Competes above Nyca's entry point more than at seed", "Less bank-network positioning; more consumer and global bets"]
+      },
+      {
+        "name": "QED Investors",
+        "positioning": "Operator-founded fintech specialist (Capital One alumni) with a global early-stage program",
+        "strengths": ["Deep consumer credit and banking operating DNA", "Large dedicated funds and international reach"],
+        "weaknesses": ["Consumer-lending heritage against Nyca's infrastructure tilt", "Network anchored to one institution's diaspora rather than a cross-industry advisor bench"]
+      },
+      {
+        "name": "FinTech Collective",
+        "positioning": "Fellow New York fintech specialist, research-led sourcing, similar vintage",
+        "strengths": ["Strong research distribution and brand", "Directly overlapping stage and geography"],
+        "weaknesses": ["Smaller filed footprint", "Lacks the regulator-and-operator advisor layer"]
+      },
+      {
+        "name": "Bain Capital Ventures (fintech practice)",
+        "positioning": "Generalist platform with a committed fintech vertical and much larger balance sheet",
+        "strengths": ["Multi-stage capital and platform services", "Enterprise relationships through the wider Bain complex"],
+        "weaknesses": ["Fintech is one vertical among several", "Slower specialist signal for founders choosing between term sheets"]
+      },
+      {
+        "name": "Anthemis",
+        "positioning": "Transatlantic fintech specialist of the same generation",
+        "strengths": ["Established brand and European reach Nyca lacks", "Thesis depth in embedded finance"],
+        "weaknesses": ["Platform turbulence in recent years", "Thinner US bank-network density"]
+      },
+      {
+        "name": "Nyca's own LP-adjacent CVCs (Citi Ventures, American Express Ventures and peers)",
+        "positioning": "Strategic investors competing for the same infrastructure rounds",
+        "strengths": ["Commercial contracts bundled with capital", "Unlimited strategic patience on core bets"],
+        "weaknesses": ["Procurement pace and governance founders resist early", "Cannot match a neutral advisor bench spanning many institutions"]
+      }
+    ],
+    "competitive_intensity_narrative": "US fintech venture is the most contested specialist arena in the asset class, and the 2025-26 recovery concentrated rather than dispersed it: fewer rounds, bigger checks, and AI heat pulling generalist megafunds into infrastructure deals. Nyca's defensible ground is diligence quality per dollar, an advisor network that can tell real bank pain from plausible pitch, applied at a deliberately low ~10-deals-a-year pace. That advantage does not scale with fund size, which may be why the firm's vehicles have stayed mid-sized while its filed GAV compounds across many funds instead."
+  },
+  "customer_segments": [
+    {
+      "name": "Fintech founders, seed to Series B",
+      "description": "The core check recipient: teams building payments, infrastructure, capital markets and embedded finance products, screened down from thousands of annual candidates to roughly ten.",
+      "needs": ["Bank and network introductions that shorten enterprise sales", "Regulatory navigation from people who ran the agencies and institutions", "An investor whose selectivity itself signals quality to later rounds"],
+      "buying_behavior": "Founders in Nyca's sectors treat its diligence as validation; passing the advisor-network screen is part of the value. Referrals from portfolio founders and advisors dominate sourcing."
+    },
+    {
+      "name": "Limited partners",
+      "description": "The capital base behind 11 filed vehicles. Composition is not publicly disclosed; interview material and the advisor structure indicate meaningful participation by senior financial services individuals alongside institutions.",
+      "needs": ["Exposure to US fintech with genuine selectivity", "Distributions, the metric LPs now weight after the industry's low-DPI years", "Visibility into financial infrastructure themes"],
+      "buying_behavior": "Re-ups across five main funds and multiple side vehicles imply retention, but with no public LP roster this remains inference from structure rather than evidenced fact."
+    },
+    {
+      "name": "Financial institutions in the advisor orbit",
+      "description": "Banks, networks and processors connected through the advisor bench: not clients in a fee sense, but the demand side the whole model reads.",
+      "needs": ["Early sight of infrastructure that will change their cost base", "Vetted vendor candidates that survive procurement"],
+      "buying_behavior": "Institutions engage through individuals, not contracts, which keeps the network flexible and also informal; its depth is unverifiable from outside."
+    },
+    {
+      "name": "Acquirers and public markets (exit side)",
+      "description": "Strategics and, since the window reopened, public investors who convert the 90+ position portfolio into distributions. Affirm's listing and LendingClub's public history give the firm direct public-market experience.",
+      "needs": ["De-risked infrastructure assets with bank-grade compliance", "Founders prepared for strategic or public ownership"],
+      "buying_behavior": "Exit cadence from the portfolio is not publicly tallied; the reopened IPO window and strategic M&A recovery define the current opportunity set."
+    }
+  ],
+  "swot_analysis": {
+    "strengths": [
+      "Founder pedigree that opens institutional doors: Visa presidency, Citi institutional CFO, General Atlantic",
+      "Advisor-network diligence that tests bank pain before capital commits, applied at a disciplined ~10 deals a year",
+      "Filed scale exceeding public perception: $1.19B GAV across 11 vehicles per the March 2026 ADV",
+      "A 90+ company active portfolio compounding referrals, data and follow-on optionality",
+      "Sector positioning (infrastructure, payments, embedded finance) matching where capital and M&A rotated in 2025-26"
+    ],
+    "weaknesses": [
+      "Key-person concentration on Hans Morris, who anchors the network, brand and multiple board seats",
+      "Public opacity since 2019: no disclosed Fund IV or V size, no LP roster, no performance data",
+      "Fund II's size is inconsistently reported ($125M vs $140M), a small flag on the firm's public record hygiene",
+      "US concentration leaves the firm structurally absent from EMEA and APAC deal flow",
+      "The advisor model's depth is unverifiable externally and depends on individuals whose institutional relevance ages"
+    ],
+    "opportunities": [
+      "Digital asset and stablecoin infrastructure under new US regulatory clarity, with regulator-experienced advisors as an edge",
+      "Follow-on concentration: deploying reserves into proven winners as competitors' seed portfolios starve",
+      "Exit harvest across a decade-old portfolio as the IPO window and strategic M&A reopen",
+      "Formalizing the advisor network into a platform product for institutions, echoing what peers have productized",
+      "Selective international positions through the existing global names (Revolut, Thought Machine) without office expansion"
+    ],
+    "threats": [
+      "Morris stepping back before an institutionalized succession is visible",
+      "Megafund and AI-driven capital compressing early-stage ownership for specialists",
+      "A follow-on drought stranding the long tail of a 90+ position portfolio",
+      "Bank technology budget cuts weakening both portfolio revenue and exit demand",
+      "Advisor-network erosion as its members age out of current institutional roles"
+    ]
+  },
+  "porters_five_forces": {
+    "forces": [
+      {
+        "force_name": "Competitive rivalry",
+        "rating": "High",
+        "rationale": "Specialist fintech funds, generalist platforms with fintech verticals, and CVCs all contest US seed-to-B rounds, and 2025-26 AI heat added megafunds to the mix. Selectivity and network diligence differentiate; they do not reduce the crowd."
+      },
+      {
+        "force_name": "Threat of new entrants",
+        "rating": "Medium",
+        "rationale": "First-time fintech funds launch continuously. Replicating an advisor bench of former network presidents, bank CFOs and regulators takes careers, not capital, and that bench is the actual barrier."
+      },
+      {
+        "force_name": "Bargaining power of suppliers (founders and LPs)",
+        "rating": "High",
+        "rationale": "The best infrastructure founders choose among many term sheets, and LPs across the industry now demand distributions before re-upping. Both inputs hold leverage over a mid-sized specialist."
+      },
+      {
+        "force_name": "Bargaining power of buyers (allocation into rounds)",
+        "rating": "Medium",
+        "rationale": "In contested rounds the company selects its investors. Nyca's validation signal and bank introductions are real currency at seed and A; at B and beyond, check size increasingly decides."
+      },
+      {
+        "force_name": "Threat of substitutes",
+        "rating": "Medium",
+        "rationale": "CVC money with commercial contracts, venture debt, and AI-assisted diligence tools each substitute a slice of what Nyca offers. None yet replaces a neutral cross-institution network vouching for real demand."
+      }
+    ],
+    "overall_attractiveness": "A durable niche for the incumbent that built the network, with economics that reward staying disciplined rather than scaling fund size. The structural question is succession, not competition: the moat is a bench of relationships with a clear generational clock."
+  },
+  "commercial_risks": [
+    {
+      "title": "Key-person dependence on Hans Morris",
+      "description": "Morris is the network's anchor, the brand, and a presence on multiple portfolio boards. Partner depth exists (Ravi Mohan as COO, David Sica promoted to partner in 2019), but no succession arrangement is public.",
+      "severity": "High",
+      "likelihood": "Medium",
+      "mitigation": "Fund LPAs almost certainly carry key-person provisions; confirming their triggers and the carry distribution below Morris is first-order diligence."
+    },
+    {
+      "title": "Public record gap since 2019",
+      "description": "The last press-covered fund close is Fund III ($210M, 2019). Funds IV and V exist per the firm's own site but with no disclosed sizes, LPs or timing. The ADV's $1.19B GAV proves substantial capital formation continued; it does not reveal terms, vintages or investor composition.",
+      "severity": "Medium",
+      "likelihood": "High",
+      "mitigation": "The full ADV Schedule D on IAPD lists each fund individually with per-fund GAV, which would reconstruct most of the missing history without firm cooperation."
+    },
+    {
+      "title": "Portfolio long-tail funding risk",
+      "description": "More than 90 active positions in a market where deal counts have fallen four straight years means a meaningful tail of companies facing hard follow-on math. Reserve depth across the 11 vehicles is undisclosed.",
+      "severity": "Medium",
+      "likelihood": "High",
+      "mitigation": "Concentrated reserves into evidenced winners is the standard play; deployment behavior of the fifth fund is the observable signal."
+    },
+    {
+      "title": "Advisor-network aging and informality",
+      "description": "The diligence edge rests on individuals whose institutional seniority was earned in prior decades. Networks of former executives decay in relevance unless refreshed, and the arrangement's informality makes its current depth unverifiable from outside.",
+      "severity": "Medium",
+      "likelihood": "Medium",
+      "mitigation": "Visible refresh exists: recent team additions include a former senior NYDFS digital asset regulator, suggesting deliberate renewal on the regulatory side."
+    },
+    {
+      "title": "US concentration",
+      "description": "A single-market focus captured the best fintech pool on the way up and concentrates exposure to US rate, regulatory and bank-budget cycles on the way down. Peers with EMEA and APAC footprints diversify what Nyca deliberately does not.",
+      "severity": "Medium",
+      "likelihood": "Medium",
+      "mitigation": "Selective global positions (Revolut, Thought Machine) hedge modestly. The concentration is strategy, not accident, and should be evaluated as such."
+    },
+    {
+      "title": "Inconsistent public record hygiene",
+      "description": "Fund II is reported at $125M and $140M by different credible sources, and the firm has not corrected either. Minor in itself, it means every non-regulatory number about the firm needs source-grading rather than acceptance.",
+      "severity": "Low",
+      "likelihood": "High",
+      "mitigation": "Anchor on regulatory filings (ADV, state filings) and treat press figures as secondary, which is the method this report applies."
+    },
+    {
+      "title": "Distribution pressure from LPs",
+      "description": "Industry-wide, buyout distributions fell to decade lows and venture LPs are prioritizing DPI. A firm raising a sixth fund into that environment needs realized exits from the 2014-2019 vintages, and no public tally of Nyca's distributions exists.",
+      "severity": "Medium",
+      "likelihood": "Medium",
+      "mitigation": "The reopened IPO window and strategic M&A recovery are favorable timing; the portfolio's exit-ready share is a core engagement question."
+    }
+  ],
+  "growth_opportunities": [
+    {
+      "title": "Regulatory-clarity land grab in digital assets",
+      "description": "Stablecoin legislation and charter openings created a category where Nyca's regulator-experienced bench reads the map better than generalist competitors. Early positions in compliant infrastructure could define the firm's next vintage.",
+      "potential_impact": "High",
+      "timeframe": "Short-term"
+    },
+    {
+      "title": "Harvest the 2014-2019 vintages",
+      "description": "Five US fintech IPOs in Q1 2026 and rising strategic M&A reopen the exit path for a decade-old portfolio. Converting marks into DPI now would fortify the next fundraise more than any new investment.",
+      "potential_impact": "High",
+      "timeframe": "Short-term"
+    },
+    {
+      "title": "Winner concentration through follow-ons",
+      "description": "With 90+ positions generating inside information, redirecting reserves into the demonstrated top decile is the highest-information capital deployment available to the firm in a selective market.",
+      "potential_impact": "High",
+      "timeframe": "Medium-term"
+    },
+    {
+      "title": "Institutionalize the advisor network",
+      "description": "Formalizing advisor engagement into a structured platform, with defined refresh, economics and institutional touchpoints, would convert a founder-era asset into a firm-era asset and directly address the succession discount.",
+      "potential_impact": "Medium",
+      "timeframe": "Medium-term"
+    },
+    {
+      "title": "AI-in-financial-workflows thesis",
+      "description": "Bank budgets are rotating toward AI, and the firm's diligence model is built to distinguish deployable AI from demos, since its advisors sit where procurement and model risk decisions happen.",
+      "potential_impact": "Medium",
+      "timeframe": "Medium-term"
+    }
+  ],
+  "key_questions": [
+    { "category": "Fund history", "question": "What are the sizes, vintages and LP compositions of Funds IV and V, and which of the 11 filed vehicles are main funds versus parallel or co-invest structures?" },
+    { "category": "Performance", "question": "What are net TVPI and DPI by fund, and how much of the $1.19B filed GAV sits in the 2014-2019 vintages versus recent deployments?" },
+    { "category": "Succession", "question": "What are the key-person terms across active funds, how is carry distributed below Morris, and what happens to the advisor network's engagement if he steps back?" },
+    { "category": "Reserves", "question": "What reserve ratio does the fifth fund carry, and how much follow-on capacity remains for the existing 90+ positions?" },
+    { "category": "Record discrepancy", "question": "Was Fund II $125M or $140M at final close, and does the discrepancy reflect an interim versus final close or a reporting error?" },
+    { "category": "Advisor economics", "question": "How are advisors and investment committee members compensated, how has the bench been refreshed since 2019, and who sits on the committee today?" },
+    { "category": "Exit pipeline", "question": "Which portfolio companies are realistic IPO or strategic-sale candidates within 24 months, and what distributions have the 2014-2019 funds returned to date?" },
+    { "category": "Regulatory", "question": "Does the firm intend to remain an Exempt Reporting Adviser as GAV grows, and are there any state or SEC matters on the record beyond the routine ADV amendments?" }
+  ],
+  "executive_summary": {
+    "overview": "Nyca Partners is the network-diligence specialist of US fintech venture: a firm built to answer one question, whether a bank's pain is real, before capital moves. The founder's biography is the product, and a decade of applying it has produced a 90+ company active portfolio and, per the firm's March 2026 SEC filing, $1.19 billion of gross asset value across 11 vehicles, a scale the public record since 2019 gives no hint of. That gap between filed reality and press visibility is the report's defining finding: the firm compounded quietly through the downturn while peers announced. The open questions are correspondingly structural rather than operational: succession behind Hans Morris, distribution performance in an industry now paying for DPI, and whether an advisor bench built on prior-decade seniority refreshes fast enough for the AI and digital asset cycle it must now underwrite.",
+    "key_findings": [
+      "Filed scale exceeds public perception: 11 private funds, $1.19B GAV (ADV, March 2026) against a press trail that stops at $210M in 2019",
+      "The selectivity model is real and consistent: ~10 investments a year from thousands screened, unchanged across a decade of interviews and firm materials",
+      "Key-person and network-aging risk are the same risk viewed twice: the moat is relationships anchored to one founder's era",
+      "Sector positioning matches the market's rotation: infrastructure, payments and embedded finance are where 2025-26 capital and M&A actually moved",
+      "Every press-sourced number about the firm required source-grading (Fund II appears as both $125M and $140M); the regulatory filing is the only externally hard anchor"
+    ],
+    "investment_thesis_notes": [
+      "For LPs or co-investors evaluating the firm: weight the ADV Schedule D reconstruction and DPI evidence over brand and portfolio logos, because the public record materially understates scale while revealing nothing about returns",
+      "For founders comparing term sheets: Nyca's screen is the value; reference-check recent portfolio companies on advisor-network throughput in the last 24 months, not the model's reputation"
+    ],
+    "overall_rating": "Franchise Strength: Strong (filed scale verified, succession and DPI unverified)",
+    "recommendation": "Treat Nyca as the benchmark for network-diligence venture in US fintech, and treat its public record as an unreliable narrator of its actual scale. Diligence priorities when engaging with or benchmarking against it: the per-fund ADV Schedule D breakdown, distributions from the 2014-2019 vintages, key-person and carry structure below Morris, and evidence of advisor-bench refresh. The filing proves the franchise compounded; the engagement-grade questions are all about what it returns and who carries it next."
+  }
+}

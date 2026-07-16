@@ -1,0 +1,380 @@
+{
+  "input": {
+    "company_name": "Motive Partners",
+    "website": "https://motivepartners.com",
+    "industry": "Private Equity / Fintech Growth and Buyout",
+    "geography": "New York, London"
+  },
+  "generated_at": "2026-07-15",
+  "company_profile": {
+    "legal_name": "Motive Partners (management entities not confirmed in this sample; SEC registration status verifiable via the Form ADV bulk dataset on engagement)",
+    "website": "https://motivepartners.com",
+    "industry": "Specialist private equity, financial technology growth and buyout, with an early-stage venture arm",
+    "geography": "New York (HQ) and London",
+    "founded_year": "2016",
+    "headquarters": "New York, NY",
+    "employee_count": null,
+    "description": "Rob Heyvaert founded Motive Partners in 2016 as his third act after building and exiting two fintech firms: Cimad Consultants, whose settlement engine became European clearing infrastructure before IBM acquired it, and Capco, the financial services consultancy he scaled to 5,000 people and sold to FIS, where he then ran global financial solutions and oversaw the $9 billion SunGard acquisition. Motive converts that operating history into a private equity product through what it calls the IOI model: Investors, Operators and Innovators working the same deals, with an Industry Partner bench including former CEOs of Fiserv, NCR and BNY Mellon's data business. The firm closed its debut fund at $473 million in 2019 and its second at $2.5 billion in 2022, and runs an early-stage arm, Motive Ventures, alongside the buyout strategy; PitchBook puts the platform at roughly $6.5 billion across both. Apollo Global Management took up to a 24.9% stake in the management company in 2021 and invests in Motive's funds, an anchor relationship that has since produced co-investments from seed stage to mature platforms. The portfolio concentrates on financial infrastructure, with wealth management the largest single exposure and a stated thesis that public-private market convergence will be won in the back office: InvestCloud, FNZ, BetaNXT, CAIS and Wilshire all sit on that one macro bet. 2025 delivered the firm's proof points, a $1.8 billion sale of With Intelligence and Charles Schwab's agreed $660 million purchase of Forge Global.",
+    "key_facts": [
+      { "label": "Fund I (MCFI)", "value": "$473M, closed Nov 2019" },
+      { "label": "Fund II", "value": "$2.5B, closed 2022; still deploying (PitchBook, Jan 2026)" },
+      { "label": "Platform AUM", "value": "~$6.5B across buyout and venture arms (PitchBook); founder cites $6B+" },
+      { "label": "Fund III", "value": "$3.25B target reported (Buyouts, Sep 2025); founder publicly downplayed (Jan 2026)" },
+      { "label": "Apollo relationship", "value": "Up to 24.9% of management company (2021) plus LP commitments and co-investments" },
+      { "label": "2025 exits", "value": "With Intelligence $1.8B; Forge Global to Schwab, $660M agreed" },
+      { "label": "Portfolio scale", "value": "~80 companies (founder, 2026); clients representing $12T+ in assets (firm site)" },
+      { "label": "Model", "value": "IOI: Investors, Operators, Innovators; Industry Partner bench of former fintech CEOs" },
+      { "label": "Fund I LP base", "value": "Public pensions, sovereign wealth funds, alt managers, family offices across NA, Europe, ME, Australasia" },
+      { "label": "Founder", "value": "Rob Heyvaert: Cimad (to IBM), Capco founder (to FIS), FIS EVP over ~$3B revenue" }
+    ],
+    "evidence_note": "Sources used for this sample report: the firm's website and portfolio pages, PRNewswire fund-close announcements, Apollo Global Management's own press release on the 2021 partnership, PitchBook and Buyouts Insider reporting (2025-2026), ION Analytics and With Intelligence's disclosures on the 2025 exit, a May 2026 founder interview for AUM and portfolio scale, LinkedIn for team composition, and KPMG Pulse of Fintech for market data. Flagged rather than smoothed: the reported $3.25B Fund III target that the founder subsequently downplayed in the press, and the client-asset figure that appears as $12 trillion on the firm's site and $15 trillion in the founder's interview. Motive's SEC registration status and filed regulatory AUM were not extracted in this sample; the same SEC Form ADV bulk dataset used elsewhere in this workbench would settle both, and as a likely registered adviser (rather than exempt reporter) Motive's filing would include the full Item 5F AUM detail. On commissioned engagements the evidence base extends to that ADV pull, Companies House filings for the London entities, and structured deal data via PitchBook and Grata."
+  },
+  "business_model": {
+    "revenue_model": "Private equity economics at buyout scale: management fees on committed capital across the fund family plus carried interest on realized gains, with the management company itself partly owned by Apollo (up to 24.9% per the 2021 announcement). At conventional fee levels on a ~$6.5B platform, management fee revenue would run in the high tens of millions annually before carry; that is an assumption-based estimate, as the firm discloses no fee terms. SPAC sponsorship (Motive Capital Corp I and II) added a separate, now largely legacy, economics stream.",
+    "value_proposition": "For sellers and management teams: a buyer whose Industry Partners have run the acquirer-scale institutions the asset sells to, and whose operating bench embeds in portfolio companies rather than advising from a distance. The With Intelligence exit narrative, with two named operating partners credited by the company's own CEO, is the firm's best documented case of the model working. For LPs: concentrated exposure to financial infrastructure with a strategic anchor (Apollo) whose distribution reach amplifies portfolio value.",
+    "key_activities": [
+      "Control buyouts and structured growth investments in financial technology, typically $100M+ equity checks with co-investor syndicates",
+      "Embedded operating work through Industry Partners and the Motive Create innovation arm",
+      "Early-stage investing through Motive Ventures, feeding the buyout pipeline with sector intelligence",
+      "Platform building around the public-private convergence thesis across wealth infrastructure holdings",
+      "Co-investment orchestration with Apollo and institutional LPs on larger transactions"
+    ],
+    "key_resources": [
+      "The Industry Partner bench: former CEOs and senior executives of Fiserv, NCR, Wilshire and BNY Mellon's data business",
+      "The Apollo relationship: management company capital, fund commitments, deal flow (Lyra spun out of Apollo's own client services division) and co-investment firepower",
+      "Founder's operating record and network from Capco and FIS at global bank scale",
+      "A portfolio whose companies serve clients representing $12T+ in assets, generating proprietary market visibility",
+      "Dual New York and London presence spanning the two deepest fintech buyout markets"
+    ],
+    "channels": [
+      "Proprietary deal flow through Industry Partners and portfolio adjacencies",
+      "Apollo-originated opportunities, including corporate carve-outs",
+      "Intermediated processes via the specialist advisory ecosystem",
+      "Motive Ventures positions maturing into growth and buyout candidates"
+    ],
+    "customer_relationships": "Control-oriented and operationally intimate. The IOI model's promise is that Motive shows up inside the company: With Intelligence's CEO publicly credited embedded Motive operators with driving the data-strategy pivot that produced the $1.8B outcome. Board control, operating partner placement and thesis-driven M&A support define the ownership period.",
+    "cost_structure": [
+      "Investment and operating team compensation across two offices, including Industry Partner economics",
+      "Motive Create innovation and technology capability",
+      "Fund formation, administration and regulatory compliance at buyout scale",
+      "Deal execution costs on control transactions"
+    ],
+    "chart": {
+      "type": "bar",
+      "title": "Motive buyout fund progression",
+      "subtitle": "Fund III bar is a reported target (Buyouts, Sep 2025) that the founder publicly downplayed in Jan 2026; it is shown as a claim on the record, not a close. Platform totals ~$6.5B including the ventures arm.",
+      "unit": "$M",
+      "series": [
+        { "label": "Fund I (2019)", "value": 473 },
+        { "label": "Fund II (2022)", "value": 2500 },
+        { "label": "Fund III (reported target)", "value": 3250 }
+      ],
+      "emphasis": ["Fund II (2022)"]
+    }
+  },
+  "market_overview": {
+    "narrative": "Motive buys and builds in the same market the other reports in this workbench observe from different seats: fintech transactions. That market reset from $238.9 billion of total investment in 2021 to a $95.5 billion trough in 2024 before recovering to $116 billion in 2025 (KPMG Pulse of Fintech), with the recovery carried by fewer, larger deals. For a control investor the 2025-26 configuration is unusually favorable on both ends of the hold: entry multiples in mid-market fintech reset hard from 2021 while exit demand strengthened, with fintech M&A value up 24% to $55.4 billion in 2025 and strategics, including fintechs themselves, out-acquiring banks for the first time on record (BCG/FT Partners). Motive's own 2025, one $1.8 billion data-asset exit into a consolidating financial information sector and one portfolio company sold to Charles Schwab, is a direct read of that exit window functioning. The structural demand its portfolio sells into, wealth and private markets infrastructure, is the sector's clearest secular story: every major alternatives manager is racing to reach retail and advisory channels, and the plumbing does not exist yet at scale.",
+    "market_size_summary": "For a buyout firm the relevant layers are the transaction pool it buys from, the segment matching its strategy and check size, and its own committed capital. The TAM/SAM/SOM section maps these, with the firm-level number resting on platform AUM reported by PitchBook and the founder rather than on a regulatory filing, a gap the ADV dataset would close.",
+    "key_stats": [
+      { "label": "Global fintech investment 2025 (KPMG)", "value": "$116B" },
+      { "label": "Fintech M&A value 2025 (KPMG)", "value": "$55.4B, +24% y/y" },
+      { "label": "Fintech M&A deal count 2025 (KPMG)", "value": "840" },
+      { "label": "B2B fintech investment 2025 (KPMG)", "value": "$13.5B, best since 2019" },
+      { "label": "Motive platform AUM", "value": "~$6.5B (PitchBook, Jan 2026)" },
+      { "label": "2025 Motive exit proof", "value": "$1.8B With Intelligence; $660M Forge/Schwab agreed" }
+    ],
+    "regional_notes": "New York and London put the firm inside the two markets that dominate fintech buyout supply: the US took $56.6 billion of 2025 fintech investment and EMEA $29.2 billion (KPMG). Fund I's LP base already spanned North America, Europe, the Middle East and Australasia, giving the firm Gulf and sovereign wealth relationships on the capital side that its two-office footprint does not show on the deal side. Continental European carve-outs (Avaloq and Finantix sat in Fund I) remain a recurring sourcing ground.",
+    "chart": {
+      "type": "bar",
+      "title": "Global fintech investment (VC + PE + M&A)",
+      "subtitle": "KPMG Pulse of Fintech, data via PitchBook. For a control buyer this cycle cut entry prices after 2021 and then reopened the exit window: M&A value rose 24% in 2025, the year both of Motive's headline exits landed.",
+      "unit": "$B",
+      "series": [
+        { "label": "2021", "value": 238.9 },
+        { "label": "2022", "value": 164.1 },
+        { "label": "2023", "value": 113.7 },
+        { "label": "2024", "value": 95.5 },
+        { "label": "2025", "value": 116 }
+      ],
+      "emphasis": ["2025"]
+    }
+  },
+  "tam_sam_som": {
+    "tam": {
+      "value": "$55.4B / yr (KPMG, 2025 fintech M&A value)",
+      "description": "The global fintech transaction pool a control investor buys from and sells into, sourced directly from KPMG. This measures deal value changing hands, the closest published proxy for the buyout opportunity, rather than enterprise value outstanding."
+    },
+    "sam": {
+      "value": "Fintech growth and buyout equity, NA + Europe (estimate: $25-40B / yr)",
+      "description": "The segment Motive actually contests: control and structured growth positions in financial technology and adjacent business services across its two home regions, at $100M+ equity checks. No source publishes this slice; the range applies sponsor-share assumptions to the KPMG M&A figure plus large growth rounds, and is labeled as constructed."
+    },
+    "som": {
+      "value": "~$6.5B platform AUM (PitchBook; founder cites $6B+)",
+      "description": "The firm's own capital base across buyout and venture arms, per PitchBook's January 2026 reporting and the founder's 2026 interview. Unlike the ERA-filed figures elsewhere in this workbench, this number is journalistic rather than regulatory; Motive's ADV filing, extractable from the same SEC bulk dataset already used for two other reports here, would replace it with filed regulatory AUM."
+    },
+    "methodology_note": "The three layers measure transaction flow (sourced), the sponsor-addressable slice (constructed and labeled), and platform capital (reported, pending regulatory confirmation). They are not a conversion funnel. The distinctive gap in this report is that the firm-level anchor is press-sourced where the Nyca and Illuminate reports rest on SEC filings; the fix is one more pass over the same free dataset, which is noted in Key Questions."
+  },
+  "industry_trends": [
+    {
+      "title": "Public-private market convergence",
+      "description": "Alternatives managers are racing to reach wealth and retail channels, and the infrastructure to distribute, administer and trade private assets at that scale is still being built. This is Motive's stated central thesis and its largest portfolio concentration: InvestCloud, FNZ, CAIS and BetaNXT all monetize it. Conviction this concentrated is a differentiator and a correlation risk in the same position.",
+      "impact": "High"
+    },
+    {
+      "title": "Financial data and analytics consolidation",
+      "description": "The With Intelligence sale at $1.8 billion into ISS STOXX's orbit rode a consolidation wave among financial information providers, where proprietary datasets command strategic premiums in an AI-driven buyer market. More of Motive's portfolio holds data assets with the same exit logic.",
+      "impact": "High"
+    },
+    {
+      "title": "Strategics dominating fintech exits",
+      "description": "Fintech M&A rose 24% in 2025 and the largest buyers are now strategics, including fintechs and, in Forge's case, brokerage incumbents like Schwab (BCG/FT Partners; KPMG). A functioning strategic bid underwrites buyout exit models in a way the 2022-24 window did not.",
+      "impact": "High"
+    },
+    {
+      "title": "AI as a value-creation lever inside portfolios",
+      "description": "Founding partner Bob Brown has publicly framed AI as a core value-creation lever for financial data assets. For operating-model firms the question is execution capacity: embedding AI transformation across ~80 portfolio companies stretches even a deep Industry Partner bench.",
+      "impact": "Medium"
+    },
+    {
+      "title": "Sponsor fundraising bifurcation",
+      "description": "LPs concentrated 2024-26 commitments in franchises with demonstrated DPI while first-time and middling funds stalled. Motive enters any Fund III raise with fresh 2025 realizations, which is precisely the currency this market pays for, and with public confusion about its own timeline, which is not.",
+      "impact": "Medium"
+    }
+  ],
+  "competitor_landscape": {
+    "competitors": [
+      {
+        "name": "Thoma Bravo",
+        "positioning": "Software buyout at mega-scale with substantial fintech holdings",
+        "strengths": ["Vastly larger funds and buying power", "Proven software operating playbook at scale"],
+        "weaknesses": ["Fintech is one exposure within a generalist software mandate", "Less financial-institution operating DNA on the bench"]
+      },
+      {
+        "name": "GTCR",
+        "positioning": "Leaders-strategy investor with a long financial technology franchise (Worldpay among its landmark deals)",
+        "strengths": ["Deep payments and fintech buyout track record", "Executive-partnership model competes directly with IOI"],
+        "weaknesses": ["Broader sector spread dilutes fintech specialization", "Less embedded innovation capability of the Motive Create type"]
+      },
+      {
+        "name": "Advent International",
+        "positioning": "Global generalist with one of the largest dedicated fintech and payments practices",
+        "strengths": ["Global reach and mega-fund capital", "Payments franchise with decades of exits"],
+        "weaknesses": ["Generalist structure; fintech competes internally for capital", "Less differentiated operating story at the mid-market entry point"]
+      },
+      {
+        "name": "Hg",
+        "positioning": "European software and services specialist overlapping Motive in fintech-adjacent B2B software",
+        "strengths": ["Dominant European mid-market software franchise", "Repeatable operating model with strong LP loyalty"],
+        "weaknesses": ["Software-broad rather than fintech-specific", "Thinner US presence than Motive's New York base"]
+      },
+      {
+        "name": "FTV Capital",
+        "positioning": "Growth equity specialist in enterprise technology and financial services with a strategic-LP network model",
+        "strengths": ["Global Partner Network of financial institutions echoes Motive's access story", "Long fintech-focused track record"],
+        "weaknesses": ["Growth checks rather than control; different product", "No Apollo-scale strategic anchor"]
+      },
+      {
+        "name": "Reverence Capital Partners",
+        "positioning": "Financial services focused mid-market PE, the closest pure-play structural comparable",
+        "strengths": ["Genuine financial services specialization including fintech", "Senior team from bulge-bracket FIG"],
+        "weaknesses": ["Smaller platform and quieter operating brand", "Less technology-native positioning"]
+      }
+    ],
+    "competitive_intensity_narrative": "Fintech buyout sits at the intersection of two crowded pools: software mega-buyout descending into financial technology and FIG-heritage firms ascending into it. Motive's contested claim is that neither pool combines sector exclusivity, an operating bench of former fintech CEOs, and a strategic anchor with Apollo's distribution reach. The 2025 exits give that claim realized evidence for the first time at scale. The pressure point is capital: against Thoma Bravo or Advent in an auction, Motive wins on angle and operating story or not at all, which keeps it dependent on proprietary and semi-proprietary sourcing, including the Apollo channel."
+  },
+  "customer_segments": [
+    {
+      "name": "Limited partners",
+      "description": "The Fund I base already spanned public pensions, sovereign wealth funds, alternative asset managers, family offices and endowments across four regions; Apollo joined as both LP and management-company shareholder in 2021.",
+      "needs": ["Specialist exposure to financial infrastructure with control-level value creation", "DPI, after an industry-wide distribution drought", "Co-investment access on larger deals"],
+      "buying_behavior": "Institutional re-up logic: the founder has stated that Fund I investors led the first close of the next fund. The 2025 realizations arrive exactly when LP re-up decisions weight distributions most heavily."
+    },
+    {
+      "name": "Sellers and management teams of fintech companies",
+      "description": "Founders, corporates carving out divisions (Avaloq, Finantix, Lyra from Apollo's own client services), and sponsors selling platforms in the $500M-$5B enterprise range.",
+      "needs": ["A buyer that understands regulated financial infrastructure", "Operating help credible to bank-grade clients", "Certainty of close and continuation of client trust"],
+      "buying_behavior": "Management teams influence outcomes in fintech sales because client relationships walk. Motive's Industry Partner bench is its pitch to exactly that constituency, and the With Intelligence CEO's public endorsement is the referenceable proof."
+    },
+    {
+      "name": "Portfolio company clients (indirect)",
+      "description": "The banks, wealth managers and asset managers, representing $12T+ in client assets per the firm, that buy from Motive's companies. Not Motive's customers contractually, but the demand layer its entire thesis prices.",
+      "needs": ["Infrastructure for private markets distribution and wealth workflows", "Vendors with staying power and compliance depth"],
+      "buying_behavior": "Enterprise financial procurement: slow, reference-driven, and sticky once installed, which is what makes the underlying assets buyout-grade."
+    },
+    {
+      "name": "Strategic acquirers and public markets (exit side)",
+      "description": "The 2025 evidence: ISS STOXX's orbit absorbing With Intelligence at $1.8B and Charles Schwab agreeing to buy Forge Global at $660M. SPAC listings (Forge via Motive Capital Corp) provided an earlier, now out-of-favor, public route.",
+      "needs": ["Scarce infrastructure assets with proprietary data or network position", "Clean governance and diligence-ready operations"],
+      "buying_behavior": "Strategic premiums concentrate on data assets and category infrastructure; both 2025 exits fit that pattern, and the rest of the portfolio is positioned against the same buyer logic."
+    }
+  ],
+  "swot_analysis": {
+    "strengths": [
+      "Sector-exclusive buyout specialization with an operating bench of former fintech CEOs, differentiated in a field of generalists",
+      "Apollo anchor: management-company capital, fund commitments, co-investment scale and proprietary deal flow including carve-outs from Apollo itself",
+      "Realized 2025 proof: a $1.8B exit publicly credited by the company's own CEO to Motive's embedded operators",
+      "Founder credibility from building and exiting fintech businesses at global scale, including overseeing the $9B SunGard acquisition at FIS",
+      "Fund progression from $473M to $2.5B in one cycle, with the same early LPs leading the next first close per the founder"
+    ],
+    "weaknesses": [
+      "Key-person concentration on Heyvaert as founder, thesis author and relationship anchor",
+      "Public confusion around Fund III: a reported $3.25B target followed by the founder downplaying it four months later",
+      "Thesis concentration: the largest holdings share one macro bet on public-private convergence",
+      "SPAC legacy: Forge's agreed $660M sale sits well below its SPAC-era valuation, a mark against the sponsored-vehicle record",
+      "No regulatory AUM figure surfaced in this sample; platform scale rests on press and founder statements, and minor inconsistencies exist ($12T vs $15T client assets)"
+    ],
+    "opportunities": [
+      "Fund III raise on the back of 2025 realizations, in an LP market paying precisely for DPI",
+      "Apollo channel expansion: more carve-outs and distribution partnerships as alternatives managers industrialize wealth access",
+      "AI-driven value creation across data-rich portfolio assets, the firm's own stated lever",
+      "European carve-out pipeline where Fund I already proved the sourcing model",
+      "Gulf and sovereign capital deepening, given a Fund I LP base that already reached the Middle East"
+    ],
+    "threats": [
+      "Software mega-funds compressing returns by outbidding specialists for the best fintech assets",
+      "The convergence thesis stalling if retail access to private markets disappoints or draws regulatory intervention",
+      "Apollo dependence cutting both ways if strategic priorities shift or the relationship's exclusivity erodes",
+      "A closed exit window stranding a concentrated book of large positions",
+      "Key-person or succession events before the franchise institutionalizes beyond its founder"
+    ]
+  },
+  "porters_five_forces": {
+    "forces": [
+      {
+        "force_name": "Competitive rivalry",
+        "rating": "High",
+        "rationale": "Every quality fintech asset draws software mega-buyout, FIG-heritage PE and strategics into the same process. Specialization and operating story differentiate the bid; they do not thin the field."
+      },
+      {
+        "force_name": "Threat of new entrants",
+        "rating": "Low",
+        "rationale": "Buyout-scale entry requires billions in commitments, a realized track record and an operating bench. The credible entrants are existing mega-funds verticalizing, which is rivalry, not entry."
+      },
+      {
+        "force_name": "Bargaining power of suppliers (sellers and talent)",
+        "rating": "High",
+        "rationale": "Scarce quality assets in a recovering market restore seller leverage, and Industry Partner-grade operating talent (former fintech CEOs) is a thin, expensive bench to maintain."
+      },
+      {
+        "force_name": "Bargaining power of buyers (LPs)",
+        "rating": "Medium",
+        "rationale": "LPs concentrate commitments in franchises with distributions, giving them leverage over terms at mid-sized platforms. Motive's 2025 realizations and Apollo anchor partially offset this."
+      },
+      {
+        "force_name": "Threat of substitutes",
+        "rating": "Medium",
+        "rationale": "Strategics buying directly, growth equity minority checks, and continuation vehicles all substitute for a control sale or a fund commitment at the margin. None replicates the specialist control-plus-operating product."
+      }
+    ],
+    "overall_attractiveness": "Structurally attractive for the few specialists with realized exits: high barriers, strategic exit demand, and a secular infrastructure thesis. The economics reward whoever wins assets without paying generalist auction prices, which makes proprietary sourcing, in Motive's case substantially the Apollo relationship and the Industry Partner network, the whole game."
+  },
+  "commercial_risks": [
+    {
+      "title": "Fund III signal confusion",
+      "description": "Buyouts Insider reported a $3.25B target in September 2025; the founder dismissed reports of an active raise in January 2026. Both statements are on the record and cannot both be the full picture. For LPs and counterparties this creates timeline uncertainty; for competitors it reads as either discipline or friction.",
+      "severity": "Medium",
+      "likelihood": "High",
+      "mitigation": "The discrepancy is resolvable only from inside: regulatory filings (Form D) and placement-agent activity would show whether a vehicle exists. Flagged as the report's most current open question."
+    },
+    {
+      "title": "Apollo relationship concentration",
+      "description": "Apollo holds up to 24.9% of the management company, invests in the funds, co-invests in deals and supplies deal flow. The alignment is real and so is the dependence: a strategic shift at Apollo, or its choice to internalize fintech investing, would remove capital, sourcing and distribution in one move.",
+      "severity": "High",
+      "likelihood": "Low",
+      "mitigation": "Five years of deepening co-investment (CAIS, Lyra) and Apollo's public framing of Motive as its go-to fintech partner suggest entrenchment. Governance terms of the stake are not public and belong on any engagement's document list."
+    },
+    {
+      "title": "Thesis concentration in public-private convergence",
+      "description": "InvestCloud, FNZ, CAIS, BetaNXT and Wilshire monetize the same macro assumption: that private assets reach wealth channels at scale. If that adoption curve flattens, on regulation, retail appetite or fiduciary caution, correlated marks move together across the book's largest positions.",
+      "severity": "High",
+      "likelihood": "Medium",
+      "mitigation": "The exposure is deliberate and the firm's edge is depth in exactly this theme. Portfolio-level revenue diversification within each asset (public-market workflows, core wealth infrastructure) is the partial hedge to verify."
+    },
+    {
+      "title": "Key-person dependence on the founder",
+      "description": "Heyvaert authored the thesis, anchors the Apollo relationship, chairs InvestCloud and sits on FNZ's board. A deep partner and Industry Partner bench exists (Daffron, Brown, Tarver, Stewart among named partners), but no succession structure is public.",
+      "severity": "High",
+      "likelihood": "Low",
+      "mitigation": "Fund LPAs at this scale carry key-person provisions as standard; their triggers and the management-company governance around Apollo's stake are confirmatory diligence items."
+    },
+    {
+      "title": "SPAC-era residue",
+      "description": "Motive Capital Corp took Forge Global public in 2022; Schwab's agreed $660M purchase in late 2025 sits well below Forge's SPAC-era valuation. The buyout funds' record is separate, but sponsored-vehicle outcomes travel with the brand in LP memory.",
+      "severity": "Low",
+      "likelihood": "Medium",
+      "mitigation": "The exit itself, a liquidity event at a strategic buyer, closes the chapter more gracefully than most 2021-vintage SPACs managed."
+    },
+    {
+      "title": "Deployment discipline at scale",
+      "description": "Fund II ($2.5B) was still deploying in January 2026, four years post-close, into a market where quality fintech assets again command premium multiples. Slow deployment protects discipline and drags IRR mechanics; fast deployment risks 2021-style entry pricing.",
+      "severity": "Medium",
+      "likelihood": "Medium",
+      "mitigation": "The 2025 exit proceeds reset the DPI clock in the firm's favor, easing pressure to force deployment before the next raise."
+    },
+    {
+      "title": "Verification gap on platform scale",
+      "description": "The ~$6.5B AUM figure is journalistic (PitchBook) and founder-stated ($6B+), not filed; client-asset claims vary between the firm's site ($12T) and the founder's interview ($15T). Nothing suggests misstatement, but nothing regulatory confirms scale either, unlike the ERA-filed figures for two other firms in this workbench.",
+      "severity": "Low",
+      "likelihood": "High",
+      "mitigation": "One pass over the SEC Form ADV bulk dataset, already downloaded for this workbench, would return Motive's filed regulatory AUM and private fund detail."
+    }
+  ],
+  "growth_opportunities": [
+    {
+      "title": "Fund III on realized proof",
+      "description": "Whenever the raise formally opens, the firm approaches LPs with a $1.8B exit, a Schwab sale agreed, and its earliest LPs on record leading prior first closes. In a DPI-starved market that combination is the scarcest fundraising asset available.",
+      "potential_impact": "High",
+      "timeframe": "Short-term"
+    },
+    {
+      "title": "Convergence infrastructure consolidation",
+      "description": "The wealth-private markets plumbing is fragmented across administration, distribution, data and trading. Motive holds anchor positions from which to roll up adjacencies, with Apollo co-investment capital extending reach beyond fund size.",
+      "potential_impact": "High",
+      "timeframe": "Medium-term"
+    },
+    {
+      "title": "AI transformation of data-rich holdings",
+      "description": "The With Intelligence playbook, proprietary dataset plus embedded operators plus AI-driven productization, is repeatable across portfolio assets holding unique financial data, and the firm's leadership has publicly committed to AI as the value lever.",
+      "potential_impact": "High",
+      "timeframe": "Medium-term"
+    },
+    {
+      "title": "Apollo carve-out channel",
+      "description": "Lyra, spun out of Apollo's own client services division, demonstrates a sourcing route no competitor can access: assets surfaced inside a $700B+ alternatives platform and handed to its fintech partner to institutionalize.",
+      "potential_impact": "Medium",
+      "timeframe": "Medium-term"
+    },
+    {
+      "title": "Ventures-to-buyout pipeline maturation",
+      "description": "Motive Ventures positions seeded through the downturn reach growth and control candidacy over the coming cycle, giving the buyout funds informed, pre-negotiated access to assets the market has not priced yet.",
+      "potential_impact": "Medium",
+      "timeframe": "Long-term"
+    }
+  ],
+  "key_questions": [
+    { "category": "Fund III", "question": "Is a third buyout fund in formation, at what target, and how do the September 2025 reported target and the founder's January 2026 denial reconcile? Form D filings would settle this." },
+    { "category": "Regulatory AUM", "question": "What regulatory AUM, fund count and per-fund gross asset values does Motive's Form ADV report, and does the filed picture match the ~$6.5B press figure? Extractable from the SEC bulk dataset already used in this workbench." },
+    { "category": "Apollo terms", "question": "What governance, exclusivity and exit rights attach to Apollo's management-company stake, and what happens to fund economics and deal flow if the relationship changes?" },
+    { "category": "Performance", "question": "What are net TVPI and DPI for Funds I and II, and how much of Fund I's value was returned by the Avaloq, Global Shares and With Intelligence realizations versus remaining marks?" },
+    { "category": "Concentration", "question": "What share of platform NAV sits in the five largest convergence-thesis positions, and how correlated are their revenue models to the same adoption curve?" },
+    { "category": "Deployment", "question": "How much of Fund II remains uncalled as of mid-2026, at what pace has it deployed by year, and what entry multiples has it paid relative to Fund I?" },
+    { "category": "Succession", "question": "What key-person provisions govern the active funds, how is carry distributed across the partner group, and what does the management-company cap table look like below Heyvaert and Apollo?" },
+    { "category": "Operating capacity", "question": "How many Industry Partners and Motive Create professionals actively cover the ~80 portfolio companies, and how is that bench refreshed as its members' operating currency ages?" }
+  ],
+  "executive_summary": {
+    "overview": "Motive Partners is the specialist consolidator of fintech private equity: a 2016-vintage firm that scaled from a $473 million debut fund to a $2.5 billion successor and a ~$6.5 billion platform, sold a quarter of its management company to Apollo, and concentrated its book on a single well-argued macro thesis, that public and private markets converge in the back office of wealth. Through 2024 the franchise's operating story outran its realized evidence. 2025 changed that: a $1.8 billion exit publicly credited to Motive's embedded operators and an agreed sale of Forge Global to Charles Schwab gave the IOI model its proof at scale, arriving exactly when LP markets pay for distributions above all else. The open items are correspondingly specific: whether and when Fund III formally raises after contradictory public signals, how dependent the machine is on Apollo and on its founder, and whether a book this concentrated in one thesis is conviction or correlation.",
+    "key_findings": [
+      "Verified fund progression: $473M (2019) to $2.5B (2022), with a reported $3.25B Fund III target the founder subsequently downplayed, a contradiction this report flags rather than resolves",
+      "The Apollo relationship (up to 24.9% of the management company, LP commitments, co-investments, carve-out deal flow) is the platform's defining structural feature, as both moat and dependence",
+      "2025 delivered realized proof of the operating model: With Intelligence at $1.8B with the CEO crediting embedded Motive operators, plus Schwab's agreed $660M Forge purchase",
+      "Portfolio concentration in the public-private convergence thesis is deliberate, deep and correlated across the largest holdings",
+      "Platform scale (~$6.5B) rests on press and founder statements rather than a regulatory filing in this sample; the SEC ADV bulk dataset would convert it to a filed number"
+    ],
+    "investment_thesis_notes": [
+      "For LPs and co-investors: underwrite the Apollo terms and the Fund III timeline before the portfolio, because both shape economics more than any single asset",
+      "For sellers and advisors in fintech M&A: Motive bids operating credibility rather than the highest multiple, so processes that weight management continuity and client trust are where it wins, and where competing against it is hardest"
+    ],
+    "overall_rating": "Franchise Strength: Strong (2025 realizations verified; Fund III and Apollo terms open)",
+    "recommendation": "Treat Motive as the reference specialist in fintech control investing and the firm most likely to set the template for operating-model PE in this sector. Diligence priorities when transacting with, committing to, or competing against it: Form D and ADV evidence on Fund III and regulatory AUM, the governance terms of Apollo's stake, DPI by fund, and NAV concentration in the convergence thesis. The 2025 exits earned the franchise its premium positioning; the structural questions are all about dependence, on one anchor, one founder and one thesis."
+  }
+}

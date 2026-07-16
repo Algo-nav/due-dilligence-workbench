@@ -1,5 +1,6 @@
 import type { MarketOverview } from "../../types/report";
 import { SectionCard, Prose, DataTile, SubHeading } from "../ui/SectionCard";
+import { ChartCard } from "../ui/ChartCard";
 
 export function MarketOverviewSection({ data }: { data: MarketOverview }) {
   return (
@@ -19,6 +20,7 @@ export function MarketOverviewSection({ data }: { data: MarketOverview }) {
           <DataTile key={stat.label} label={stat.label} value={stat.value} />
         ))}
       </div>
+      {data.chart && <ChartCard chart={data.chart} />}
       <div>
         <SubHeading>Regional Notes</SubHeading>
         <Prose>{data.regional_notes}</Prose>

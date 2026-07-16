@@ -25,6 +25,7 @@ export interface CompanyProfile {
   employee_count?: string;
   description: string;
   key_facts: KeyFact[];
+  evidence_note?: string;
 }
 
 export interface ChartSeries {
@@ -62,6 +63,7 @@ export interface MarketOverview {
   market_size_summary: string;
   key_stats: KeyStat[];
   regional_notes: string;
+  chart?: Chart;
 }
 
 export interface MarketSizeLayer {

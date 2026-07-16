@@ -21,6 +21,7 @@ function formatValue(value: number, unit: string, signed: boolean): string {
   const num = Number.isInteger(abs) ? String(abs) : String(abs);
   const sign = value < 0 ? "-" : signed && value > 0 ? "+" : "";
   if (unit === "$M") return `${sign}$${num}M`;
+  if (unit === "$B") return `${sign}$${num}B`;
   if (unit === "%") return `${sign}${num}%`;
   return `${sign}${num}${unit}`;
 }
