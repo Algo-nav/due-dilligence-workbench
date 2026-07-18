@@ -16,16 +16,46 @@
     "employee_count": "180+ (firm disclosure)",
     "description": "Hugh Campbell, Per Roman and Manish Madhvani founded GP Bullhound in London in 1999, on the eve of the dot-com crash, and built it into Europe's recognizable independent technology investment bank. The firm's own record claims more than 700 transactions and $58 billion of deal value realized for clients since inception, with counterparties including Apple, Google, Nvidia, Accenture, BlackRock, CVC and General Atlantic. Two engines share one platform. The advisory business runs M&A and growth capital mandates for technology founders across Europe's hubs, with fintech one of its named sector teams and a client history that reaches back through iZettle-era European fintech. Bullhound Capital, the asset management arm, runs over 1 billion euros across successive funds whose portfolios read as a map of European tech's winners: Spotify, Klarna, Revolut, Slack, Unity and EcoVadis among them. Fund V closed oversubscribed at its 300 million euro hard cap in 2021, against a 200 million euro target, with 90% of Fund IV investors re-committing. The model's core claim is circularity: 10,000 founder meetings a year and 3,000 private equity relationships feed both advisory mandates and fund allocations, and each business sources the other. Recent activity shows the investment strategy broadening beyond software into AI infrastructure, defense and quantum, including leading a $275 million round in AI inference company d-Matrix and joining Quantum Systems' 160 million euro round in 2025.",
     "key_facts": [
-      { "label": "Track record (firm-stated)", "value": "700+ transactions, $58B deal value since 1999" },
-      { "label": "Platform", "value": "180+ people, 13 offices, Malaga AI/data hub" },
-      { "label": "Bullhound Capital AUM", "value": "1B+ euros (firm-stated)" },
-      { "label": "Fund V", "value": "300M euro hard-cap close (Oct 2021) vs 200M euro target; 90% Fund IV re-up" },
-      { "label": "Fund IV proof points", "value": "Doubled value net of fees in 2.5 years; IPOs in Unity, Slack, Believe, Definitive Healthcare (firm-stated, 2021)" },
-      { "label": "Self-reported performance", "value": "38.8% net IRR, late-stage strategy (firm claim, 2021, unaudited publicly)" },
-      { "label": "Fintech positions", "value": "Klarna, Revolut, Interactive Investor among portfolio names" },
-      { "label": "Recent moves (2025)", "value": "Led $275M d-Matrix round; 20M euro into Quantum Systems; Zuto exit to Bridgepoint majority" },
-      { "label": "SPAC history", "value": "GP Bullhound Acquisition I SE, first 2022 SPAC listing on Euronext Amsterdam (~$229M raised)" },
-      { "label": "Regulatory footprint", "value": "FCA-regulated UK; Luxembourg AIFM office for post-Brexit fund continuity" }
+      {
+        "label": "Track record (firm-stated)",
+        "value": "700+ transactions, $58B deal value since 1999"
+      },
+      {
+        "label": "Platform",
+        "value": "180+ people, 13 offices, Malaga AI/data hub"
+      },
+      {
+        "label": "Bullhound Capital AUM",
+        "value": "1B+ euros (firm-stated)"
+      },
+      {
+        "label": "Fund V",
+        "value": "300M euro hard-cap close (Oct 2021) vs 200M euro target; 90% Fund IV re-up"
+      },
+      {
+        "label": "Fund IV proof points",
+        "value": "Doubled value net of fees in 2.5 years; IPOs in Unity, Slack, Believe, Definitive Healthcare (firm-stated, 2021)"
+      },
+      {
+        "label": "Self-reported performance",
+        "value": "38.8% net IRR, late-stage strategy (firm claim, 2021, unaudited publicly)"
+      },
+      {
+        "label": "Fintech positions",
+        "value": "Klarna, Revolut, Interactive Investor among portfolio names"
+      },
+      {
+        "label": "Recent moves (2025)",
+        "value": "Led $275M d-Matrix round; 20M euro into Quantum Systems; Zuto exit to Bridgepoint majority"
+      },
+      {
+        "label": "SPAC history",
+        "value": "GP Bullhound Acquisition I SE, first 2022 SPAC listing on Euronext Amsterdam (~$229M raised)"
+      },
+      {
+        "label": "Regulatory footprint",
+        "value": "FCA-regulated UK; Luxembourg AIFM office for post-Brexit fund continuity"
+      }
     ],
     "evidence_note": "Sources used for this sample report: the firm's own website, press releases and fund pages (including the Bullhound Capital site), PitchBook and UK trade press on the Fund V close, the firm's 2025 investment announcements, LinkedIn for team composition, and KPMG Pulse of Fintech for market data. Flagged rather than smoothed: the 38.8% net IRR and fund-value-doubling claims are the firm's own marketing statements from 2021 and are not publicly audited; the founder roster appears as three names on the firm's site while some directories add a fourth; and no fund size after Fund V's 2021 close appears on the public record. Distinctive to this target: as a UK firm, GP Bullhound's entities file statutory accounts at Companies House, meaning actual revenue and profit figures are publicly obtainable in a way US private partnerships' are not. Those filings were not pulled for this sample; on a commissioned engagement they are the first stop, alongside the FCA register for permissions and FINRA BrokerCheck for any US broker-dealer entity."
   },
@@ -63,24 +93,50 @@
       "type": "bar",
       "title": "Fund V: target versus final close",
       "subtitle": "Closed oversubscribed at the 300M euro hard cap in Oct 2021 against a 200M euro initial target, with 90% of Fund IV LPs re-committing. No successor fund size has appeared on the public record since, which is itself a diligence flag.",
-      "unit": "$M",
+      "unit": "€M",
       "series": [
-        { "label": "Initial target (EUR M)", "value": 200 },
-        { "label": "Final close (EUR M)", "value": 300 }
+        {
+          "label": "Initial target",
+          "value": 200
+        },
+        {
+          "label": "Final close",
+          "value": 300
+        }
       ],
-      "emphasis": ["Final close (EUR M)"]
+      "emphasis": [
+        "Final close"
+      ]
     }
   },
   "market_overview": {
     "narrative": "GP Bullhound's revenue pools sit where European technology meets global capital, and both pools turned upward in 2025. EMEA fintech investment recovered to $29.2 billion from $26.5 billion a year earlier (KPMG), even as regional deal count fell to an eight-year low of 1,484, the same fewer-but-larger pattern visible globally. The geography of that capital maps almost exactly onto the firm's office network: the UK led Europe at $10.9 billion, the Nordics took $5.3 billion with Sweden alone at $4.8 billion, and the firm has had Stockholm and Manchester offices for over a decade. The Middle East crossed $1 billion for the first time in this cycle, a corridor where the firm's Marbella-to-Dubai-adjacent European base competes with US advisors for mandates. On the exit side, Europe's largest 2025 fintech transactions (BlackRock's $3.2 billion Preqin buyout, Advent's $2.5 billion Sapiens take-private) confirm strategic and sponsor appetite for exactly the mid-market technology assets the firm advises and holds. The strategic backdrop for the investment arm has shifted with the market: capital is rotating into AI infrastructure, defense and dual-use technology, and Bullhound Capital's 2025 deployments (d-Matrix, Quantum Systems) show the portfolio following that rotation beyond its software heritage.",
     "market_size_summary": "The firm monetizes two pools: European technology advisory fees and late-stage venture returns. Neither is published as a number. The TAM/SAM/SOM section constructs the advisory pool from KPMG deal values with stated assumptions and anchors the investment side on the firm's disclosed AUM.",
     "key_stats": [
-      { "label": "EMEA fintech investment 2025 (KPMG)", "value": "$29.2B, up from $26.5B" },
-      { "label": "UK fintech investment 2025 (KPMG)", "value": "$10.9B / 418 deals" },
-      { "label": "Nordics 2025 (KPMG)", "value": "$5.3B, Sweden $4.8B" },
-      { "label": "Middle East 2025 (KPMG)", "value": "$1.0B, up from $741M" },
-      { "label": "EMEA deal count 2025 (KPMG)", "value": "1,484, eight-year low" },
-      { "label": "Largest EU fintech deal 2025", "value": "BlackRock/Preqin, $3.2B" }
+      {
+        "label": "EMEA fintech investment 2025 (KPMG)",
+        "value": "$29.2B, up from $26.5B"
+      },
+      {
+        "label": "UK fintech investment 2025 (KPMG)",
+        "value": "$10.9B / 418 deals"
+      },
+      {
+        "label": "Nordics 2025 (KPMG)",
+        "value": "$5.3B, Sweden $4.8B"
+      },
+      {
+        "label": "Middle East 2025 (KPMG)",
+        "value": "$1.0B, up from $741M"
+      },
+      {
+        "label": "EMEA deal count 2025 (KPMG)",
+        "value": "1,484, eight-year low"
+      },
+      {
+        "label": "Largest EU fintech deal 2025",
+        "value": "BlackRock/Preqin, $3.2B"
+      }
     ],
     "regional_notes": "The firm's 13-office spread is its structural answer to Europe's fragmentation: no single European tech hub is deep enough to sustain a specialist bank, so GP Bullhound aggregates London, the Nordics, DACH, France and Iberia into one platform, then bridges to US buyers through San Francisco and New York. That map has two live edges in 2026: the Gulf, where fintech investment passed $1 billion and no European specialist advisor is yet entrenched, and the defense-and-dual-use corridor in DACH and the Nordics, where the investment arm has already moved.",
     "chart": {
@@ -89,14 +145,34 @@
       "subtitle": "KPMG Pulse of Fintech, data via PitchBook. The capital map mirrors GP Bullhound's office map: UK plus Nordics, the firm's two oldest strongholds, took over half the region's total.",
       "unit": "$B",
       "series": [
-        { "label": "United Kingdom", "value": 10.9 },
-        { "label": "Nordics", "value": 5.3 },
-        { "label": "Israel", "value": 2.7 },
-        { "label": "Middle East", "value": 1.0 },
-        { "label": "France", "value": 1.0 },
-        { "label": "Germany", "value": 0.97 }
+        {
+          "label": "United Kingdom",
+          "value": 10.9
+        },
+        {
+          "label": "Nordics",
+          "value": 5.3
+        },
+        {
+          "label": "Israel",
+          "value": 2.7
+        },
+        {
+          "label": "Middle East",
+          "value": 1.0
+        },
+        {
+          "label": "France",
+          "value": 1.0
+        },
+        {
+          "label": "Germany",
+          "value": 0.97
+        }
       ],
-      "emphasis": ["United Kingdom"]
+      "emphasis": [
+        "United Kingdom"
+      ]
     }
   },
   "tam_sam_som": {
@@ -146,38 +222,74 @@
       {
         "name": "FT Partners",
         "positioning": "The fintech-only global advisory benchmark, US-centered, covered separately in this workbench",
-        "strengths": ["Single-sector depth and dataset no tech-broad firm matches in fintech", "Premium fee power and inbound-only deal flow"],
-        "weaknesses": ["Fintech-only scope cedes the rest of GP Bullhound's tech mandate universe", "Thinner pan-European office density"]
+        "strengths": [
+          "Single-sector depth and dataset no tech-broad firm matches in fintech",
+          "Premium fee power and inbound-only deal flow"
+        ],
+        "weaknesses": [
+          "Fintech-only scope cedes the rest of GP Bullhound's tech mandate universe",
+          "Thinner pan-European office density"
+        ]
       },
       {
         "name": "Arma Partners",
         "positioning": "London-based digital economy advisory, the closest pure-advisory European rival",
-        "strengths": ["Elite European software and internet franchise", "Strong sponsor relationships on larger deals"],
-        "weaknesses": ["No comparable investing arm or fund-LP flywheel", "Narrower regional office spread"]
+        "strengths": [
+          "Elite European software and internet franchise",
+          "Strong sponsor relationships on larger deals"
+        ],
+        "weaknesses": [
+          "No comparable investing arm or fund-LP flywheel",
+          "Narrower regional office spread"
+        ]
       },
       {
         "name": "Raine Group",
         "positioning": "Merchant bank combining advisory and investing in TMT, the closest structural analog to the dual-engine model",
-        "strengths": ["Advisory-plus-principal model at larger scale", "Marquee media and tech relationships"],
-        "weaknesses": ["US and media-entertainment weighted", "Less presence in European mid-market tech"]
+        "strengths": [
+          "Advisory-plus-principal model at larger scale",
+          "Marquee media and tech relationships"
+        ],
+        "weaknesses": [
+          "US and media-entertainment weighted",
+          "Less presence in European mid-market tech"
+        ]
       },
       {
         "name": "Houlihan Lokey / William Blair tech groups",
         "positioning": "Mid-market volume machines with growing European tech coverage",
-        "strengths": ["Process volume and sponsor coverage at scale", "Full-service capability including debt advisory"],
-        "weaknesses": ["Generalist brands with less founder pull in European tech", "No principal investing identity"]
+        "strengths": [
+          "Process volume and sponsor coverage at scale",
+          "Full-service capability including debt advisory"
+        ],
+        "weaknesses": [
+          "Generalist brands with less founder pull in European tech",
+          "No principal investing identity"
+        ]
       },
       {
         "name": "Bulge-bracket European tech teams (Goldman Sachs, Morgan Stanley, J.P. Morgan)",
         "positioning": "Dominate the largest European tech deals and IPOs",
-        "strengths": ["Balance sheet, underwriting and global distribution", "Capture mandates above the boutique ceiling"],
-        "weaknesses": ["Uneconomic below roughly 500M euro deal sizes", "Founder-stage relationships largely absent"]
+        "strengths": [
+          "Balance sheet, underwriting and global distribution",
+          "Capture mandates above the boutique ceiling"
+        ],
+        "weaknesses": [
+          "Uneconomic below roughly 500M euro deal sizes",
+          "Founder-stage relationships largely absent"
+        ]
       },
       {
         "name": "Noah Advisors / Bryan Garnier / Clipperton",
         "positioning": "European tech boutiques contesting the same regional mid-market mandates",
-        "strengths": ["Local depth in specific European markets", "Competitive fee levels"],
-        "weaknesses": ["Sub-scale platforms against a 13-office network", "No fund franchise or comparable research brand"]
+        "strengths": [
+          "Local depth in specific European markets",
+          "Competitive fee levels"
+        ],
+        "weaknesses": [
+          "Sub-scale platforms against a 13-office network",
+          "No fund franchise or comparable research brand"
+        ]
       }
     ],
     "competitive_intensity_narrative": "European tech advisory is squeezed from above by bulge brackets descending in slow years and from beside by US specialists (FT Partners in fintech, others by sector) extending into Europe. GP Bullhound's defense is breadth-plus-duality: no rival combines a 13-office European network, a 25-year advisory brand and a 1B+ euro fund family that turns portfolio relationships into mandate flow. The same duality is the attack surface: pure advisors pitch conflict-free advice against a firm that may hold, or want to hold, positions in the ecosystem it advises. Which argument wins depends on the founder, and on how visibly the firm manages the conflicts."
@@ -186,25 +298,39 @@
     {
       "name": "European technology founders (advisory clients)",
       "description": "Founder-led companies from Series B through exit across the firm's hubs, with fintech, software and consumer subscription among named sector teams.",
-      "needs": ["A sell-side advisor with genuine access to US strategics and global sponsors", "Sector benchmarking and valuation intelligence", "Continuity from growth round to exit"],
+      "needs": [
+        "A sell-side advisor with genuine access to US strategics and global sponsors",
+        "Sector benchmarking and valuation intelligence",
+        "Continuity from growth round to exit"
+      ],
       "buying_behavior": "Relationship-led over long cycles, often beginning with research or events years before a mandate. The firm's investing arm can deepen the tie or complicate it, depending on how the founder reads the dual role."
     },
     {
       "name": "Fund LPs (Bullhound Capital)",
       "description": "Entrepreneurs, family offices and institutions across Europe and the US; the Fund V close cited tech founders themselves as a significant constituency.",
-      "needs": ["Access to late-stage European tech winners unavailable through generalist funds", "Co-investment opportunities", "Performance, evidenced to date by firm-stated Fund IV outcomes"],
+      "needs": [
+        "Access to late-stage European tech winners unavailable through generalist funds",
+        "Co-investment opportunities",
+        "Performance, evidenced to date by firm-stated Fund IV outcomes"
+      ],
       "buying_behavior": "High retention on the record: 90% of Fund IV LPs re-committed to Fund V and the raise was oversubscribed past target. The unknown is everything after 2021, where no successor close is public."
     },
     {
       "name": "Strategic acquirers and global sponsors (buy side of mandates)",
       "description": "The named counterparties across 700+ transactions: Apple, Google, Nvidia, Accenture, BlackRock, CVC, General Atlantic and peers who buy what the firm sells.",
-      "needs": ["Proprietary access to European founder-led assets", "Local diligence context across fragmented markets"],
+      "needs": [
+        "Proprietary access to European founder-led assets",
+        "Local diligence context across fragmented markets"
+      ],
       "buying_behavior": "Repeat counterparty dynamics: acquirers cultivate the boutiques that control European mid-market deal flow, which converts the firm's founder network into buy-side pull."
     },
     {
       "name": "GCC and cross-border capital (emerging segment)",
       "description": "Gulf sovereigns and regional investors entering European tech, and European founders seeking Gulf capital, a corridor where Middle East fintech investment passed $1 billion in 2025.",
-      "needs": ["A credible European specialist bridge into vetted deal flow", "Advisory support for regional champions raising internationally"],
+      "needs": [
+        "A credible European specialist bridge into vetted deal flow",
+        "Advisory support for regional champions raising internationally"
+      ],
       "buying_behavior": "Nascent and relationship-driven; the segment is contested by US advisors and no European boutique yet owns it, making it a growth option rather than a current revenue line."
     }
   ],
@@ -352,14 +478,38 @@
     }
   ],
   "key_questions": [
-    { "category": "Fund formation", "question": "Does a Fund VI exist, at what size and vintage, and how did the 2022-24 fundraising market treat the franchise? Luxembourg and UK registry filings would answer without firm cooperation." },
-    { "category": "Performance", "question": "What are audited net TVPI and DPI by fund today, and how did the 2021-era marks (the 38.8% IRR claim, the Fund IV doubling) survive the European tech reset?" },
-    { "category": "Financials", "question": "What do the Companies House statutory accounts show for advisory revenue, profitability and headcount cost across the last five filed years?" },
-    { "category": "Conflicts", "question": "How are advisory mandates screened against fund positions, what does the FCA permissions map look like across entities, and have any conflict matters been raised by clients or the regulator?" },
-    { "category": "Succession", "question": "What equity and governance structure sits beneath the three founding partners, and what binds the next partner generation to the platform?" },
-    { "category": "SPAC outcome", "question": "What happened to GP Bullhound Acquisition I SE: combination, extension or redemption, and at what cost to the sponsor?" },
-    { "category": "Strategy", "question": "What share of current deployment targets the new sectors (dual-use, quantum, space) versus the software core, and who underwrites them?" },
-    { "category": "GCC", "question": "What live mandate flow or LP relationships exist in the Gulf today, and is the corridor a strategy or an aspiration?" }
+    {
+      "category": "Fund formation",
+      "question": "Does a Fund VI exist, at what size and vintage, and how did the 2022-24 fundraising market treat the franchise? Luxembourg and UK registry filings would answer without firm cooperation."
+    },
+    {
+      "category": "Performance",
+      "question": "What are audited net TVPI and DPI by fund today, and how did the 2021-era marks (the 38.8% IRR claim, the Fund IV doubling) survive the European tech reset?"
+    },
+    {
+      "category": "Financials",
+      "question": "What do the Companies House statutory accounts show for advisory revenue, profitability and headcount cost across the last five filed years?"
+    },
+    {
+      "category": "Conflicts",
+      "question": "How are advisory mandates screened against fund positions, what does the FCA permissions map look like across entities, and have any conflict matters been raised by clients or the regulator?"
+    },
+    {
+      "category": "Succession",
+      "question": "What equity and governance structure sits beneath the three founding partners, and what binds the next partner generation to the platform?"
+    },
+    {
+      "category": "SPAC outcome",
+      "question": "What happened to GP Bullhound Acquisition I SE: combination, extension or redemption, and at what cost to the sponsor?"
+    },
+    {
+      "category": "Strategy",
+      "question": "What share of current deployment targets the new sectors (dual-use, quantum, space) versus the software core, and who underwrites them?"
+    },
+    {
+      "category": "GCC",
+      "question": "What live mandate flow or LP relationships exist in the Gulf today, and is the corridor a strategy or an aspiration?"
+    }
   ],
   "executive_summary": {
     "overview": "GP Bullhound is Europe's aggregation play in technology advisory: 27 years, 13 offices, a firm-stated 700 transactions and $58 billion of deal value, and a 1 billion euro fund family whose portfolio (Spotify, Klarna, Revolut, Slack, Unity) doubles as proof that the network reaches Europe's actual winners. The dual engine is the thesis and the tension. Advisory deal flow feeds the funds, portfolio relationships feed the mandates, and the same circularity that no pure-play rival can copy generates a conflict surface no pure-play rival must manage. The public record is strong exactly up to October 2021, when Fund V closed oversubscribed with 90% LP retention, and quiet after: no successor fund size, no updated performance disclosure through the European tech reset, and self-reported 2021 marks (38.8% net IRR) that have not been publicly tested since. Uniquely among this workbench's targets, the verification path is cheap: UK statutory accounts sit at Companies House with real revenue and profit in them.",

@@ -22,6 +22,8 @@ function formatValue(value: number, unit: string, signed: boolean): string {
   const sign = value < 0 ? "-" : signed && value > 0 ? "+" : "";
   if (unit === "$M") return `${sign}$${num}M`;
   if (unit === "$B") return `${sign}$${num}B`;
+  if (unit === "€M") return `${sign}€${num}M`;
+  if (unit === "€B") return `${sign}€${num}B`;
   if (unit === "%") return `${sign}${num}%`;
   return `${sign}${num}${unit}`;
 }

@@ -1,5 +1,4 @@
-// Replace with your real Calendly URL before deploying.
-const CALENDLY_URL = "https://calendly.com/REPLACE-ME/scoping-call";
+const CALENDLY_URL = "https://calendly.com/navn07588/30min";
 
 interface Tier {
   name: string;
