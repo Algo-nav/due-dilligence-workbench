@@ -12,3 +12,8 @@ __pycache__/
 .venv/
 venv/
 .artifacts/
+
+# Working artifacts — never commit
+*.patch
+*.zip
+.claude/
